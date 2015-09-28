@@ -1,0 +1,4 @@
+testing/1.tex
+testing/2.tex
+testing/3.tex
+testing/4.tex
