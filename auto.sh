@@ -1,5 +1,5 @@
 #!/bin/sh
-rm -f 4 results-db-index.tsv *.cache reranked_results.tsv
+rm -f results-db-index.tsv *.cache reranked_results.tsv
 rm -rf db-index
 
 # index

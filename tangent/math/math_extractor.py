@@ -83,7 +83,7 @@ class MathExtractor:
         return: Presentation MathML
         rtype:  string
         """
-        parsed_xml=BeautifulSoup(tree)
+        parsed_xml=BeautifulSoup(tree, "lxml")
 
 
         math_root=parsed_xml.find("math") # namespaces have been removed (FWT)

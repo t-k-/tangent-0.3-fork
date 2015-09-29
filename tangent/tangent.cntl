@@ -1,9 +1,9 @@
-cntl	tangent/tangent.cntl
-doc_list	testing/tk-testlist.txt
-chunk_size	5
 window	4
 file_skips	[0, 201, 416, 627, 882, 1106, 1301, 1557, 1874]
-database	test
+doc_list	testing/tk-ntcir-wiki-list.txt
+query_fileids	{8033}
 queries	testing/test_queries/tk-query.xml
-query_fileids	{20699}
+database	test
+chunk_size	5
+cntl	tangent/tangent.cntl
 index_fileids	{10732, 10733, 10735, 10737, 10739, 10741, 10743, 10744, 10746}

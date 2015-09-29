@@ -31,25 +31,9 @@ class MathDocument:
         self.file_skips = file_skips.strip("[]").replace(" ","").split(",")
 
     def find_doc_file(self,docid):
-        """
-        Find name of math document file
-
-        :param docid: file number to be found
-        :type  docid: int
-
-        :return filename
-        :rtype: string or None
-        """
-
-        (chunkid,offset) = divmod(docid, self.chunk_size)
-        if chunkid >= len(self.file_skips):
-            print("Cannot find document: doc_id %i too large" %docid)
-            return None
-        (devnull,mappings) = self.read_mapping_file(chunkid)
-        if offset >= len(mappings):
-            print("Cannot find document: doc_id %i too large" %docid)
-            return None
-        return mappings[offset]
+        with open(self.doc_list) as f:
+            filename = f.read().splitlines()[docid]
+        return filename
             
     @classmethod
     def read_doc_file(cls,filename):
@@ -114,15 +98,3 @@ class MathDocument:
                 return None
             mathml = maths[position]
         return(mathml)
-
-if __name__ == '__main__':
-
-    if sys.stdout.encoding != 'utf8':
-      sys.stdout = codecs.getwriter('utf8')(sys.stdout.buffer, 'strict')
-    if sys.stderr.encoding != 'utf8':
-      sys.stderr = codecs.getwriter('utf8')(sys.stderr.buffer, 'strict')
-
-    cntl = Control(argv[1]) # control file name (after indexing)
-    d = MathDocument(cntl)
-    print(d.find_mathml(int(argv[2]),int(argv[3])))  # doc_num and pos_num
-

@@ -1,9 +1,0 @@
-cntl	tangent/tangent.cntl
-file_skips	[0, 201, 416, 627, 882, 1106, 1301, 1557, 1874]
-window	4
-index_fileids	{10732, 10733, 10735, 10737, 10739, 10741, 10743, 10744, 10746}
-database	test
-query_fileids	{11094}
-doc_list	testing/testlist.txt
-chunk_size	5
-queries	testing/test_queries/ntcir-wikipedia_small.xml
