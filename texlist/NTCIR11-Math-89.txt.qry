@@ -1,0 +1,31 @@
+=sigma^{2}=X^{T}VX,
+{\displaystyle\sigma^{2}=X^{T}VX,}
+{\displaystyle\sigma^{2}=X^{T}VX}
+{\displaystyle B=X^{T}NX}
+{\displaystyle A=X^{T}CX}
+{\displaystyle\sigma_{z}^{2}={{\mathbf{z}}}^{T}{{\mathbf{V}}}{{\mathbf{z}}}}
+{\displaystyle L=X^{T}VX+2\lambda(\mu-X^{T}r)+2\eta(W-X^{T}1),}
+{\displaystyle M=X^{T}s}
+{\displaystyle S=X\,C_{n}\,X^{T}}
+{\displaystyle R^{{{\rm{T}}}}{\mathbf{z}}=X^{{{\rm{T}}}}{\mathbf{y}},}
+{\displaystyle\left(X^{{{\rm{T}}}}WX\right){\hat{{\boldsymbol{\beta}}}}=X^{{{%&#10;\rm{T}}}}W{\mathbf{y}}.}
+{\displaystyle q=W^{T}X^{T}s,}
+{\displaystyle\sigma=-c\epsilon,}
+{\displaystyle\sigma^{2}=6\,D\,t}
+{\displaystyle\sigma^{2}=rd\theta\,}
+{\displaystyle\sigma^{2}=1/\nu,}
+{\displaystyle B=\rho_{f}V_{{\text{disp}}}\,g,\,}
+{\displaystyle{\mathbf{R}}^{{\mathrm{T}}}{\mathbf{R}}={\mathbf{R}}{\mathbf{R}}%&#10;^{{\mathrm{T}}}={\mathbf{I}},}
+{\displaystyle Y=X_{2},X_{3},\ldots,X_{k}}
+{\displaystyle G=X^{T}X}
+{\displaystyle S=X^{T}X\,\!}
+{\displaystyle U=L^{T},\,}
+{\displaystyle\sigma^{2}=\lambda^{{-1}}}
+{\displaystyle\sigma^{2}=\left.2\mu\right.\,}
+{\displaystyle Y=X_{1}-X_{2}}
+{\displaystyle Y=X_{1}+X_{2}}
+{\displaystyle Y=X_{1}+X_{2}}
+{\displaystyle P=X^{2}-1,}
+{\displaystyle Y=C/X^{n},\,}
+{\displaystyle S_{1}=X_{1}+X_{2}}
+{\displaystyle\varepsilon_{i}=X_{i}-\mu,\,}

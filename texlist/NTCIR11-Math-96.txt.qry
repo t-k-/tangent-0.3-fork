@@ -1,0 +1,17 @@
+={boldsymbol{s}}
+{\displaystyle{\boldsymbol{s}}}
+{\displaystyle{\boldsymbol{s}}}
+{\displaystyle{\boldsymbol{s}}}
+{\displaystyle{\boldsymbol{s}}_{{{\boldsymbol{\Theta}}}}}
+{\displaystyle{\boldsymbol{s}}={\boldsymbol{s}}_{{{\boldsymbol{\Theta}}}}}
+{\displaystyle G(.,{\boldsymbol{s}})}
+{\displaystyle{\boldsymbol{v}}={\frac{{\text{d}}{\boldsymbol{s}}}{{\text{d}}t}}}
+{\displaystyle\Gamma(t)=\oint_{C}{\boldsymbol{u}}\cdot{\boldsymbol{ds}}}
+{\displaystyle{\mathcal{E}}=-\int_{{A}}^{{B}}{\boldsymbol{E_{{cs}}\cdot}}d{%&#10;\boldsymbol{\ell}}\ ,}
+{\displaystyle{\frac{{\mathrm{D}}{\boldsymbol{{\mathrm{d}}s}}}{{\mathrm{D}}t}}%&#10;=\left({\boldsymbol{{\mathrm{d}}s}}\cdot{\boldsymbol{\nabla}}\right){%&#10;\boldsymbol{u}}.}
+{\displaystyle\Gamma(t)=\oint_{C}({\boldsymbol{u}}+{\boldsymbol{\Omega}}\times%&#10;{\boldsymbol{r}})\cdot{\boldsymbol{ds}}}
+{\displaystyle{\boldsymbol{a}}={\frac{{\text{d}}{\boldsymbol{v}}}{{\text{d}}t}%&#10;}={\frac{{\text{d}}^{2}{\boldsymbol{s}}}{{\text{d}}t^{2}}}}
+{\displaystyle{\boldsymbol{j}}={\frac{{\text{d}}{\boldsymbol{a}}}{{\text{d}}t}%&#10;}={\frac{{\text{d}}^{2}{\boldsymbol{v}}}{{\text{d}}t^{2}}}={\frac{{\text{d}}^{%&#10;3}{\boldsymbol{s}}}{{\text{d}}t^{3}}}}
+{\displaystyle{\frac{{\mathrm{D}}\Gamma}{{\mathrm{D}}t}}=\oint_{C}{\frac{{%&#10;\mathrm{D}}{\boldsymbol{u}}}{{\mathrm{D}}t}}\cdot{\boldsymbol{{\mathrm{d}}s}}+%&#10;\oint_{C}{\boldsymbol{u}}\cdot{\frac{{\mathrm{D}}{\boldsymbol{{\mathrm{d}}s}}}%&#10;{{\mathrm{D}}t}}.}
+{\displaystyle\oint_{C}{\boldsymbol{u}}\cdot{\frac{{\mathrm{D}}{\boldsymbol{{%&#10;\mathrm{d}}s}}}{{\mathrm{D}}t}}=\oint_{C}{\boldsymbol{u}}\cdot\left[\left({%&#10;\boldsymbol{{\mathrm{d}}s}}\cdot{\boldsymbol{\nabla}}\right){\boldsymbol{u}}%&#10;\right]={\frac{1}{2}}\oint_{C}{\boldsymbol{\nabla}}\left(|{\boldsymbol{u}}|^{2%&#10;}\right)\cdot{\boldsymbol{{\mathrm{d}}s}}=0.}
+{\displaystyle{\begin{aligned}\displaystyle I_{1}&amp;\displaystyle={\text{Tr}}({%&#10;\boldsymbol{\sigma}})=\sigma_{1}+\sigma_{2}+\sigma_{3}\\&#10;\displaystyle J_{2}&amp;\displaystyle={\tfrac{1}{2}}{\boldsymbol{s}}:{\boldsymbol{%&#10;s}}={\tfrac{1}{6}}\left[(\sigma_{1}-\sigma_{2})^{2}+(\sigma_{2}-\sigma_{3})^{2%&#10;}+(\sigma_{3}-\sigma_{1})^{2}\right]\\&#10;\displaystyle J_{3}&amp;\displaystyle=\det({\boldsymbol{s}})={\tfrac{1}{3}}({%&#10;\boldsymbol{s}}\cdot{\boldsymbol{s}}):{\boldsymbol{s}}=s_{1}s_{2}s_{3}\end{%&#10;aligned}}}

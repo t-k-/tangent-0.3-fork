@@ -1,0 +1,31 @@
+=left{zin H:left|zight|&gt;1,,left|,{mbox{?{x0}}}(z),ight|&lt;{rac{1}{2}}ight}
+{\displaystyle\left\{z\in H:\left|z\right|&gt;1,\,\left|\,{\mbox{Re}}(z)\,\right|%&#10;&lt;{\frac{1}{2}}\right\}}
+{\displaystyle U=\left\{z\in H:\left|z\right|&gt;1,\,\left|\,{\mbox{Re}}(z)\,%&#10;\right|&lt;{\frac{1}{2}}\right\}}
+{\displaystyle R=\left\{z\in{\mathbf{H}}:\left|z\right|&gt;1,\,\left|\,{\mbox{Re}%&#10;}(z)\,\right|&lt;{\frac{1}{2}}\right\}}
+{\displaystyle U=\left\{z\in H:\left|z\right|&gt;1,\,\left|\,{\mbox{Re}}(z)\,%&#10;\right|&lt;{\tfrac{1}{2}}\right\}.}
+{\displaystyle U=\left\{z\in H:\left|z\right|&gt;1,\,\left|\,{\mbox{Re}}(z)\,%&#10;\right|&lt;{\frac{1}{2}}\right\}.}
+{\displaystyle\Omega(\Gamma)=\{\tau\in H:|\tau|&gt;1,|\tau+\overline{\tau}|&lt;1\}}
+{\displaystyle D_{r}(z_{0})=\{z\in{\mathbf{C}}:r&gt;0,|z-z_{0}|&lt;r\}}
+{\displaystyle(\{z\in{\mathbb{C}}:|z|\geq 1\})=\{z\in{\mathbb{C}}:|z|&gt;1\}.}
+{\displaystyle D=U\cup\left\{z\in H:\left|z\right|\geq 1,\,{\mbox{Re}}(z)={%&#10;\frac{-1}{2}}\right\}\cup\left\{z\in H:\left|z\right|=1,\,{\frac{-1}{2}}&lt;{%&#10;\mbox{Re}}(z)\leq 0\right\}.}
+{\displaystyle D=U\cup\left\{z\in H:\left|z\right|\geq 1,\,{\mbox{Re}}(z)=-{%&#10;\tfrac{1}{2}}\right\}\cup\left\{z\in H:\left|z\right|=1,\,{\mbox{Re}}(z)\leq 0%&#10;\right\}.}
+{\displaystyle e\in E,|e|&gt;1,}
+{\displaystyle{\mathbb{D}}=\{z\in{\mathbb{C}}:|z|&lt;1\}}
+{\displaystyle D=\{z\in{\mathbf{C}}:|z|&lt;1\}.}
+{\displaystyle{\mathbb{T}}=\{z\in{\mathbb{C}}:|z|=1\}.}
+{\displaystyle\{z\in D:|f_{j}(z)|&lt;1,1\leq j\leq N\}\,}
+{\displaystyle{\mathrm{F}}=\left\{\tau\in{\mathrm{H}}:\left|\operatorname{Re}%&#10;\tau\right|\leq{\frac{1}{2}},\left|\tau\right|\geq 1\right\}}
+{\displaystyle S^{{1}}:=\{e^{{i\theta}}:\theta\in[0,2\pi]\}=\{z\in{\mathbb{C}}%&#10;:|z|=1\}}
+{\displaystyle D_{x}=\{z\in{\mathbb{C}}:\left|z\right|\leq\|x\|\},}
+{\displaystyle|q(T_{w})(\Pi_{j}(x))|&lt;{\frac{1}{2}}}
+{\displaystyle{\tfrac{1}{2}}|z^{n}|&lt;|p(z)|&lt;{\tfrac{3}{2}}|z^{n}|}
+{\displaystyle\sigma_{j}=\{z\in D:|f_{j}(z)|=1\},1\leq j\leq N.}
+{\displaystyle\left\{z=(z_{1},z_{2},\dots,z_{n})\in{\mathbf{C}}^{n}\ :\ |z_{i}%&#10;|&lt;1,{\mbox{ for all }}i=1,\dots,n\right\}.}
+{\displaystyle\{(z,w)\in{\mathbf{C}}^{2};~{}|z|&lt;1,~{}|w|&lt;1\}}
+{\displaystyle\left\{\lambda\in{\mathbf{C}}:|{\mathrm{arg}}(\lambda-\omega)|&lt;{%&#10;\frac{\pi}{2}}+\delta\right\}}
+{\displaystyle|\mu(x)|&lt;{\frac{1}{x^{c}}}.}
+{\displaystyle|\Gamma(A)|&lt;{\frac{2^{{k}}}{e}},}
+{\displaystyle|\mu(x)|&lt;{\frac{1}{{\text{poly}}(x)}}.}
+{\displaystyle|f(x)-f(y)|&lt;{1\over n}}
+{\displaystyle\{z\in{\mathbb{C}}||\phi(z)|&gt;{\mathrm{e}}^{z}\}}
+{\displaystyle|t|&lt;{\frac{1}{2}}}

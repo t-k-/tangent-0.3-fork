@@ -1,0 +1,31 @@
+={rac{d}{dt}}log_{e}t={rac{qvar{x0}}{qvar{x1}}}.
+{\displaystyle{\frac{d}{dt}}\log_{e}t={\frac{1}{t}}.}
+{\displaystyle{\frac{d}{dx}}\log_{e}x={\frac{1}{x}}.}
+{\displaystyle\textstyle{\frac{d}{df}}\ln f={\frac{1}{f}}.}
+{\displaystyle{\frac{d}{dx}}\ln x={\frac{1}{x}}.}
+{\displaystyle{d\over dx}\log_{b}x={1\over x\ln b},}
+{\displaystyle{\frac{d}{dx}}\log_{a}(x)={\frac{1}{x\ln(a)}}.}
+{\displaystyle{\frac{d}{dx}}\log_{b}(x)={\frac{1}{x\ln(b)}}.}
+{\displaystyle{\frac{d}{dx}}\ln(x)={\frac{1}{x}}.\,}
+{\displaystyle{\frac{d}{dx}}\chi_{2}(x)={\frac{{{\rm{arctanh\,}}}x}{x}}.}
+{\displaystyle\ln W=\log_{e}W={\frac{{\mathrm{Log}}(W)}{\log e}}.}
+{\displaystyle{\frac{d}{{dx}}}\log\left(\kappa\right)={\frac{{\kappa^{\prime}}%&#10;}{\kappa}}}
+{\displaystyle{\frac{d}{dt}}q(t)=~{}~{}{\frac{\partial}{\partial p}}{\mathcal{%&#10;H}}}
+{\displaystyle t_{c}={\frac{a}{b}},\ x_{c}={\frac{A}{b}}.}
+{\displaystyle\delta t={T\over N}.}
+{\displaystyle\Delta t={\frac{2L}{c}}.}
+{\displaystyle\Delta t^{\prime}={\frac{2D}{c}}.}
+{\displaystyle\Delta t={\frac{0.441}{N\Delta\nu}}.}
+{\displaystyle tangent={\frac{P}{b}}.\,}
+{\displaystyle tangent={\frac{c}{L}}.\,}
+{\displaystyle\Delta t^{\prime}={\Delta t\over 1-u/c}.}
+{\displaystyle{dz\over dt}=iz,\ dt={dz\over iz}.}
+{\displaystyle\log_{i}(x)={{2\ln x}\over i\pi}.}
+{\displaystyle v={d\over t}.}
+{\displaystyle e={\frac{a}{d}}.}
+{\displaystyle r={\frac{d}{{\sqrt{3}}}}.}
+{\displaystyle a={\frac{bc}{d}}.}
+{\displaystyle P_{1}={\frac{l}{t}}.}
+{\displaystyle\mu_{e}={v\over E}.}
+{\displaystyle A={\frac{d^{2}}{2}}.}
+{\displaystyle t={\frac{h}{V_{{Y0}}}}.}

@@ -1,0 +1,31 @@
+={rac{D_{g}u_{qvar{x0}}}{Dt}}-f_{{0}}v_{a}-beta yv_{g}=0
+{\displaystyle{\frac{D_{g}u_{g}}{Dt}}-f_{{0}}v_{a}-\beta yv_{g}=0}
+{\displaystyle{\frac{D_{g}v_{g}}{Dt}}+f_{{0}}u_{a}+\beta yu_{g}=0}
+{\displaystyle{{D_{g}u_{g}\over Dt}-{f_{o}v_{a}}-{\beta yf_{o}v_{g}}=0}}
+{\displaystyle{{D_{g}v_{g}\over Dt}+{f_{o}u_{a}}+{\beta yf_{o}u_{g}}=0}}
+{\displaystyle\int_{{\Omega}}(\rho{\frac{du_{i}}{dt}}-\nabla_{j}\sigma_{i}^{j}%&#10;-f_{i})\,dV=0}
+{\displaystyle{{D_{g}\zeta_{g}\over Dt}=f_{o}({{\partial u_{a}\over\partial x}%&#10;+{\partial v_{a}\over\partial y}})-\beta v_{g}}}
+{\displaystyle{\frac{Du}{Dt}}-fv=-{\frac{\partial\phi}{\partial x}}}
+{\displaystyle{\frac{dv_{y}}{dt}}={\frac{-k}{m}}v_{y}-g}
+{\displaystyle{dQ_{{ing}}\over dt}=-K_{a}Q_{{ing}}}
+{\displaystyle{\frac{D_{g}T}{Dt}}-{\frac{\sigma p}{R}}\omega={\frac{J}{c_{p}}}}
+{\displaystyle mu_{2}-mu_{1}+mP_{2}v_{2}-mP_{1}v_{1}=0}
+{\displaystyle{D_{g}\overrightarrow{V_{g}}\over Dt}={-f_{o}{\hat{k}}\times%&#10;\overrightarrow{V_{a}}-\beta y{\hat{k}}\times\overrightarrow{V_{g}}}}
+{\displaystyle{D\zeta\over Dt}+\beta v=f_{0}{\partial w\over\partial z}}
+{\displaystyle{\frac{Du}{Dt}}=-{\frac{1}{\rho}}{\frac{\partial p}{\partial x}}%&#10;+fv+{\frac{1}{\rho}}{\frac{\partial\tau_{x}}{\partial z}}}
+{\displaystyle{\frac{d^{{2}}x}{dt^{{2}}}}+\omega_{{0}}^{{2}}x=0}
+{\displaystyle{\frac{d^{{2}}y}{dt^{{2}}}}+\omega_{{0}}^{{2}}y=0}
+{\displaystyle{\frac{d^{{2}}z}{dt^{{2}}}}+\omega_{{0}}^{{2}}z=0}
+{\displaystyle D{\frac{{\mathrm{D}}u_{y}}{{\mathrm{D}}t}}=-D{\frac{\partial p}%&#10;{\partial y}}+\nabla^{2}u_{y}}
+{\displaystyle{\frac{dV_{-}}{dt}}=0}
+{\displaystyle{\frac{dS_{j}}{dt}}=0}
+{\displaystyle{\frac{dr_{i}}{dt}}=0}
+{\displaystyle X_{f}=m{\frac{du_{f}}{dt}}}
+{\displaystyle l_{i}{\frac{du_{i}}{dt}}=0}
+{\displaystyle{\frac{dM_{z}(t)}{dt}}=0}
+{\displaystyle D{\frac{{\mathrm{D}}u_{z}}{{\mathrm{D}}t}}=1+\nabla^{2}u_{z}}
+{\displaystyle{{({{\partial\over\partial t}+{\overrightarrow{V_{g}}\cdot\nabla%&#10;}})q}={D_{g}q\over Dt}=0}}
+{\displaystyle D\left({\frac{{\mathrm{D}}u_{x}}{{\mathrm{D}}t}}+u_{z}^{2}%&#10;\right)=-D{\frac{\partial p}{\partial x}}+\nabla^{2}u_{x}}
+{\displaystyle{\frac{du}{dt}}=-{\frac{\nabla p}{\rho}}-\nabla\Phi=0}
+{\displaystyle{{D_{g}f\over Dt}=\overrightarrow{V_{g}}\cdot\nabla f=\beta v_{g%&#10;}}}
+{\displaystyle{Du\over Dt}=-{1\over\rho}{\partial P\over\partial x}+f\cdot v}

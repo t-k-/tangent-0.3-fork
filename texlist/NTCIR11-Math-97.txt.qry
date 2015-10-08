@@ -1,0 +1,31 @@
+={mathbf{J^{T}W Delta y}}
+{\displaystyle{\mathbf{J^{T}W\ \Delta y}}}
+{\displaystyle{\mathbf{\left(J^{T}WJ\right)\Delta{\boldsymbol{\beta}}=J^{T}W\ %&#10;\Delta y}}.}
+{\displaystyle{\mathbf{\left(J^{T}WJ\right){\boldsymbol{\Delta}}\beta=J^{T}W{%&#10;\boldsymbol{\Delta}}y}}.\,}
+{\displaystyle{\mathbf{J^{T}M^{{-1}}J\Delta{\boldsymbol{\beta}}=J^{T}M^{{-1}}%&#10;\Delta y}}.}
+{\displaystyle\lambda{\mathbf{I\gg{}J^{T}WJ}},\ {\mathbf{\Delta{\boldsymbol{%&#10;\beta}}}}\approx 1/\lambda{\mathbf{J^{T}W\ \Delta y}}.}
+{\displaystyle{\mathbf{\left(J^{T}J\right)\Delta{\boldsymbol{\beta}}=J^{T}%&#10;\Delta y}}.\,}
+{\displaystyle{\mathbf{\left(J^{T}J\right)\Delta{\boldsymbol{\beta}}=J^{T}\ %&#10;\Delta y}}.}
+{\displaystyle{\mathbf{R_{n}\ \Delta{\boldsymbol{\beta}}=\left(Q^{T}\ \Delta y%&#10;\right)_{n}}}.\,}
+{\displaystyle{\mathbf{\left(J^{T}WJ+\lambda I\right)\Delta{\boldsymbol{\beta}%&#10;}=\left(J^{T}W\right)\Delta y}}}
+{\displaystyle{\mathbf{X^{T}WX}}}
+{\displaystyle{\mathbf{s}}_{k}^{{{\mathrm{T}}}}{\mathbf{y}}_{k}}
+{\displaystyle{\mathrm{D}}^{i}f({\mathbf{y}})}
+{\displaystyle{\mathbf{\Sigma^{p}=(J^{T}WJ)^{{-1}}}}}
+{\displaystyle{\mathbf{\left(J^{T}WJ\right)\delta p=J^{T}Wr}}}
+{\displaystyle{{\mathbf{a}}}=\left({{{\mathbf{J}}}^{{{\mathbf{T}}}}{{\mathbf{J%&#10;}}}}\right)^{{-{{\mathbf{1}}}}}{{\mathbf{J}}}^{{{\mathbf{T}}}}{{\mathbf{y}}}}
+{\displaystyle{\mathbf{\left(J^{T}WJ\right)\Delta{\boldsymbol{\beta}}=\left(J^%&#10;{T}W\right)\Delta y}}}
+{\displaystyle{\mathbf{r=y^{{\text{obs}}}-J\left(J^{T}T\right)^{{-1}}J^{T}y^{{%&#10;\text{obs}}}}}}
+{\displaystyle{\boldsymbol{\beta}}=S{\mathbf{y}}}
+{\displaystyle A{\mathbf{x}}={\mathbf{y}}}
+{\displaystyle T{\mathbf{x}}={\mathbf{y}}}
+{\displaystyle{\mathbf{X}}{\boldsymbol{\beta}}={\mathbf{y}}}
+{\displaystyle{\mathbf{p^{{T}}}}}
+{\displaystyle\Delta{\mathbf{y}}}
+{\displaystyle{\mathbf{y^{{\prime\prime}}}}}
+{\displaystyle{\mathbf{T}}^{e}}
+{\displaystyle{{\mathbf{T}}}^{n}}
+{\displaystyle{\mathbf{J^{T}J}}}
+{\displaystyle{\mathbf{x_{i}^{T}}}}
+{\displaystyle{\mathbf{y}}_{i}^{{{\rm{T}}}}}
+{\displaystyle{\mathbf{TR{{\tilde{T}}}}}}

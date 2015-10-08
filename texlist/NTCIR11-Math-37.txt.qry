@@ -1,0 +1,31 @@
+=H(jomega)={mathcal{F}}{h(t)}
+{\displaystyle H(j\omega)={\mathcal{F}}\{h(t)\}}
+{\displaystyle X(f)={\mathcal{F}}\{x(t)\}}
+{\displaystyle F(s)={\mathcal{L}}\left\{f(t)\right\}}
+{\displaystyle X(f)={\mathrm{FFT}}\{x(t)\}}
+{\displaystyle X(s)={\mathcal{L}}\left\{x(t)\right\}}
+{\displaystyle Y(s)={\mathcal{L}}\left\{y(t)\right\}}
+{\displaystyle I(s)={\mathcal{L}}\{i(t)\},\,}
+{\displaystyle V(s)={\mathcal{L}}\{v(t)\},\,}
+{\displaystyle F(t)=E_{t}\left\{S(T)\right\}}
+{\displaystyle H(e^{{j\omega}})={\mathcal{F}}\{h[n]\}}
+{\displaystyle F(\omega)={\mathcal{F}}\{f(t)\}(\omega)}
+{\displaystyle g(t)={\mathcal{L}}^{{-1}}\{G(s)\}}
+{\displaystyle f(t)={\mathcal{L}}^{{-1}}\{F(s)\}}
+{\displaystyle\phi(\omega)\ {\stackrel{{\mathrm{def}}}{=}}\ \arg\left\{H(i%&#10;\omega)\right\}\ }
+{\displaystyle\Phi(\omega)=\arg(H(j\omega)).\!}
+{\displaystyle h(t)={\mathcal{L}}^{{-1}}\{H(s)\}.}
+{\displaystyle H(p,q)={\mathcal{F}}\left\{h(x,y)\right\}}
+{\displaystyle\scriptstyle h(t)\ {\stackrel{{\text{def}}}{=}}\ O_{t}\{\delta(u%&#10;);\ u\}.}
+{\displaystyle H_{{{\mathrm{ZOH}}}}(s)\,={\mathcal{L}}\{h_{{{\mathrm{ZOH}}}}(t%&#10;)\}\,={\frac{1-e^{{-sT}}}{sT}}\ }
+{\displaystyle H(s)={\mathcal{L}}\left\{h(t)\right\}\ {\stackrel{{\mathrm{def}%&#10;}}{=}}\ \int_{{-\infty}}^{{\infty}}h(t)e^{{-st}}\,dt}
+{\displaystyle H(s)\ {\stackrel{{\text{def}}}{=}}\ {\mathcal{L}}\{h(t)\}\ {%&#10;\stackrel{{\text{def}}}{=}}\ \int_{{-\infty}}^{\infty}h(t)e^{{-st}}\,%&#10;\operatorname{d}t}
+{\displaystyle F(\omega)={\mathcal{F}}\{f(t)\}={\frac{1}{{\sqrt{2\pi}}}}\int_{%&#10;{-\infty}}^{\infty}f(t)e^{{-i\omega t}}\,dt}
+{\displaystyle H_{{{\mathrm{ZOH}}}}(f)\,={\mathcal{F}}\{h_{{{\mathrm{ZOH}}}}(t%&#10;)\}\,={\frac{1-e^{{-i2\pi fT}}}{i2\pi fT}}=e^{{-i\pi fT}}{\mathrm{sinc}}(fT)\ }
+{\displaystyle E(\omega)={\mathcal{F}}(E(t))}
+{\displaystyle f(x)=g(h(x))}
+{\displaystyle y(t)=h(x(t))}
+{\displaystyle{\tilde{N}}(s)={\mathcal{L}}\{N(t)\}}
+{\displaystyle\left\{Y(t)\right\}=g(X(t))}
+{\displaystyle y_{2}(t)=H\left\{x_{2}(t)\right\}}
+{\displaystyle y_{1}(t)=H\left\{x_{1}(t)\right\}}

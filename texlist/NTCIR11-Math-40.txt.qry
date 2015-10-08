@@ -1,0 +1,31 @@
+= [A]_{t}=-kt+[A]_{0}
+{\displaystyle\ [A]_{t}=-kt+[A]_{0}}
+{\displaystyle\ \ln{[A]}=-kt+\ln{[A]_{0}}}
+{\displaystyle v(t)=-gt+v_{{0}}\,}
+{\displaystyle E[P^{{(k)}}]=-k\alpha}
+{\displaystyle ln[A]_{{f}}-ln[A]_{{i}}=-kdt-k(0)}
+{\displaystyle{\mathcal{S}}[x]=\int_{0}^{T}{\mathrm{d}}tL[x(t)]}
+{\displaystyle\ln N=-\lambda t+C\,}
+{\displaystyle y=-at+A_{y}.\,}
+{\displaystyle m{\ddot{x}}\ =-kx+F}
+{\displaystyle\ln{\begin{vmatrix}{\cfrac{K-P}{P}}\end{vmatrix}}=-kt-C}
+{\displaystyle{\frac{dL}{dt}}=-k_{1}L+L_{b}}
+{\displaystyle m{\ddot{x}}=-kx+-c{\dot{x}}.}
+{\displaystyle{\frac{dD}{dt}}=-k_{2}D+{\frac{S}{H}}}
+{\displaystyle S=-p_{{t}}t+p_{{\varphi}}\varphi+S_{{r}}(r)\,}
+{\displaystyle f(t)=akt^{{a-1}}+f_{0}\!}
+{\displaystyle\left[{\tilde{W}}\right]_{t}=\left[W\right]_{t}=t}
+{\displaystyle f(t)=-2t^{3}+3t^{2}}
+{\displaystyle x(t)=-16t^{2}+16t+32,\,\!}
+{\displaystyle\Delta(t)=-2t+5-2t^{{-1}},\,}
+{\displaystyle{\dot{x}}(t)=x^{\prime}(t)=-32t+16,\,\!}
+{\displaystyle[S_{0}]=[S]+[A_{{ad}}]+[B_{{ad}}]\,}
+{\displaystyle\ [A]_{e}=[A]_{0}-x={\frac{k_{{b}}}{k_{f}+k_{b}}}[A]_{0}}
+{\displaystyle[A]_{p}=A}
+{\displaystyle\ [A]_{t}=[A]_{0}-[B]_{t}}
+{\displaystyle{\frac{d[A]}{[A]}}=-kdt}
+{\displaystyle\ [A]_{e}=[A]_{0}-[B]_{e}}
+{\displaystyle{\frac{ln[A]_{{f}}}{ln[A]_{{i}}}}=-kt}
+{\displaystyle[A]_{t}={\frac{k_{b}+k_{f}e^{{-\left(k_{f}+k_{b}\right)t}}}{k_{f%&#10;}+k_{b}}}[A]_{0}}
+{\displaystyle k^{\prime}=k[B]_{0}}
+{\displaystyle\ [A]=[A]_{0}-kt}

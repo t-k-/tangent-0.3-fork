@@ -1,0 +1,31 @@
+=D(G,H)=sum_{{i=1}}^{{qvar{x0}}}|F_{i}(G)-F_{qvar{x1}}(H)|
+{\displaystyle D(G,H)=\sum_{{i=1}}^{{29}}|F_{i}(G)-F_{i}(H)|}
+{\displaystyle\rho_{{s}}({\mathbf{r}},t)=\sum_{{i=1}}^{{N}}|\phi_{{i}}({%&#10;\mathbf{r}},t)|^{{2}},}
+{\displaystyle F(b)-F(a)=\sum_{{i=1}}^{n}\,[F(x_{i})-F(x_{{i-1}})].\qquad(1)}
+{\displaystyle d_{p}(x,y)=\sum_{{i=1}}^{n}|x_{i}-y_{i}|^{p}}
+{\displaystyle E(G)=\sum_{{i=1}}^{n}|\lambda_{i}|.}
+{\displaystyle f(t,n)=\sum_{{i=0}}^{{n}}{{\binom{t}{i}}}}
+{\displaystyle F(b)-F(a)=\sum_{{i=1}}^{n}\,[f(c_{i})(\Delta x_{i})].\qquad(2)}
+{\displaystyle D(\alpha,\beta)=\sum_{{i=1}}\sum_{{j=1}}|X_{0}(i,j)-X_{1}(i+%&#10;\alpha,j+\beta)|}
+{\displaystyle D^{{j}}(G,H)={\frac{1}{{\sqrt{2}}}}(\sum_{{k=1}}^{{\infty}}[N_{%&#10;{G}}^{{j}}(k)-N_{{H}}^{{j}}(k)]^{{2}})^{{{\frac{1}{2}}}}}
+{\displaystyle{\mbox{cost}}(x,c)=\sum_{{i=1}}^{d}|x_{{i}}-c_{{i}}|}
+{\displaystyle C_{0}(\rho,q)=\sum_{{i=1}}^{{N_{{sd}}}}m_{i}}
+{\displaystyle D(a,s)=\sum_{{n=1}}^{\infty}a(n)n^{{-s}}\ }
+{\displaystyle\eta=\sum_{{i=1}}^{N}\left[\ln(1-p_{i})-\ln p_{i}\right]}
+{\displaystyle{{u}^{{*}}}\left(x,y\right)=\sum\limits_{{i=1}}^{N}\alpha_{i}%&#10;\phi\left(r_{i}\right)}
+{\displaystyle u^{*}\left(x,y\right)=\sum\limits_{{i=1}}^{N}\alpha_{i}\phi%&#10;\left(r_{i}\right)}
+{\displaystyle Q(s,a)=\sum\limits_{{i=1}}^{d}\theta_{i}\phi_{i}(s,a)}
+{\displaystyle G(x,y)=\sum_{{i=1}}^{n}{w_{i}f(x_{i},y_{i})}}
+{\displaystyle S(z,\zeta)=\sum_{{i=1}}^{\infty}\phi_{i}(z)\overline{\phi_{i}(%&#10;\zeta)}.}
+{\displaystyle(14)\quad\gamma(r,\theta)\,=\sum_{{i=1}}^{\infty}\sum_{{j=0}}^{%&#10;\infty}a_{i}a_{j}}
+{\displaystyle\displaystyle u(x,t)=\sum_{{i=1}}^{n}m_{i}(t)e^{{-|x-x_{i}(t)|}}}
+{\displaystyle u(x,t)=\sum_{{i=1}}^{n}m_{i}(t)\,e^{{-|x-x_{i}(t)|}},}
+{\displaystyle d({\mathbf{p}},{\mathbf{q}})=\sum_{{i=1}}^{n}{\frac{|p_{i}-q_{i%&#10;}|}{|p_{i}|+|q_{i}|}}}
+{\displaystyle d({\mathbf{p}},{\mathbf{q}})=\sum_{{i=1}}^{n}{\frac{|p_{i}-q_{i%&#10;}|}{|p_{i}|+|q_{i}|}},}
+{\displaystyle F(b)-F(a)=\sum_{{i=1}}^{n}\,[F^{\prime}(c_{i})(x_{i}-x_{{i-1}})%&#10;].}
+{\displaystyle X_{t}=\sum_{{i=1}}^{t}(x_{i}-\langle x_{i}\rangle)}
+{\displaystyle TV(x)=\sum_{{i=1}}^{\infty}|x_{{i+1}}-x_{i}|.}
+{\displaystyle|T_{N}|=\sum_{{i=1}}^{\infty}|T_{i}|\,1_{{\{N=i\}}}.}
+{\displaystyle|S_{N}|=\sum_{{i=1}}^{\infty}|S_{i}|\,1_{{\{N=i\}}}.}
+{\displaystyle\operatorname{E}[|T_{N}|]=\sum_{{i=1}}^{\infty}|T_{i}|%&#10;\operatorname{P}(N=i).}
+{\displaystyle d_{1}({\mathbf{p}},{\mathbf{q}})=\|{\mathbf{p}}-{\mathbf{q}}\|_%&#10;{1}=\sum_{{i=1}}^{n}|p_{i}-q_{i}|,}

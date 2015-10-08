@@ -1,0 +1,31 @@
+=sum_{{nin{qvar{x0}}^{d}}}|psi(t,n)|^{2}|n|leq C
+{\displaystyle\sum_{{n\in{\mathbb{Z}}^{d}}}|\psi(t,n)|^{2}|n|\leq C}
+{\displaystyle\sum_{{n\in{\mathbb{Z}}^{d}}}|\psi(t,n)|^{2}|n|\approx D{\sqrt{t%&#10;}}~{},}
+{\displaystyle\displaystyle{\int_{{\partial\Omega}}|K(z,w)|\,|dw|\leq C}}
+{\displaystyle\sum_{{j\in Z}}|{\hat{\psi}}(2^{j}\gamma)|^{2}=A}
+{\displaystyle|\psi(X,t)|^{2}}
+{\displaystyle|\psi({\mathbf{x}},t)|^{2}}
+{\displaystyle|\psi(x,t)|^{2}}
+{\displaystyle|\psi\left(x,y\right)|^{2}}
+{\displaystyle|\psi(q,t)|^{2}}
+{\displaystyle|X(t,\omega)|^{2}}
+{\displaystyle|a(\tau,\zeta)|^{2}}
+{\displaystyle|\psi({\mathbf{r}},t)|^{2}.}
+{\displaystyle|X_{w}(a,b)|^{2}}
+{\displaystyle|\psi({\mathbf{r}},t)|^{2}\to 0}
+{\displaystyle|\psi(x_{0},t)|^{2}\,dx}
+{\displaystyle\sum_{{n\in\mathbb{Z}}}\left|x[n]\right|^{p}&lt;\infty.}
+{\displaystyle{\mathbf{spectrogram}}(t,f)=\left|{\mathbf{STFT}}(t,f)\right|^{2}}
+{\displaystyle{\mathrm{spectrogram}}(t,\omega)=\left|{\mathrm{STFT}}(t,\omega)%&#10;\right|^{2}}
+{\displaystyle\rho({\mathbf{x}},t)=|\psi({\mathbf{x}},t)|^{2}}
+{\displaystyle\rho({\mathbf{x}},t)=|\psi({\mathbf{x}},t)|^{2}}
+{\displaystyle\rho(X,t)=|\psi(X,t)|^{2}}
+{\displaystyle\ P(x,t)=|\psi(x,t)|^{2}}
+{\displaystyle P(x,t)=|\psi(x,t)|^{2}}
+{\displaystyle{\frac{d}{dt}}|\Psi(x,t)|^{2}=0}
+{\displaystyle\int_{{\mathrm{all\,space}}}|\psi({\mathbf{r}},t)|^{2}d^{3}{%&#10;\mathbf{r}}=1}
+{\displaystyle|\psi(x,t_{1})|^{2}\neq|\psi(x,t_{0})|^{2}}
+{\displaystyle|\psi(x,t_{1})|^{2}=|\psi(x,t_{0})|^{2}\quad}
+{\displaystyle 2.\quad c\leq\sum_{{n}}\left|{\hat{\varphi}}(\omega+2\pi n)%&#10;\right|^{2}\leq C}
+{\displaystyle\int_{{{\mathbf{R}}^{n}}}|\psi_{0}({\mathbf{x}},t_{0})|^{2}\,{%&#10;\mathrm{d{\mathbf{x}}}}=a^{2}&lt;\infty}
+{\displaystyle\textstyle|f(s,x)|\leq C{\mathrm{e}}^{{\varepsilon x^{2}}}}
