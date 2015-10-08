@@ -1,0 +1,30 @@
+{\displaystyle\Delta W=\int_{{V_{1}}}^{{V_{2}}}p{\mathrm{d}}V\,\!}
+{\displaystyle\Delta{\mathbf{L}}=\int_{{t_{1}}}^{{t_{2}}}{\boldsymbol{\tau}}{%&#10;\mathrm{d}}t\,\!}
+{\displaystyle\Delta q=\int_{{T_{1}}}^{{T_{2}}}C_{{\mathrm{v}}}{\mathrm{d}}T}
+{\displaystyle{\mathbf{I}}=\Delta{\mathbf{p}}=\int_{{t_{1}}}^{{t_{2}}}{\mathbf%&#10;{F}}{\mathrm{d}}t\,\!}
+{\displaystyle{\mathbf{J}}=\int_{{t_{1}}}^{{t_{2}}}{\mathbf{F}}\,dt}
+{\displaystyle{\mathcal{S}}=\int_{{t_{1}}}^{{t_{2}}}L{\mathrm{d}}t\,\!}
+{\displaystyle{\text{(2)}}\qquad W=\int_{{V_{1}}}^{{V_{2}}}P\,dV}
+{\displaystyle W=\int_{{\theta_{1}}}^{{\theta_{2}}}\tau\ {\mathrm{d}}\theta,}
+{\displaystyle{\mathcal{S}}=\int_{{t_{1}}}^{{t_{2}}}L\,dt\,,}
+{\displaystyle{\mathcal{S}}=\int_{{t_{1}}}^{{t_{2}}}L\,{\mathrm{d}}t.}
+{\displaystyle\Delta W=\int_{{{\mathbf{r}}_{1}}}^{{{\mathbf{r}}_{2}}}{\mathbf{%&#10;F}}\cdot{\mathrm{d}}{\mathbf{r}}}
+{\displaystyle\Delta\tau=\int_{{t_{1}}}^{{t_{2}}}f(r)dt}
+{\displaystyle\Delta\rho=\int_{{r_{1}}}^{{r_{2}}}g(r)dr}
+{\displaystyle\Delta p=\int_{{t_{1}}}^{{t_{2}}}F(t)\,dt\,.}
+{\displaystyle W_{{1\to 2}}=\int_{{V_{1}}}^{{V_{2}}}P\,dV,\,\,{\text{negative,%&#10; work done on system}}}
+{\displaystyle W_{{3\to 4}}=\int_{{V_{3}}}^{{V_{4}}}P\,dV,\,\,{\text{positive,%&#10; work done on system}}}
+{\displaystyle W_{{2\to 3}}=\int_{{V_{2}}}^{{V_{3}}}P\,dV,\,\,{\text{zero work%&#10; if V2 equal V3}}}
+{\displaystyle W_{{4\to 1}}=\int_{{V_{4}}}^{{V_{1}}}P\,dV,\,\,{\text{zero work%&#10; if V4 equal V1}}}
+{\displaystyle\Delta W_{{stored}}=\int_{{\lambda_{1}}}^{{\lambda_{2}}}i(%&#10;\lambda)~{}d\lambda\;}
+{\displaystyle W=\int_{{V_{1}}}^{{V_{2}}}pdV=p_{1}V_{1}^{n}\int_{{V_{1}}}^{{V_%&#10;{2}}}V^{{-n}}dV}
+{\displaystyle\Delta W=\int_{{\theta_{1}}}^{{\theta_{2}}}\left|{\boldsymbol{%&#10;\tau}}\right|{\mathrm{d}}\theta}
+{\displaystyle W=\int_{{V_{i}}}^{{V_{f}}}\,P\,dV}
+{\displaystyle W=\int_{{V_{i}}}^{{V_{f}}}P\,dV.}
+{\displaystyle W=\int_{{t_{1}}}^{{t_{2}}}{\mathbf{T}}\cdot{\vec{\omega}}dt.}
+{\displaystyle W=\int_{{{\vec{x}}_{1}}}^{{{\vec{x}}_{2}}}{{\vec{F}}\cdot{{%&#10;\mathrm{d}}{\vec{x}}}}}
+{\displaystyle W=\int_{{t_{1}}}^{{t_{2}}}v(t)i(t)\,dt.}
+{\displaystyle W=\int_{{V_{1}}}^{{V_{2}}}P_{1}\left({\frac{V_{1}}{V}}\right)^{%&#10;\gamma}\,dV}
+{\displaystyle W=\int_{{t_{1}}}^{{t_{2}}}\tau{\dot{\phi}}dt=\tau(\phi_{2}-\phi%&#10;_{1}).}
+{\displaystyle W=-\int_{{V_{i}}}^{{V_{f}}}P\,dV}
+{\displaystyle W_{{A\to B}}=-\int_{{V_{A}}}^{{V_{B}}}p\,dV}

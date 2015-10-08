@@ -1,0 +1,30 @@
+{\displaystyle P_{x}=P-\{a\mid a\geq x\}}
+{\displaystyle K=\{\,z\mid z\geq 0\,\}}
+{\displaystyle{\mathbb{C}}^{\times}={\mathbb{C}}-\{0\}}
+{\displaystyle P_{r}=P_{i}-P_{d}\,}
+{\displaystyle P_{{\mathrm{net}}}=P_{{\mathrm{emit}}}-P_{{\mathrm{absorb}}}.\,}
+{\displaystyle P_{{min}}=P_{m}-H}
+{\displaystyle\{y\mid yWx\}}
+{\displaystyle P=\{n\mid n{\mbox{ is prime}}\}.}
+{\displaystyle QC_{x}=C_{x}=\{x\}}
+{\displaystyle P_{E}=P_{T}\,}
+{\displaystyle P_{a}=P_{r}}
+{\displaystyle P_{i}=P_{j}}
+{\displaystyle\textstyle P_{{X_{r}}}=P}
+{\displaystyle P_{{{\rm{abs}}}}=P_{{{\rm{emt\,bb}}}}}
+{\displaystyle\,P_{b}=P_{{bc}}}
+{\displaystyle P_{B}=P_{g}\Rightarrow}
+{\displaystyle\{x\mid x=x\}}
+{\displaystyle\{x\mid x\not\in x\}}
+{\displaystyle\{x\mid x\not\in x\}}
+{\displaystyle a\not\!\triangleleft S-\{a\}}
+{\displaystyle P_{V}^{2}=P_{V}.}
+{\displaystyle{\mathrm{M}}={\mathbb{R}}^{2}-\{0\}}
+{\displaystyle\Delta P=P_{m}-P_{e}}
+{\displaystyle P_{{{\text{ph}}}}=P_{{i}}-P_{{f}}}
+{\displaystyle\!P_{{{\text{pulse}}}}=P_{{{\text{sys}}}}-P_{{{\text{dias}}}}.}
+{\displaystyle P_{{max}}=P_{m}+H}
+{\displaystyle{\Delta P}=P_{{ATM}}-P_{A}}
+{\displaystyle K_{1}^{M}(F)=F-\{0\}}
+{\displaystyle[x]_{{({\mathrm{RED}}-\{a\})}}\neq[x]_{P}}
+{\displaystyle EIRP=P_{T}-L_{c}+G_{a}}

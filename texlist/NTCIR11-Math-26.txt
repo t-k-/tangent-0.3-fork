@@ -1,0 +1,30 @@
+{\displaystyle L\left(C\right)\leq L\left(T\right)}
+{\displaystyle f(T)\leq f(S)}
+{\displaystyle f(x)\leq_{T}f(y)}
+{\displaystyle S\subseteq T\Rightarrow v(S)\leq v(T)}
+{\displaystyle L_{{2^{\prime}}}(C_{X}(T))\leq L_{{2^{\prime}}}(X)}
+{\displaystyle L(gh)\leq L(g)+L(h)}
+{\displaystyle p\leq q\Rightarrow L_{p}(x)\leq L_{q}(x)}
+{\displaystyle L(u)&lt;L(v)}
+{\displaystyle L(A)=L(B)}
+{\displaystyle L(A)\subseteq L(B)}
+{\displaystyle L_{1}(x)\in L_{1}(B)}
+{\displaystyle L(A)\cap L(B)=\emptyset}
+{\displaystyle T:L^{p}(Y)\to L^{q}(X)}
+{\displaystyle H(p)\leq L(p)\leq nH(p)}
+{\displaystyle L^{\%}(M)\to L(M)}
+{\displaystyle\phi_{a}(T)\to\phi(T)}
+{\displaystyle X(T)\to X(T_{0})}
+{\displaystyle{{\mathbf{x}}}^{{\mathrm{T}}}(T)F{{\mathbf{x}}}(T)}
+{\displaystyle\displaystyle{T(t)=e_{t}(T)}}
+{\displaystyle L^{{\varphi}}(X)=L^{{p}}(X)}
+{\displaystyle L_{n}(R)\to L^{n}(R)}
+{\displaystyle L(t)=L(0)e^{{nt}}}
+{\displaystyle L(x)^{{-1}}=L(x^{{\lambda}})}
+{\displaystyle L^{1}(\mathbb{R})\cap L^{2}(\mathbb{R}).}
+{\displaystyle F:{\mathrm{L(A)}}^{N}\to{\mathrm{L(A)}}}
+{\displaystyle\Phi:L(H_{1})\rightarrow L(H_{2})}
+{\displaystyle\Psi:L(H_{B})\rightarrow L(H_{A})}
+{\displaystyle\sigma\in L(H_{A})\otimes L(H_{B})}
+{\displaystyle\Phi:L(H_{A})\rightarrow L(H_{B})}
+{\displaystyle L_{\rho}(\gamma)=L_{{\rho^{*}}}(\gamma^{*})}

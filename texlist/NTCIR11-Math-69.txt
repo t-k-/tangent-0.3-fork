@@ -1,0 +1,30 @@
+{\displaystyle\eta={\frac{work\ done}{heat\ absorbed}}={\frac{Q1-Q2}{Q1}}}
+{\displaystyle{\eta_{{stage}}}={\frac{Work~{}done~{}on~{}blade}{Energy~{}%&#10;supplied~{}per~{}stage}}={\frac{U\Delta V_{w}}{\Delta h}}}
+{\displaystyle{\eta_{b}}={\frac{Work~{}Done}{Kinetic~{}Energy~{}Supplied}}={%&#10;\frac{2UV_{w}}{V_{1}^{2}}}}
+{\displaystyle{\eta_{c}}={{useful\,heat\,received\,by\,the\,coolant}\over{%&#10;incident\,radiation\,on\,the\,collector}}={Qu\over Qc}}
+{\displaystyle{\eta_{0}}={{heat\,energy\,received\,by\,the\,receiver}\over{%&#10;incident\,radiation\,on\,the\,collector}}={Qr\over Qc}}
+{\displaystyle\eta_{p}={\frac{AcutalPower(P)}{IdealPower(P_{i})}}={\frac{F_{x}%&#10;C_{u}}{{\frac{1}{2}}\rho AC(C_{s}^{2}-C_{u}^{2})}}={\frac{C_{u}}{C}}={\frac{1}%&#10;{1+a}}}
+{\displaystyle{CR}={{aperture\,area\,of\,concentrator}\over{receiver\,surface%&#10;\,area}}={Ac\over Ar}}
+{\displaystyle Deflection={\frac{Force}{Stiffness}}={\frac{F_{{static}}}{2k}}}
+{\displaystyle elongatedness={\frac{length}{width}}={\frac{area}{(2d)^{2}}}}
+{\displaystyle Q={\frac{1}{tan\delta}}={\frac{f_{0}}{B}}\ }
+{\displaystyle Q={\frac{1}{tan\delta}}={\frac{f_{0}}{B}}\ }
+{\displaystyle p={\frac{A_{{1}}}{A_{{2}}}}={\frac{\pi 5^{2}}{\pi 1^{2}}}=25}
+{\displaystyle{\frac{force}{area}}={\mathrm{{\frac{N}{m^{2}}}}}}
+{\displaystyle a_{0}={\frac{4\pi\varepsilon_{0}\hbar^{2}}{m_{{{\mathrm{e}}}}e^%&#10;{2}}}={\frac{\hbar}{m_{{{\mathrm{e}}}}\,c\,\alpha}}}
+{\displaystyle COP_{{heating}}={\frac{Q_{{hot}}}{Q_{{hot}}-Q_{{cold}}}}}
+{\displaystyle{\mathrm{Ri}}={\frac{gh}{u^{2}}}={\frac{1}{{\mathrm{Fr}}^{2}}}}
+{\displaystyle r={w\over h}={\frac{\tan\left({H\over 2}\right)}{\tan\left({V%&#10;\over 2}\right)}}}
+{\displaystyle R_{c}={\frac{\Delta T}{{\dot{Q}}}}={\frac{\ln(r_{2}/r_{1})}{2%&#10;\pi k\ell}}}
+{\displaystyle D={\frac{var_{{obs}}}{var_{{bin}}}}={\frac{s^{2}}{np(1-p)}}}
+{\displaystyle\nu={\frac{2eV}{h}}={\frac{V}{\Phi_{0}}}}
+{\displaystyle\eta^{2}={\frac{\omega_{R}}{\omega_{z}}}={\frac{{\mathrm{change%&#10;\,in\,kinetic\,energy}}}{{\mathrm{quantized\,energy\,spacing\,of\,HO}}}}.}
+{\displaystyle Q_{{Corrected}}=Q_{{Measured}}*{\rho_{{In}}\over\rho_{{Out}}}\,\!}
+{\displaystyle Q_{{Corrected}}=Q_{{Measured}}*{\rho_{{Out}}\over\rho_{{In}}}\,\!}
+{\displaystyle COP_{{heating}}={\frac{|Q_{{H}}|}{W}}={\frac{|Q_{{C}}|+W}{W}}}
+{\displaystyle\nu={\frac{V}{m}}={\frac{1}{\rho}}}
+{\displaystyle\sin\theta={\frac{{\mathrm{opposite}}}{{\mathrm{hypotenuse}}}}={%&#10;\frac{a}{h}}}
+{\displaystyle\cos\theta={\frac{{\mathrm{adjacent}}}{{\mathrm{hypotenuse}}}}={%&#10;\frac{b}{h}}}
+{\displaystyle K_{{{\rm{J}}}}={\frac{\nu}{U}}={\frac{2e}{h}}\,}
+{\displaystyle{\rho_{{opt}}}={\frac{U}{V_{1}}}={\frac{\cos\alpha_{1}}{2}}}
+{\displaystyle U={\frac{1}{R}}={\frac{{\dot{Q}}_{A}}{\Delta T}}={\frac{k}{L}}}

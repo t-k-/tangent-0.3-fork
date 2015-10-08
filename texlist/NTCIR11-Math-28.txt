@@ -1,0 +1,30 @@
+{\displaystyle\sigma_{y}^{2}(\tau)={\frac{2\pi^{2}\tau}{3}}h_{{-2}}}
+{\displaystyle\sigma_{y}^{2}(\tau)={\frac{3f_{H}}{4\pi^{2}\tau^{2}}}h_{2}}
+{\displaystyle\sigma_{y}^{2}(\tau)={\frac{1}{2\tau}}h_{0}}
+{\displaystyle S_{x}(f)={\frac{1}{(2\pi)^{2}f^{4}}}h_{{-2}}}
+{\displaystyle S_{x}(f)={\frac{1}{(2\pi)^{2}f^{3}}}h_{{-1}}}
+{\displaystyle\sigma_{y}^{2}(\tau)={\frac{3[\gamma+\ln(2\pi f_{H}\tau)]-\ln 2}%&#10;{4\pi^{2}\tau^{2}}}h_{1}}
+{\displaystyle g(r)={\frac{4\pi}{3}}G\rho r.}
+{\displaystyle\omega_{{pl}}^{2}(q)={\frac{2\pi e^{2}nq}{\epsilon m}}}
+{\displaystyle V_{n}(R)={\frac{2\pi R^{2}}{n}}V_{{n-2}}(R).}
+{\displaystyle\sigma_{x}^{2}(\tau)={\frac{\tau^{2}}{3}}Mod.\sigma_{y}^{2}(\tau)}
+{\displaystyle\sigma_{y}^{2}(\tau)={\frac{1}{2}}\langle({\bar{y}}_{{i+1}}-{%&#10;\bar{y}}_{i})^{2}\rangle}
+{\displaystyle g_{2}(\tau)={2\pi^{4}\over 3}\left[\vartheta(0;\tau)^{8}+%&#10;\vartheta_{{01}}(0;\tau)^{8}+\vartheta_{{10}}(0;\tau)^{8}\right]}
+{\displaystyle S_{x}(f)={\frac{1}{(2\pi)^{2}}}h_{2}}
+{\displaystyle B_{\nu}(T)={\frac{2\nu^{2}kT}{c^{2}}}.}
+{\displaystyle V(r)={\frac{2\pi\hbar^{2}}{m}}b\,\delta(r)}
+{\displaystyle S_{x}(f)={\frac{1}{(2\pi)^{2}f^{2}}}h_{0}}
+{\displaystyle var(s^{2}-m)={\frac{2t^{2}}{n-1}}}
+{\displaystyle\sigma_{x}^{2}(\tau)={\frac{\tau^{2}}{3}}\operatorname{mod}%&#10;\sigma_{y}^{2}(n\tau_{0})}
+{\displaystyle\left({\frac{{\dot{a}}}{a}}\right)^{2}={\frac{8\pi G}{3}}\rho-{%&#10;\frac{kc^{2}}{a^{2}}}\,}
+{\displaystyle V(r)={\frac{2}{3}}\pi G\rho(r^{2}-3R^{2}),\qquad r\leq R,}
+{\displaystyle H^{2}=\left({\frac{{\dot{a}}}{a}}\right)^{2}={\frac{8\pi G}{3}}%&#10;\rho-{\frac{kc^{2}}{a^{2}}}}
+{\displaystyle\sigma_{y}^{2}(\tau)={\frac{2}{\nu_{0}^{2}}}\int_{0}^{{f_{b}}}S_%&#10;{\phi}(f){\frac{\sin^{4}(\pi\tau f)}{(\pi\tau)^{2}}}df}
+{\displaystyle\beta(\alpha)={\frac{2\alpha^{2}}{3\pi}}~{},}
+{\displaystyle S(q)={\frac{2\pi}{q^{4}}}.}
+{\displaystyle~{}k(\gamma)={\frac{2\pi}{T(\gamma)}}~{}}
+{\displaystyle{\frac{{\mathrm{d}}}{{\mathrm{d}}\alpha}}\,\varphi(\alpha)\,={%&#10;\frac{2\pi}{\alpha}}\,}
+{\displaystyle\sigma_{y}(\tau)={\frac{1}{{\sqrt{2\tau}}}}{\sqrt{h_{0}}}}
+{\displaystyle G={\frac{2\pi^{2}Lr^{2}}{MT^{2}}}\theta\,}
+{\displaystyle\Delta\left({\frac{1}{B}}\right)={\frac{2\pi e}{\hbar cS}}}
+{\displaystyle k_{{\text{fit}}}(\gamma)={\frac{2\pi}{T_{{\text{fit}}}(\gamma)}%&#10;}=}

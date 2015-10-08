@@ -1,0 +1,30 @@
+{\displaystyle 2\leq seqs\leq 6}
+{\displaystyle 2\leq seqs\leq 50}
+{\displaystyle 3\leq seqs\leq 60}
+{\displaystyle 0\leq Re\ s\leq 1}
+{\displaystyle Physics\leq bad}
+{\displaystyle Physics\leq medium}
+{\displaystyle R_{{sens}}}
+{\displaystyle release}
+{\displaystyle R_{{sensmax}}}
+{\displaystyle R_{{sensmin}}}
+{\displaystyle V_{{outsensmin}}}
+{\displaystyle V_{{outsensmax}}}
+{\displaystyle Q_{{sensible}}=mc\Delta T\,.}
+{\displaystyle 1\leq s\leq m}
+{\displaystyle 0\leq s\leq t}
+{\displaystyle 0\leq s\leq t}
+{\displaystyle 2\leq a\leq q-2.}
+{\displaystyle P\leq 6}
+{\displaystyle D\leq 6}
+{\displaystyle\scriptstyle 0\,\leq\,s\,\leq\,2\pi}
+{\displaystyle 0\leq x_{{4}}\leq 6}
+{\displaystyle 2^{n},n\leq 6}
+{\displaystyle 2^{k}\leq s(F)&lt;2^{{k+1}}}
+{\displaystyle P_{{seq}}=C_{{total}}*V_{0}^{{2}}*f}
+{\displaystyle||\Phi(t)P\Phi^{{-1}}(s)||\leq Ke^{{-\alpha(t-s)}}{\mbox{ for }}%&#10;s\leq t&lt;\infty}
+{\displaystyle L\leq s\leq K}
+{\displaystyle a\leq s\leq b}
+{\displaystyle 2^{p}\leq|X^{*}|=q^{2}-1&lt;q^{2}.}
+{\displaystyle qs=ps+rs\Rightarrow q=p+r.}
+{\displaystyle t\leq s}

@@ -1,0 +1,30 @@
+{\displaystyle\forall x\,\forall y\,P(x,y)\Leftrightarrow\forall y\,\forall x%&#10;\,P(x,y)}
+{\displaystyle\exists x\,\exists y\,P(x,y)\Leftrightarrow\exists y\,\exists x%&#10;\,P(x,y)}
+{\displaystyle\forall x\forall yf(x,y)\rightarrow\forall z(f(x,z)\rightarrow y%&#10;=z)}
+{\displaystyle T(x,y)=\lambda\delta(x-y)-K(x,y)}
+{\displaystyle xv(x,y)-yu(x,y)+w(x,y)}
+{\displaystyle(\forall x\forall y\,{\mathop{\leq}}({\mathop{+}}(x,y),z)\to%&#10;\forall x\,\forall y\,{\mathop{+}}(x,y)=0)}
+{\displaystyle\exists x\forall y\;\psi(x,y)}
+{\displaystyle\forall x\exists y\,\phi(x,y)}
+{\displaystyle\forall x\exists y\,\phi(x,y)}
+{\displaystyle\forall{\vec{y}}\,\exists x\,\!\,\varphi(x,{\vec{y}})}
+{\displaystyle\phi=\forall x\exists y\;\psi(x,y)}
+{\displaystyle\forall x\in a\exists y\,\phi(x,y)\rightarrow\exists b\forall x%&#10;\in a\exists y\in b\,\phi(x,y)}
+{\displaystyle\forall y\,P(x,y)}
+{\displaystyle\forall x\left(p(x,y)\right)\vdash p(x,y)}
+{\displaystyle\forall x(\exists yB(x,y))\vee C(y,x)}
+{\displaystyle Qxy\phi(x,y)}
+{\displaystyle h(x,y)=k+xh_{1}(x,y)+yh_{2}(x,y)}
+{\displaystyle f(q)=u(x,y)+r\ v(x,y)}
+{\displaystyle P(x,y)}
+{\displaystyle P(x,y)}
+{\displaystyle P(x,y)}
+{\displaystyle P(x,y)}
+{\displaystyle P(x,y)}
+{\displaystyle P(x,y)}
+{\displaystyle P(x,y)=0}
+{\displaystyle P(x,y)=0}
+{\displaystyle P(x,y)=0}
+{\displaystyle P(x_{0},y_{0})}
+{\displaystyle\left(x,y\right)\to U\left(x,y\right)}
+{\displaystyle f(x,y)=P(x,y)}

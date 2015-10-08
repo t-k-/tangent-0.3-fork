@@ -1,0 +1,30 @@
+{\displaystyle{\frac{\partial f}{\partial x}}=f_{x}=\partial_{x}f.}
+{\displaystyle{\frac{\partial^{2}f}{\partial x^{2}}}=f_{{xx}}=\partial_{{xx}}f.}
+{\displaystyle{\frac{\partial f}{\partial x}}=f_{x}=\partial_{x}f=\partial^{x}%&#10;f,}
+{\displaystyle{\frac{\partial f}{\partial\theta}}=f\,{\frac{\partial\log f}{%&#10;\partial\theta}}.}
+{\displaystyle{\frac{\partial^{2}f}{\partial y\,\partial x}}={\frac{\partial}{%&#10;\partial y}}\left({\frac{\partial f}{\partial x}}\right)=(f_{{x}})_{{y}}=f_{{%&#10;xy}}=\partial_{{yx}}f.}
+{\displaystyle\phi={\frac{\partial\psi}{\partial x}}=\partial_{x}\psi.\,}
+{\displaystyle{\frac{\partial V_{x}}{\partial x}}={\frac{\partial V_{x}}{%&#10;\partial z}}=0}
+{\displaystyle{\frac{{\mathrm{d}}f}{{\mathrm{d}}x}}=2x\neq{\frac{\partial f}{%&#10;\partial x}}=y=x}
+{\displaystyle f(x,y)={\partial f\over\partial x}={\partial f\over\partial y}=%&#10;0.}
+{\displaystyle{\frac{\partial{\mathbf{a}}}{\partial x}}=}
+{\displaystyle{\frac{\partial{\mathbf{AUB}}}{\partial x}}=}
+{\displaystyle{\frac{\partial{\mathbf{A}}{\mathbf{u}}}{\partial x}}=}
+{\displaystyle{\frac{\partial f}{\partial x}}=y}
+{\displaystyle{\partial p\over\partial x}=0}
+{\displaystyle{\frac{\partial z}{\partial x}}=3}
+{\displaystyle{\frac{\partial L}{\partial x}}=0}
+{\displaystyle\scriptstyle{\frac{\partial M}{\partial x}}=\,0}
+{\displaystyle{\frac{\partial u}{\partial x}}=0\,.}
+{\displaystyle{\frac{\partial{\mathbf{u}}^{{{\rm{T}}}}}{\partial x}}=}
+{\displaystyle{\frac{\partial f}{\partial\sigma}}=0}
+{\displaystyle{\frac{\partial f}{\partial y}}=\beta}
+{\displaystyle{\frac{\partial f}{\partial y}}=\beta}
+{\displaystyle\scriptstyle{\frac{\partial f}{\partial t}}\;=\;0}
+{\displaystyle{\frac{\partial a{\mathbf{u}}}{\partial x}}=}
+{\displaystyle{\frac{\partial a{\mathbf{U}}}{\partial x}}=}
+{\displaystyle{\frac{\partial g({\mathbf{u}})}{\partial x}}=}
+{\displaystyle{\frac{\partial\ln|{\mathbf{U}}|}{\partial x}}=}
+{\displaystyle{\frac{\partial g({\mathbf{U}})}{\partial x}}=}
+{\displaystyle{\frac{\partial{\mathbf{g(u)}}}{\partial x}}=}
+{\displaystyle{\dfrac{\partial f}{\partial{\bar{z}}}}=0}

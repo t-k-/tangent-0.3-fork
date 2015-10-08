@@ -1,0 +1,30 @@
+{\displaystyle R_{{s\ normal}}={\sqrt{{\frac{\omega\mu_{0}}{2\sigma}}}}}
+{\displaystyle V_{{normal}}=0}
+{\displaystyle U=U_{{thermal}}.\;}
+{\displaystyle\neg Abnormal(...)}
+{\displaystyle\max(normal)=1}
+{\displaystyle\min(normal)=0}
+{\displaystyle Normal(0,\sigma^{{2}}\delta)}
+{\displaystyle A_{{\gamma-norm}}}
+{\displaystyle\sigma_{k}={\sqrt{\lambda}}}
+{\displaystyle c_{n}={\sqrt{n}}}
+{\displaystyle H_{{norm}}}
+{\displaystyle c_{{{\mathrm{l}}}}={\sqrt{{\frac{Y}{\rho}}}}}
+{\displaystyle r_{{B}}={\sqrt{2}}{\mathit{l}}_{B}}
+{\displaystyle SNR_{{norm}}}
+{\displaystyle R_{{\mathrm{AB}}}={\sqrt{R_{{\mathrm{A}}}R_{{\mathrm{B}}}}}}
+{\displaystyle R_{{{\mathrm{g}}}}={\sqrt{{\frac{I}{A}}}},}
+{\displaystyle R_{{{\rm{eff}}}}={\sqrt{R_{1}R_{2}}},}
+{\displaystyle R_{i}={\sqrt{\left({\frac{A_{t}}{\pi N}}\right)}}}
+{\displaystyle R_{s}={\sqrt{\pi f\mu_{c}/\sigma_{c}}}}
+{\displaystyle R_{{g0}}={\sqrt{Nb^{2}/(6)}}}
+{\displaystyle R={\sqrt{Q}}}
+{\displaystyle x={\sqrt{t}}}
+{\displaystyle\scriptstyle{d={\sqrt{2}}}}
+{\displaystyle a={\sqrt{d}}}
+{\displaystyle a={\sqrt{\theta}}}
+{\displaystyle\gamma={\sqrt{2}}}
+{\displaystyle a={\sqrt{2}}}
+{\displaystyle a={\sqrt{2}}}
+{\displaystyle x={\sqrt{r}}}
+{\displaystyle x={\sqrt{a}}}

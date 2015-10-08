@@ -1,8 +1,8 @@
 {\displaystyle f_{c}(z)=z^{2}+c\,}
-{\displaystyle f_{c}(z)=z^{2}+c}
 {\displaystyle f_{c}(z)=z^{2}+c\,}
 {\displaystyle f_{c}(z)=z^{2}+c}
 {\displaystyle f_{c}(z)=z^{2}+c\,}
+{\displaystyle f_{c}(z)=z^{2}+c}
 {\displaystyle P_{c}(z)=z^{2}+c}
 {\displaystyle P_{c}(z)=z^{2}+c\,}
 {\displaystyle f_{c}(x)=x^{2}+c\,}
@@ -15,8 +15,8 @@
 {\displaystyle R(z)=z^{2}+c}
 {\displaystyle f_{n}(x)=x+n}
 {\displaystyle P_{2}(c)=c^{2}+c\,}
-{\displaystyle f_{1}(z)=z+d/c\quad}
 {\displaystyle f_{4}(z)=z+a/c\quad}
+{\displaystyle f_{1}(z)=z+d/c\quad}
 {\displaystyle f(z,w)=z^{2}+w^{3}}
 {\displaystyle f(x)=x^{2}+\sin(x+4)\ }
 {\displaystyle f_{0}(z)=z^{2}}
@@ -28,4 +28,3 @@
 {\displaystyle f(n)=n^{2}+n+41}
 {\displaystyle f(x)=x^{2}+2x+3}
 {\displaystyle f(z)=z+a_{2}z^{2}+\cdots.}
-{\displaystyle T(z)=z+c\int_{0}^{1}tdt.}

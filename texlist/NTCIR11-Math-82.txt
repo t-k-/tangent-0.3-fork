@@ -1,0 +1,30 @@
+{\displaystyle f_{{W}}:X\to[0,1]\,}
+{\displaystyle f_{{U}}:X\to[0,1]\,}
+{\displaystyle p_{K}:X\rightarrow[0,\infty)}
+{\displaystyle h_{i}:X\to\{-1,+1\}}
+{\displaystyle\phi:X\rightarrow\{0\}}
+{\displaystyle f:E\rightarrow\{1\}}
+{\displaystyle\phi:{\mathbb{R}}^{{2}}\rightarrow\{0\}}
+{\displaystyle\phi:{\mathbb{R}}^{4}\rightarrow\{0\}}
+{\displaystyle\omega\colon\pi\to\left\{\pm 1\right\}}
+{\displaystyle h:X\to[0,1]}
+{\displaystyle f:X\to(Y\to Z)}
+{\displaystyle b:X\to\{0,1\}}
+{\displaystyle j:X\to(X,A)}
+{\displaystyle\nu:X\to[0,1]}
+{\displaystyle\phi:{\mathbb{R}}^{{n+1}}\rightarrow\{0\}}
+{\displaystyle F:X\to[0,+\infty)}
+{\displaystyle G:X\to[0,+\infty)}
+{\displaystyle H:X\rightarrow\{l,\neg l\}}
+{\displaystyle H=\{h:U\to[m]\}}
+{\displaystyle H=\{h:U\to[m]\}}
+{\displaystyle h_{C}:X^{*}\to{\mathbb{R}}}
+{\displaystyle{\mathbf{1}}_{A}\colon X\to\{0,1\}\,}
+{\displaystyle{\mathbf{1}}_{A}:X\to\{0,1\}\,}
+{\displaystyle h:|{\mathcal{A}}|\rightarrow|{\mathcal{B}}|}
+{\displaystyle X\to\{1\}}
+{\displaystyle h:X\to Y\,}
+{\displaystyle\!h:X\to Y}
+{\displaystyle h:X^{\prime}\to{{\mathbb{F}}}}
+{\displaystyle C_{n}\to\{\pm 1\}}
+{\displaystyle g,h\colon X\to{\mathbb{R}}}

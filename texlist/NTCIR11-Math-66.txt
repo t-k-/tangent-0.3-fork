@@ -1,0 +1,30 @@
+{\displaystyle P_{i}={\mbox{head}}(E_{K}(S_{{i-1}}),x)\oplus C_{i}}
+{\displaystyle C_{i}={\mbox{head}}(E_{K}(S_{{i-1}}),x)\oplus P_{i}}
+{\displaystyle Y_{k}(S_{{x-1}})}
+{\displaystyle M_{i}=R_{{K_{i}}}(M_{{i-1}})}
+{\displaystyle[f(\theta_{{i-1}}),f(\theta_{i})]}
+{\displaystyle P_{i}=E_{K}(C_{{i-1}})\oplus C_{i}}
+{\displaystyle C_{i}=E_{K}(C_{{i-1}})\oplus P_{i}}
+{\displaystyle C_{i}=E_{K}(C_{{i-1}}\oplus P_{i})}
+{\displaystyle H_{i}=E_{{m_{i}}}{(H_{{i-1}})}\oplus{H_{{i-1}}}.}
+{\displaystyle M_{i}=R_{{K_{i}}}(M_{{i-1}})\;;\;i=1\dots r}
+{\displaystyle I_{S}[f]={\frac{1}{n}}\displaystyle\sum_{{i=1}}^{n}V(f({\vec{x}%&#10;}_{i}),y_{i})}
+{\displaystyle(s_{i}(t_{i}),t_{i})\in C_{i}}
+{\displaystyle{\mathbf{r}}={\mathbf{r}}({\mathbf{q}}(t),t)}
+{\displaystyle g(S)=\min(f(S),c)}
+{\displaystyle E(t)=g(e(t),c^{*})\,}
+{\displaystyle T^{\prime}(f(s),x)=T(s,x)}
+{\displaystyle V(S,t)=v(x(S),\tau(t))}
+{\displaystyle P_{i}=D_{K}(C_{i})\oplus C_{{i-1}},C_{0}=IV.}
+{\displaystyle\gcd(f(x),a(x)-1)=\prod_{{i\in C}}p_{i}(x).}
+{\displaystyle{\mathbb{C}}[S_{{n-1}}]}
+{\displaystyle({\mathcal{P}}(S),d_{0})}
+{\displaystyle(E(z),F(z))\,}
+{\displaystyle v(x(S),\tau(t))}
+{\displaystyle P_{i}(x)=\phi(P_{{i-1}},x)}
+{\displaystyle H_{i}=E_{{g(H_{{i-1}})}}(m_{i})\oplus m_{i}.}
+{\displaystyle C_{i}=E_{K}(P_{i}\oplus C_{{i-1}}),C_{0}=IV}
+{\displaystyle Q_{i}^{{j+1}}=\left(1-C\right)Q_{i}^{j}+C\left(Q_{{i-1}}^{j}%&#10;\right)}
+{\displaystyle H_{i}=E_{{g(H_{{i-1}})}}(m_{i})\oplus H_{{i-1}}\oplus m_{i}.}
+{\displaystyle C_{i}=E_{K}(P_{i}\oplus P_{{i-1}}\oplus C_{{i-1}}),P_{0}\oplus C%&#10;_{0}=IV}
+{\displaystyle F_{t}=E_{t}(S_{{t+1}})+P_{t}}

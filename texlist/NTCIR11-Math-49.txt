@@ -1,0 +1,30 @@
+{\displaystyle\mu(A)={\begin{cases}1&amp;{\mbox{ if }}0\in A\\&#10;0&amp;{\mbox{ if }}0\notin A.\end{cases}}}
+{\displaystyle\chi_{A}(x)={\begin{cases}1&amp;{\mbox{if }}x\in A,\\&#10;0&amp;{\mbox{if }}x\notin A.\\&#10;\end{cases}}}
+{\displaystyle\delta_{{s_{i}}}(X)={\begin{cases}1&amp;{\mbox{ if }}s_{i}\in X\\&#10;0&amp;{\mbox{ if }}s_{i}\not\in X\\&#10;\end{cases}}}
+{\displaystyle g(x)={\begin{cases}0&amp;{\text{if }}0\leq x&lt;1-\alpha\\&#10;1&amp;{\text{if }}1-\alpha\leq x\leq 1\end{cases}}.}
+{\displaystyle g(x)={\begin{cases}0&amp;{\text{if }}0\leq x&lt;1-\alpha\\&#10;1&amp;{\text{if }}1-\alpha\leq x\leq 1\end{cases}}.}
+{\displaystyle F(x)={\begin{cases}1,&amp;{\mbox{if }}x\in S\\&#10;0,&amp;{\mbox{if }}x\not\in S\end{cases}}}
+{\displaystyle{\mathbf{1}}_{A}(x)={\begin{cases}1&amp;{\text{if }}x\in A,\\&#10;0&amp;{\text{if }}x\notin A.\end{cases}}}
+{\displaystyle\{x\}+\{-x\}={\begin{cases}0&amp;{\mbox{ if }}x\in{\mathbb{Z}}\\&#10;1&amp;{\mbox{ if }}x\not\in{\mathbb{Z}}.\end{cases}}}
+{\displaystyle\lceil x\rceil+\lceil-x\rceil={\begin{cases}0&amp;{\mbox{ if }}x\in{%&#10;\mathbb{Z}}\\&#10;1&amp;{\mbox{ if }}x\not\in{\mathbb{Z}}.\end{cases}}}
+{\displaystyle\phi(x)={\begin{cases}1&amp;{\text{if }}x&gt;x_{0}\\&#10;0&amp;{\text{if }}x&lt;x_{0}\end{cases}}}
+{\displaystyle{\mathbf{1}}_{A}(\omega)={\begin{cases}1&amp;{\text{if }}\omega\in A%&#10;,\\&#10;0&amp;{\text{if }}\omega\notin A,\end{cases}}}
+{\displaystyle\delta(a,b)={\begin{cases}1&amp;{\text{if }}a=b\\&#10;0&amp;{\text{if }}a&lt;b.\end{cases}}}
+{\displaystyle m(A)={\begin{cases}1&amp;{\text{if }}A\in F\\&#10;0&amp;{\text{if }}S\setminus A\in F\\&#10;{\text{undefined}}&amp;{\text{otherwise}}\end{cases}}}
+{\displaystyle\delta_{x}(U)={\begin{cases}0&amp;{\mbox{if}}~{}x\notin U\\&#10;1&amp;{\mbox{if}}~{}x\in U\end{cases}}\quad\forall U\in{\mathcal{T}}}
+{\displaystyle f(k;k_{0})=\left\{{\begin{matrix}1,&amp;{\mbox{if }}k=k_{0}\\&#10;0,&amp;{\mbox{if }}k\neq k_{0}\end{matrix}}\right.}
+{\displaystyle F(k;k_{0})=\left\{{\begin{matrix}1,&amp;{\mbox{if }}k\geq k_{0}\\&#10;0,&amp;{\mbox{if }}k&lt;k_{0}\end{matrix}}\right.}
+{\displaystyle e_{b}(b^{\prime})={\begin{cases}1&amp;{\text{if }}b=b^{\prime}\\&#10;0&amp;{\text{otherwise.}}\end{cases}}}
+{\displaystyle f(x)={\begin{cases}1&amp;{\text{if }}w\cdot x+b&gt;0\\&#10;0&amp;{\text{otherwise}}\end{cases}}}
+{\displaystyle N_{i}^{0}(x)=\left\{{\begin{matrix}1,&amp;{\mbox{if }}x\in[u_{{i}},%&#10;u_{{i+1}})\\&#10;0,&amp;{\mbox{otherwise }}\end{matrix}}\right.}
+{\displaystyle\Pi(t)\ {\stackrel{{\text{def}}}{=}}\ {\begin{cases}1&amp;{\text{if %&#10;}}|t|&lt;{\frac{1}{2}},\\&#10;0&amp;{\text{if }}|t|&gt;{\frac{1}{2}}.\end{cases}}}
+{\displaystyle f(x)=\left\{{\begin{matrix}0&amp;{\mbox{if}}\ x\in S\\&#10;{\mbox{undefined/does not halt}}&amp;{\mbox{if}}\ x\notin S\end{matrix}}\right.}
+{\displaystyle{\mathbf{1}}_{A}(x):={\begin{cases}1&amp;{\text{if }}x\in A,\\&#10;0&amp;{\text{if }}x\notin A.\end{cases}}}
+{\displaystyle\delta_{{x_{0}}}(A)={\begin{cases}1&amp;{\rm{{if\ }x_{0}\in A}}\\&#10;0&amp;{\rm{{if\ }x_{0}\notin A}}\end{cases}}}
+{\displaystyle\lceil x\rceil-\lfloor x\rfloor={\begin{cases}0&amp;{\mbox{ if }}x%&#10;\in{\mathbb{Z}}\\&#10;1&amp;{\mbox{ if }}x\not\in{\mathbb{Z}}\end{cases}}}
+{\displaystyle f(x)=\left\{{\begin{matrix}1&amp;{\mbox{if }}x&gt;0\\&#10;0&amp;{\mbox{otherwise}}\end{matrix}}\right.}
+{\displaystyle X(t)={\begin{cases}1,&amp;{\mbox{sys functions at time }}t\\&#10;0,&amp;{\mbox{otherwise}}\end{cases}}}
+{\displaystyle f(x)={\begin{cases}1,&amp;{\text{if }}x{\text{ is rational}}\\&#10;0,&amp;{\text{if }}x{\text{ is irrational}}\end{cases}}}
+{\displaystyle H(x)={\begin{cases}1&amp;{\text{if }}x\geq 0\\&#10;0&amp;{\text{if }}x&lt;0.\end{cases}}}
+{\displaystyle D(t)={\begin{cases}1/m&amp;{\text{if }}|t|\leq 1\\&#10;0&amp;{\text{otherwise}}\end{cases}}}
+{\displaystyle\sum_{{d|n}}\lambda(d)={\begin{cases}1&amp;{\text{if }}n{\text{ is a%&#10; perfect square,}}\\&#10;0&amp;{\text{otherwise.}}\end{cases}}}

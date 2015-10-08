@@ -1,0 +1,30 @@
+{\displaystyle\scriptstyle{\frac{c}{a}}}
+{\displaystyle{\frac{c}{a}}}
+{\displaystyle{\tfrac{355}{113}}}
+{\displaystyle{\frac{355}{113}}}
+{\displaystyle{\tfrac{355}{113}}}
+{\displaystyle{\tfrac{355}{113}}}
+{\displaystyle{\tfrac{355}{113}}}
+{\displaystyle{\tfrac{355}{113}}}
+{\displaystyle{\tfrac{355}{113}}}
+{\displaystyle{81\over 80}}
+{\displaystyle{\tfrac{1}{6}}\,}
+{\displaystyle{\tfrac{1}{6}}}
+{\displaystyle{\frac{1}{6}}}
+{\displaystyle{\frac{1}{6}}}
+{\displaystyle\textstyle{\frac{1}{6}}}
+{\displaystyle\textstyle{\frac{1}{6}}}
+{\displaystyle{1\over 6}}
+{\displaystyle{\frac{1}{6}}}
+{\displaystyle{\pi\over 5}}
+{\displaystyle{\tfrac{\pi}{5}}}
+{\displaystyle{\pi\over 5}}
+{\displaystyle{\tfrac{\pi}{5}}}
+{\displaystyle{\tfrac{\pi}{5}}}
+{\displaystyle{\mathbf{{\tfrac{n}{m}}}}}
+{\displaystyle{\tfrac{p}{q}}\;}
+{\displaystyle\scriptstyle{\frac{p}{q}}}
+{\displaystyle{\frac{p}{q}}}
+{\displaystyle{\frac{p}{q}}}
+{\displaystyle\textstyle{\frac{p}{q}}}
+{\displaystyle{\frac{p}{q}}}

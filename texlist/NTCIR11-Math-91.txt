@@ -1,0 +1,30 @@
+{\displaystyle\{x,p_{x}\}_{{DB}}=\{y,p_{y}\}_{{DB}}={\frac{1}{2}}}
+{\displaystyle[{\hat{x}},{\hat{p}}_{x}]=[{\hat{y}},{\hat{p}}_{y}]=i{\frac{%&#10;\hbar}{2}}}
+{\displaystyle\{O_{n},f\}=\{E_{n},f\}=0}
+{\displaystyle\{f,g\}_{{DB}}=\{f,g\}_{{PB}}+{\frac{c\epsilon_{{ab}}}{qB}}\{f,%&#10;\phi_{a}\}_{{PB}}\{\phi_{b},g\}_{{PB}}.}
+{\displaystyle\{x_{i},x_{j}\}=\{y_{i},y_{j}\}=\{x_{i},y_{j}\}=0}
+{\displaystyle D(x,y)={\frac{1}{2}}}
+{\displaystyle I_{x}(\alpha,\beta)={\tfrac{1}{2}}}
+{\displaystyle{\hbox{DSSIM}}(x,y)={\frac{1-{\hbox{SSIM}}(x,y)}{2}}}
+{\displaystyle[AB_{{\mathrm{r}}}]^{{\ddagger}}=[AB_{{\mathrm{l}}}]^{{\ddagger}%&#10;}={\frac{1}{2}}[AB]^{{\ddagger}}}
+{\displaystyle\left\{Q,\overline{S}\right\}=\left\{\overline{Q},S\right\}=0}
+{\displaystyle\{p_{i},p_{j}\}=\{q_{i},q_{j}\}=0}
+{\displaystyle(x,\ x)_{K}=\{\{x\},\{x,\ x\}\}=\{\{x\},\ \{x\}\}=\{\{x\}\}}
+{\displaystyle{\dot{x}}=\{x,H\}_{{PB}}+u_{1}\{x,\phi_{1}\}_{{PB}}+u_{2}\{x,%&#10;\phi_{2}\}=-{\frac{c}{qB}}{\frac{\partial V}{\partial y}}}
+{\displaystyle H=\{Q_{1},Q_{1}\}=\{Q_{2},Q_{2}\}={\frac{p^{2}}{2}}+{\frac{W^{2%&#10;}}{2}}+{\frac{W^{\prime}}{2}}(bb^{\dagger}-b^{\dagger}b)}
+{\displaystyle\{a,b\}=\{b,a\}}
+{\displaystyle\{x,y\}_{{DB}}=-{\tfrac{c}{qB}}}
+{\displaystyle\{x_{i},p_{j}\}_{{DB}}=\delta_{{ij}}-x_{i}x_{j},}
+{\displaystyle\{\phi_{1},\phi_{2}\}_{{PB}}=-\{\phi_{2},\phi_{1}\}_{{PB}}={%&#10;\frac{qB}{c}},}
+{\displaystyle\lim_{{x\to 0}}f(x)={\frac{\varphi(0)}{2}}={\frac{1}{2{\sqrt{2%&#10;\pi}}}}}
+{\displaystyle\{a_{i}^{\dagger},a_{j}^{\dagger}\}=\{a_{i},a_{j}\}=0.}
+{\displaystyle|t|={\frac{1}{2}}}
+{\displaystyle\Re(s)={\tfrac{1}{2}}}
+{\displaystyle\{x_{i},x_{j}\}_{{DB}}=0,}
+{\displaystyle X_{C}={\frac{1}{\omega C}}={\frac{1}{2\pi fC}}}
+{\displaystyle v_{g}={\frac{d{\omega}}{dk}}={\frac{1}{2}}v_{p}.}
+{\displaystyle\{p_{x},p_{y}\}_{{DB}}=-{\tfrac{qB}{4c}}.}
+{\displaystyle\{{\mathbf{e}}_{1},{\mathbf{e}}_{2}\}=\left\{{\begin{pmatrix}1\\&#10;0\end{pmatrix}},{\begin{pmatrix}0\\&#10;1\end{pmatrix}}\right\}}
+{\displaystyle\{x,p\}=1\,.}
+{\displaystyle\{Q,Q\}=\{Q^{\dagger},Q^{\dagger}\}=0}
+{\displaystyle\left\{Q,Q\right\}=\left\{\overline{Q},\overline{Q}\right\}=0}

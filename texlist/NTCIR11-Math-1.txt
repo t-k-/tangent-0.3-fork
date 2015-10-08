@@ -1,0 +1,30 @@
+{\displaystyle W(2,k)&gt;2^{k}/k^{\varepsilon}}
+{\displaystyle{\mathrm{dist}}(y,L_{1}(B))&gt;2/3}
+{\displaystyle g(2^{n},2^{k})=2^{k}}
+{\displaystyle W(2,k)}
+{\displaystyle R(3,k)}
+{\displaystyle H(2,N)}
+{\displaystyle S(2,n)}
+{\displaystyle{\mathrm{SO}}(2,{\mathbb{R}})}
+{\displaystyle W(3,q)}
+{\displaystyle{{\tilde{{\rm{{SL}}}}}}(2,{\mathbf{R}})}
+{\displaystyle K_{e}(2,p)}
+{\displaystyle p\cdot 2^{p}\leq W(2,p+1)}
+{\displaystyle\displaystyle{\mathbf{SL}(2,k)=\mathbf{B}\cup\mathbf{B}\cdot J%&#10;\cdot\mathbf{B},}}
+{\displaystyle\displaystyle{\mathbf{SL}(2,k)=\mathbf{B}\cup\mathbf{B}\cdot J%&#10;\cdot\mathbf{U},}}
+{\displaystyle(2,n)}
+{\displaystyle(2,{\mathbb{Z}})}
+{\displaystyle(1,k)}
+{\displaystyle D(2,1.2)}
+{\displaystyle w(2,2)}
+{\displaystyle{\mathcal{G}}(2,0)}
+{\displaystyle\operatorname{SL}(2,{\mathbb{Z}})}
+{\displaystyle\operatorname{PSL}(2,{\mathbf{Z}})}
+{\displaystyle\operatorname{PSL}(2,{\mathbb{R}})}
+{\displaystyle(1,k)-}
+{\displaystyle(2,k-1)}
+{\displaystyle T_{G}(2,1)}
+{\displaystyle\scriptstyle f_{{\text{partial}}}(2,3)}
+{\displaystyle T_{G}(2,0)}
+{\displaystyle T_{G}(2,0)}
+{\displaystyle[2^{k},k,2^{k}/2]_{2}}

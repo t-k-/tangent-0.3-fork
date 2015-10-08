@@ -1,0 +1,30 @@
+{\displaystyle Z=\sum_{{j}}g_{j}\cdot{\mathrm{e}}^{{-\beta E_{j}}}}
+{\displaystyle{\hat{\rho}}_{A}=\sum_{{j,k}}c_{{j,k}}\cdot{\hat{a}}^{j}{\hat{a}%&#10;}^{{\dagger k}}.}
+{\displaystyle\delta W=\sum_{{j=1}}^{m}{\mathbf{F}}_{j}\cdot\delta{\mathbf{r}}%&#10;_{j}.}
+{\displaystyle\delta W=\sum_{{j=1}}^{m}{\mathbf{F}}_{j}\cdot\delta{\mathbf{r}}%&#10;_{j}.}
+{\displaystyle A=\sum_{j}\lambda_{j}u_{j}u_{j}^{\dagger}}
+{\displaystyle f(x)=\sum_{{j=0}}^{2}y_{j}\cdot\ell_{j}(x)\,\!}
+{\displaystyle X=\sum_{j}f_{j}(x){\partial\over\partial x_{j}}}
+{\displaystyle a_{{i}}=\sum_{{j=1}}^{n}A(i,j){\hat{e}}_{{j}}}
+{\displaystyle F[{\vec{g}}]=\sum_{{j=1}}^{{N}}f_{j}[{\vec{g}}]e^{{2\pi i{\vec{%&#10;g}}\cdot{\vec{r}}_{{j}}}}.}
+{\displaystyle E=\sum_{j}H_{j}W_{j}\,\!}
+{\displaystyle a=\sum_{j}u_{j}a_{j}\,}
+{\displaystyle{\mathbf{x}}~{}=~{}\sum_{j}a_{j}{\mathbf{q}}_{j}}
+{\displaystyle Y=\textstyle\sum_{{j=1}}^{n}X_{j}}
+{\displaystyle Y=\sum_{{j=1}}^{p}X_{j}}
+{\displaystyle K=\sum_{j}\pi_{j}m_{ij}}
+{\displaystyle\,y=\sum_{j}w_{j}x_{j},}
+{\displaystyle A=\sum_{j}\lambda_{j}P_{j}.}
+{\displaystyle\nu_{G}=\sum_{{j}}\sigma_{j}\nu_{j}}
+{\displaystyle\Delta G_{i}=\sum_{{j}}\gamma_{j}O_{j}~{}}
+{\displaystyle s_{\Lambda}=\sum_{{j=1}}^{m}x_{j}}
+{\displaystyle X_{i}=\sum_{{j=1}}^{i}F_{j}}
+{\displaystyle R_{i}=\sum_{{j=1}}^{i}r_{j}}
+{\displaystyle a=\sum_{j}u_{j}a_{j}^{{(k)}}}
+{\displaystyle E=\sum\nolimits_{{j=1}}^{N}\,k_{j}^{2}}
+{\displaystyle\rho=\sum_{j}a_{j}a_{j}^{*}.}
+{\displaystyle u=\sum_{{j=1}}^{{n}}F_{{j}}h_{{j}}}
+{\displaystyle{\mathbf{x}}=\sum_{{j=1}}^{k}\lambda_{j}{\mathbf{x}}_{j}}
+{\displaystyle E_{{tot}}=\sum_{j}c_{j}E_{j}}
+{\displaystyle\sum_{i}v_{i}=\sum_{j}w_{j}=0}
+{\displaystyle M_{i}=\sum_{{j=1}}^{i}{m_{j}}.}

@@ -1,0 +1,30 @@
+{\displaystyle n=\prod_{{i=1}}^{r}p_{i}^{{a_{i}}}}
+{\displaystyle I=\prod_{{i=1}}^{n}P_{i}^{{a_{i}}}}
+{\displaystyle n=\prod_{{i=1}}^{{\omega(n)}}p_{i}^{{\alpha_{i}}}}
+{\displaystyle c=\prod_{{i=0}}^{n}v_{i}^{{m_{i}}}\mod p}
+{\displaystyle\tau=\prod_{{i=1}}^{{K}}\sigma_{i}}
+{\displaystyle c_{n}=\prod_{{i=1}}^{n}p_{{i}}}
+{\displaystyle D=\prod_{{i=1}}^{K}d_{i}.}
+{\displaystyle F=\prod_{{i=1}}^{K}f_{i}.}
+{\displaystyle s_{k}=\prod_{{i=1}}^{m}x_{i}}
+{\displaystyle s_{n}=\prod_{{i=1}}^{n}\pi_{i}}
+{\displaystyle u=\prod_{{i=1}}^{{k/2}}p_{i}}
+{\displaystyle F^{\chi}=\prod_{{i=1}}^{m}F_{i}^{\chi}}
+{\displaystyle p_{i}\#=\prod_{{j=1}}^{{i}}p_{j}}
+{\displaystyle\sigma=uv=\prod_{{i=1}}^{k}p_{i}}
+{\displaystyle f=\prod_{{i=1}}^{{\deg(f)}}f_{i}^{i}}
+{\displaystyle{\mathrm{ind}}(D)=\prod_{{i=1}}^{r}p_{i}^{{m_{i}}}\ }
+{\displaystyle{\tilde{u}}(x)=\prod_{{i=1}}^{L}x_{i}^{{\lambda_{{i}}}}}
+{\displaystyle\det\left({\mathbf{A}}\right)=\prod\limits_{{i=1}}^{{N_{{\lambda%&#10;}}}}{\lambda_{i}^{{n_{i}}}}\!\ }
+{\displaystyle f({\mathbf{x}}|{\boldsymbol{p}})=\prod_{{i=1}}^{k}p_{i}^{{x_{i}%&#10;}},}
+{\displaystyle n\#=\prod_{{i=1}}^{{\pi(n)}}p_{i}=p_{{\pi(n)}}\#}
+{\displaystyle f(x|{\boldsymbol{p}})=\prod_{{i=1}}^{k}p_{i}^{{[x=i]}},}
+{\displaystyle n=p_{1}^{{\alpha_{1}}}p_{2}^{{\alpha_{2}}}\cdots p_{k}^{{\alpha%&#10;_{k}}}=\prod_{{i=1}}^{{k}}p_{i}^{{\alpha_{i}}}}
+{\displaystyle X=\prod_{{i=1}}^{\infty}{\mathbb{R}}}
+{\displaystyle{p}=\prod_{{i=1}}^{{n}}p_{{i}}}
+{\displaystyle F=\prod_{{i=1}}^{m}F_{i}}
+{\displaystyle A=\prod_{{i=1}}^{n}A_{i}}
+{\displaystyle R=\prod_{{i=1}}^{n}R_{i}}
+{\displaystyle\prod_{{i=1}}^{k}p_{i}^{{n_{i}}}}
+{\displaystyle D=\prod_{{i=1}}^{n}D_{i}.}
+{\displaystyle f(x)=\prod_{{i=1}}^{n}x_{i}}

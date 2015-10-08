@@ -1,0 +1,30 @@
+{\displaystyle(x+y)^{n}=\sum_{{k=0}}^{n}{n\choose k}x^{{n-k}}y^{k}=\sum_{{k=0}%&#10;}^{n}{n\choose k}x^{{k}}y^{{n-k}}.}
+{\displaystyle(x+y)^{n}=\sum_{{k=0}}^{n}{n\choose k}x^{{n-k}}y^{{k}}}
+{\displaystyle(x+y)^{n}=\sum_{{k=0}}^{n}{\binom{n}{k}}x^{{n-k}}y^{k}}
+{\displaystyle(y+x)^{n}=\sum_{{k=0}}^{n}{n\choose k}y^{{n-k}}x^{k}}
+{\displaystyle(x+y)^{n}=\sum_{{i=0}}^{n}{n\choose i}x^{{n-i}}y^{i},}
+{\displaystyle(x+y)^{{n+1}}=\sum_{{k=0}}^{{n+1}}{\tbinom{n+1}{k}}x^{{n+1-k}}y^%&#10;{k},}
+{\displaystyle{{\mathit{He}}}_{n}(x+y)=\sum_{{k=0}}^{n}{n\choose k}x^{{n-k}}{{%&#10;\mathit{He}}}_{{k}}(y)}
+{\displaystyle(\Delta^{n}c)_{0}=\sum_{{k=0}}^{n}{\binom{n}{k}}(-1)^{{n-k}}z^{k%&#10;}=(z-1)^{n}.}
+{\displaystyle P_{n}(x)={\frac{1}{2^{n}}}\sum_{{k=0}}^{n}{n\choose k}^{2}(x-1)%&#10;^{{n-k}}(x+1)^{k}=\sum_{{k=0}}^{n}{n\choose k}{-n-1\choose k}\left({\frac{1-x}%&#10;{2}}\right)^{k}=2^{n}\cdot\sum_{{k=0}}^{n}x^{k}{n\choose k}{{\frac{n+k-1}{2}}%&#10;\choose n},}
+{\displaystyle 1=1^{n}=(p+q)^{n}=\sum_{{k=0}}^{n}{n\choose k}p^{k}q^{{n-k}}.}
+{\displaystyle c_{n}=\sum_{{i=0}}^{n}{\frac{x^{i}}{i!}}{\frac{y^{{n-i}}}{(n-i)%&#10;!}}={\frac{1}{n!}}\sum_{{i=0}}^{n}{\binom{n}{i}}x^{i}y^{{n-i}}={\frac{(x+y)^{n%&#10;}}{n!}}}
+{\displaystyle\Delta^{n}=(E-I)^{n}=\sum_{{k=0}}^{n}{\binom{n}{k}}(-1)^{{n-k}}E%&#10;^{k},}
+{\displaystyle(x+y)^{\alpha}=\sum_{{\nu\leq\alpha}}{\binom{\alpha}{\nu}}\,x^{%&#10;\nu}y^{{\alpha-\nu}}.}
+{\displaystyle(x+y)^{\alpha}=\sum_{{\nu\leq\alpha}}{\binom{\alpha}{\nu}}\,x^{%&#10;\nu}y^{{\alpha-\nu}}.}
+{\displaystyle(p+q)^{n}=\sum_{{k=0}}^{\infty}{n\choose k}p^{k}q^{{n-k}},}
+{\displaystyle T_{0}(x)=1,\qquad T_{n}(x)=\sum_{{k=1}}^{n}S(n,k)x^{k}=\sum_{{k%&#10;=1}}^{n}\left\{{\begin{matrix}n\\&#10;k\end{matrix}}\right\}x^{k},\quad n&gt;0,}
+{\displaystyle B_{n}(x)=\sum_{{k=0}}^{n}{n\choose k}b^{{n-k}}x^{k}=(b+x)^{n},}
+{\displaystyle\Delta^{n}=(E-I)^{n}=\sum_{{j=0}}^{n}{\binom{n}{j}}(-1)^{{n-j}}E%&#10;^{j},\qquad n\in{\mathbb{N}}_{0}.}
+{\displaystyle(1+1/n)^{n}=\sum_{{k=0}}^{{n}}{\binom{n}{k}}/n^{k}=\sum_{{k=0}}^%&#10;{{n}}{\frac{1}{k!}}\times{\frac{n}{n}}\times{\frac{n-1}{n}}\times\cdots\times{%&#10;\frac{n-k+1}{n}},}
+{\displaystyle B_{n}(x)=\sum_{{j=0}}^{n}{\binom{n}{j}}B_{j}x^{{n-j}}}
+{\displaystyle(aX+bY)^{{{}^{\prime}n}}=\sum_{{i=0}}^{n}{n\choose i}a^{i}b^{{n-%&#10;i}}X^{{{}^{\prime}i}}Y^{{{}^{\prime}{n-i}}}}
+{\displaystyle\sum_{{k=0}}^{n}{n\choose k}B_{{n-k}}(y)x^{k}=\sum_{{k=0}}^{n}{n%&#10;\choose k}L\left((2y)^{{n-k}}\right)x^{k}=L\left(\sum_{{k=0}}^{n}{n\choose k}(%&#10;2y)^{{n-k}}x^{k}\right)=L\left((2y+x)^{n}\right)=B_{n}(x+y).}
+{\displaystyle\sum_{{j=k}}^{n}{\binom{n}{j}}(-1)^{{n-j}}=-\sum_{{j=0}}^{{k-1}}%&#10;{\binom{n}{j}}(-1)^{{n-j}}=(-1)^{{n-k}}{\binom{n-1}{k-1}}.}
+{\displaystyle(x_{1}+\cdots+x_{m})^{n}=\sum_{{|\alpha|=n}}{n\choose\alpha}x^{%&#10;\alpha}}
+{\displaystyle s_{n}(x+y)=\sum_{{k=0}}^{n}{n\choose k}x^{k}s_{{n-k}}(y).}
+{\displaystyle{1\over e}\sum_{{k=x}}^{\infty}{k^{n}\over(k-x)!}=\sum_{{k=0}}^{%&#10;n}{n\choose k}B_{{k}}x^{{n-k}}}
+{\displaystyle{\begin{aligned}\displaystyle B_{n}(x)&amp;\displaystyle=\sum_{{k=0}%&#10;}^{n}{n\choose k}B_{{n-k}}x^{k}&amp;&amp;\displaystyle{\text{applying the definition %&#10;of Bernoulli polynomials}}\\&#10;&amp;\displaystyle=\sum_{{k=0}}^{n}{n\choose k}L\left(y^{{n-k}}\right)x^{k}&amp;&amp;%&#10;\displaystyle{\text{applying the above definition}}\\&#10;&amp;\displaystyle=L\left(\sum_{{k=0}}^{n}{n\choose k}y^{{n-k}}x^{k}\right)&amp;&amp;%&#10;\displaystyle{\text{since L is linear}}\\&#10;&amp;\displaystyle=L\left((y+x)^{n}\right).&amp;&amp;\end{aligned}}}
+{\displaystyle(1+x)^{n}=\sum_{{k=0}}^{n}{n\choose k}\cdot x^{k}.}
+{\displaystyle\Delta^{n}[f](x)=\sum_{{k=0}}^{n}{n\choose k}(-1)^{{n-k}}f(x+k)}
+{\displaystyle(x_{1}+x_{2})^{n}=\sum_{{k_{1}+k_{2}=n}}{n\choose k_{1},k_{2}}x_%&#10;{1}^{{k_{1}}}x_{2}^{{k_{2}}};\ \ k_{1},k_{2},n\in{\mathbb{N}}_{0}}

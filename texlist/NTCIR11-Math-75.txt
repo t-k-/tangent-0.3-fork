@@ -1,0 +1,30 @@
+{\displaystyle D\left(\rho u_{i}\right)/Dt\approx 0}
+{\displaystyle d{[}ES{]}/{dt}\;{\overset{!}{=}}\;0}
+{\displaystyle E(z_{i}u_{i})\neq 0}
+{\displaystyle P(i)={{\rm{tr}}}(\rho F_{i}),\;}
+{\displaystyle\rho_{C}^{2}=1-D(Y|X)/D(Y)}
+{\displaystyle\partial_{t}(\rho u_{j})+\partial_{i}(\rho u_{i}u_{j})+\partial_%&#10;{j}p=0\,}
+{\displaystyle\partial f(x)/\partial x_{{i}}&gt;0}
+{\displaystyle\nabla(\rho_{i}v_{i})}
+{\displaystyle{d(\rho u)\over dx}=0.}
+{\displaystyle\partial_{t}\rho+\partial_{i}(\rho u_{i})=0\,}
+{\displaystyle{\partial\rho\over\partial t}+\sum_{{i=1}}^{3}{\partial(\rho u_{%&#10;i})\over\partial x_{i}}=0,}
+{\displaystyle DV/Dt=0}
+{\displaystyle dF/dt\geq 0}
+{\displaystyle{\mathrm{d}}{\mathbf{x}}/{\mathrm{d}}t=0}
+{\displaystyle dN/dt=0}
+{\displaystyle dx/dt=0}
+{\displaystyle dW/dt=0}
+{\displaystyle{dF}/{dt}\leq 0}
+{\displaystyle dr/dt=0}
+{\displaystyle\partial(...)/\partial t=0}
+{\displaystyle{\displaystyle dx_{2}/dt=0}}
+{\displaystyle dN_{B}/dt=0}
+{\displaystyle{\displaystyle dx_{1}/dt=0}}
+{\displaystyle D(a)=D(b)=0}
+{\displaystyle F=dp/dt=0}
+{\displaystyle dN_{{tot}}/dt=0}
+{\displaystyle{DV}/{Dt}}
+{\displaystyle Dk/Dt}
+{\displaystyle du_{i}}
+{\displaystyle D/Dt}

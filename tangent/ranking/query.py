@@ -377,7 +377,7 @@ class Query:
 
     def output_sorted_results(self, out_file):
         if self.sorted_results is None:
-            print("Results must be sorted first")
+            print("Results must be sorted first: output_sorted_results")
             return
 
         for group in self.sorted_results:
@@ -392,7 +392,7 @@ class Query:
 
     def output_stats(self, out_file, separator, test_condition):
         if self.sorted_results is None:
-            print("Results must be sorted first")
+            print("Results must be sorted first: output_stats")
             return
 
         q_size = Query.tree_size(self.tree.root)
@@ -690,7 +690,7 @@ class Query:
 
     def save_html_groups(self, prefix):
         if self.sorted_results is None:
-            print("Results must be sorted first")
+            print("Results must be sorted first: save_html_groups")
             return False
 
         base_name = prefix + "/" + self.name
@@ -790,7 +790,7 @@ class Query:
 
     def save_html_docs(self, prefix):
         if self.sorted_documents is None:
-            print("Documents must be sorted first")
+            print("Documents must be sorted first: save_html_docs")
             return False
 
         base_name = prefix + "/" + self.name
@@ -877,11 +877,11 @@ class Query:
 
     def save_html_formulas(self, prefix):
         if self.sorted_results is None:
-            print("Results must be sorted first")
+            print("Results must be sorted first: save_html_formulas")
             return False
 
         if self.sorted_documents is None:
-            print("Documents must be sorted first")
+            print("Documents must be sorted first: self.sorted_documents is None")
             return False
 
         base_name = prefix + "/" + self.name

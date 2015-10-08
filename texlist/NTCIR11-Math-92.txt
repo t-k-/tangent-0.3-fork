@@ -1,0 +1,30 @@
+{\displaystyle G_{{k,\sigma}}(y)=1-(1+ky/\sigma)^{{-1/k}}}
+{\displaystyle F_{{\xi}}(z)={\begin{cases}1-\left(1+\xi z\right)^{{-1/\xi}}&amp;{%&#10;\text{for }}\xi\neq 0,\\&#10;1-e^{{-z}}&amp;{\text{for }}\xi=0.\end{cases}}}
+{\displaystyle F(x;c,k)=1-\left(1+x^{c}\right)^{{-k}}.}
+{\displaystyle\Pr\{(M_{n}-b_{n})/a_{n}\leq z\}\rightarrow G(z)\propto\exp\left%&#10;[-(1+\zeta z)^{{-1/\zeta}}\right]}
+{\displaystyle G_{{k,\sigma}}(y)=1-e^{{-y/\sigma}}}
+{\displaystyle\left(1+\theta t\right)^{{-1/\theta}}}
+{\displaystyle f(c)=(1+Qc)^{{-1/Q}}}
+{\displaystyle F_{{(\xi,\mu,\sigma)}}(x)={\begin{cases}1-\left(1+{\frac{\xi(x-%&#10;\mu)}{\sigma}}\right)^{{-1/\xi}}&amp;{\text{for }}\xi\neq 0,\\&#10;1-\exp\left(-{\frac{x-\mu}{\sigma}}\right)&amp;{\text{for }}\xi=0.\end{cases}}}
+{\displaystyle\sigma(x)=1/(1+e^{{-x}})}
+{\displaystyle\Pr[{\mathrm{find~{}a}}]=1-(1/2)^{k}}
+{\displaystyle F_{X}(x)=1-\left({\frac{k}{x}}\right)^{a}}
+{\displaystyle L(F)=1-(1-F)^{{1-{\frac{1}{\alpha}}}},}
+{\displaystyle f(a,b)=1-(1-a)(1-b)}
+{\displaystyle g\left(\alpha\,\right)=1-{\left(1-{2^{{-N}}}\right)^{\alpha}\,}%&#10;:0\leq\,\alpha\,}
+{\displaystyle P(n)=1-\left(1-{\frac{1}{2}}P\left({\Bigl\lceil}1+{\frac{n}{{%&#10;\sqrt{2}}}}{\Bigr\rceil}\right)\right)^{2}}
+{\displaystyle\ H(z)=1-z^{{-1}}.}
+{\displaystyle V(x)=1/(1+|x|)}
+{\displaystyle p=1-\left(1-2t/G\right)^{m}}
+{\displaystyle\,(1-d)=v={(1+i)}^{{-1}}}
+{\displaystyle f(f(x))=1-(1-x)=x\,.}
+{\displaystyle f(n)=1+(1+2+3+\cdots+n).\,}
+{\displaystyle F(x;\mu,\sigma,\xi)={\frac{1}{1+\left(1+{\frac{\xi(x-\mu)}{%&#10;\sigma}}\right)^{{-1/\xi}}}}}
+{\displaystyle q(n)=1-\left({\frac{365-1}{365}}\right)^{n}}
+{\displaystyle P\,=\,A\cdot{\frac{1-\left({1+r}\right)^{{-n}}}{r}}}
+{\displaystyle c={r\over{1-(1+r)^{{-N}}}}P_{0}}
+{\displaystyle{\frac{A}{P}}={\frac{i}{1-(1+i)^{{-n}}}}}
+{\displaystyle P_{0}={\dfrac{x[1-(1+i)^{{-m}}]}{i}}}
+{\displaystyle x={\frac{P_{0}\cdot i}{1-(1+i)^{{-n}}}}}
+{\displaystyle P_{v}(n)={\frac{x(1-(1+i)^{{-n}})}{i}}}
+{\displaystyle a_{{\overline{n}|i}}={\frac{1-\left(1+i\right)^{{-n}}}{i}},}

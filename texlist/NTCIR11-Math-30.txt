@@ -1,0 +1,30 @@
+{\displaystyle\phi_{1}=-30^{\circ}...+30^{\circ}}
+{\displaystyle y=-2x+6\,}
+{\displaystyle y=-2x+4\,}
+{\displaystyle z_{1}=-0.4121345\ldots+i0.5978119\ldots}
+{\displaystyle z_{2}=-1.4455692\ldots+i0.6992608\ldots}
+{\displaystyle y=-2x+x^{2}}
+{\displaystyle\phi_{3}=-11.25^{\circ}}
+{\displaystyle\phi_{2}=-66.53^{\circ}}
+{\displaystyle\theta_{3}=-22.5^{\circ}}
+{\displaystyle\theta_{3}=-36.53^{\circ}}
+{\displaystyle r_{2}=-ex+a\,\!}
+{\displaystyle\phi=-2\theta\,}
+{\displaystyle\;\delta\;=-90^{\circ}\;}
+{\displaystyle k=-90^{\circ}}
+{\displaystyle\delta=-3^{\circ}}
+{\displaystyle x=-1.84208\dots}
+{\displaystyle\scriptstyle e_{1}\;=\;-20}
+{\displaystyle K_{1}=-1}
+{\displaystyle\alpha_{{12}}=-1}
+{\displaystyle\beta_{2}=-1}
+{\displaystyle g_{{00}}=-1\!}
+{\displaystyle a_{0}=-1}
+{\displaystyle\theta_{{p2}}=-26.565^{\circ}}
+{\displaystyle R_{{in}}=-30\ \Omega}
+{\displaystyle\nabla^{2}\phi=-4\pi\rho\;}
+{\displaystyle c=2,\phi=-20^{\circ}}
+{\displaystyle c=2,\phi=-20^{\circ}}
+{\displaystyle c=2,\phi=-20^{\circ}}
+{\displaystyle{\mathcal{K}}_{1}(x;n)=-2x+n}
+{\displaystyle-{\dot{\lambda}}=-Qx+A^{T}\lambda}

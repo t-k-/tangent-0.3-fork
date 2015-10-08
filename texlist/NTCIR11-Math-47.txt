@@ -1,0 +1,30 @@
+{\displaystyle\Gamma_{\infty}}
+{\displaystyle X_{\infty}}
+{\displaystyle r_{\infty}}
+{\displaystyle\rho_{\infty}}
+{\displaystyle\rho_{\infty}}
+{\displaystyle\rho_{{\infty}}\;}
+{\displaystyle\rho_{\infty}\,}
+{\displaystyle\rho_{\infty}}
+{\displaystyle V_{\infty}}
+{\displaystyle V_{\infty}}
+{\displaystyle V_{\infty}}
+{\displaystyle V_{\infty}}
+{\displaystyle V_{\infty}\,}
+{\displaystyle V_{\infty}}
+{\displaystyle V_{\infty}}
+{\displaystyle v_{{\infty}}}
+{\displaystyle v_{\infty}\,\!}
+{\displaystyle v_{\infty}\,\!}
+{\displaystyle v_{{\infty}}\,}
+{\displaystyle v_{\infty}}
+{\displaystyle v_{\infty}}
+{\displaystyle v_{\infty}\,}
+{\displaystyle v_{{\infty}}\,\!}
+{\displaystyle v_{{\infty}}}
+{\displaystyle v_{{\infty}}}
+{\displaystyle\textstyle v_{{\infty}}}
+{\displaystyle\epsilon_{\infty}}
+{\displaystyle{\mathcal{K}}_{{\infty}}}
+{\displaystyle{\mathcal{H}}_{\infty}}
+{\displaystyle d_{\infty}}

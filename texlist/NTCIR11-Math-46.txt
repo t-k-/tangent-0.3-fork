@@ -1,0 +1,30 @@
+{\displaystyle\,A\mapsto M\alpha(A)M^{{-1}},}
+{\displaystyle A\mapsto{{\rm{Tr}}}f(A)}
+{\displaystyle v(t){\rm{MPa^{{-1}}}}}
+{\displaystyle A\mapsto{{\rm{Tr}}}f(A)=\sum_{j}f(\lambda_{j}),}
+{\displaystyle A\mapsto\langle\pi(A)\xi\mid\eta\rangle}
+{\displaystyle\omega=(dM)M^{{-1}}}
+{\displaystyle g\mapsto\omega(g)g^{{-1}}}
+{\displaystyle\displaystyle{MS(t)=S_{0}(t)M,}}
+{\displaystyle{\mathbf{A}}^{{-1}}=({\mathbf{L}}^{{*}})^{{-1}}{\mathbf{L}}^{{-1%&#10;}},}
+{\displaystyle\!a\mapsto-MaM^{{-1}}}
+{\displaystyle\displaystyle{\sigma(g)=M\overline{g}M^{{-1}},}}
+{\displaystyle{\frac{1}{\det(A)}}M=A^{{-1}},}
+{\displaystyle MB(A)}
+{\displaystyle AP^{{-1}},}
+{\displaystyle(m-1)!,}
+{\displaystyle\langle\alpha_{\tau}^{\mu}(A)B\rangle}
+{\displaystyle\langle\alpha_{z}^{\mu}(A)B\rangle}
+{\displaystyle\langle B\alpha_{z}^{\mu}(A)\rangle}
+{\displaystyle\int_{{E}}\varphi\leq M\mu(A),}
+{\displaystyle[(i-1)w,iw)}
+{\displaystyle\int_{{E}}\phi\,d\mu\leq M\mu(A),}
+{\displaystyle A\mapsto(I+A)(I-A)^{{-1}},\,\!}
+{\displaystyle A=-i(U+1)(U-1)^{{-1}},\,}
+{\displaystyle U=(A^{T}A)^{{1/2}}A^{{-1}}}
+{\displaystyle U_{A}=(A-i)(A+i)^{{-1}}\,}
+{\displaystyle M=(D+L)D^{{-1}}(D+L)^{T}}
+{\displaystyle W=M^{{-1}}}
+{\displaystyle T\propto M^{{-1}}}
+{\displaystyle\alpha=R_{b}^{{-1}}}
+{\displaystyle\alpha\in f^{{-1}}(\beta)}

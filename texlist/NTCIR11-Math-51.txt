@@ -1,0 +1,30 @@
+{\displaystyle rpm_{{fan}}}
+{\displaystyle rpm_{{motor}}}
+{\displaystyle em_{Q}}
+{\displaystyle\Delta m_{1}}
+{\displaystyle dm_{w}}
+{\displaystyle\Delta{m}_{{15}}}
+{\displaystyle m_{P}}
+{\displaystyle m_{P}}
+{\displaystyle m_{P}}
+{\displaystyle m_{\ell}}
+{\displaystyle m_{\ell}}
+{\displaystyle m_{\ell}}
+{\displaystyle m_{\ell}}
+{\displaystyle m_{{{\mathrm{em}}}}}
+{\displaystyle m_{0}}
+{\displaystyle m_{0}}
+{\displaystyle m_{0}\ }
+{\displaystyle m_{0}}
+{\displaystyle m_{{0}}}
+{\displaystyle m_{0}}
+{\displaystyle m_{0}}
+{\displaystyle m_{0}}
+{\displaystyle m_{0}}
+{\displaystyle m_{0}}
+{\displaystyle m_{0}\,}
+{\displaystyle m_{0}}
+{\displaystyle m_{0}}
+{\displaystyle m_{0}}
+{\displaystyle m_{{0}}}
+{\displaystyle m_{0}}

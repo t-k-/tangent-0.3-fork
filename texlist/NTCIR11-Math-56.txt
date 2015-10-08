@@ -1,0 +1,30 @@
+{\displaystyle{\boldsymbol{F}}_{r}}
+{\displaystyle Q_{r}~{}}
+{\displaystyle Q_{r}~{}}
+{\displaystyle\zeta_{r}}
+{\displaystyle F_{r}}
+{\displaystyle F_{r}}
+{\displaystyle F_{r}}
+{\displaystyle F_{r}}
+{\displaystyle F_{r}}
+{\displaystyle i_{r}\,\!}
+{\displaystyle\scriptstyle i_{{\mathrm{r}}}}
+{\displaystyle i_{r}}
+{\displaystyle G_{r}}
+{\displaystyle G_{r}}
+{\displaystyle\theta_{r}}
+{\displaystyle\theta_{r}}
+{\displaystyle\theta_{{\mathrm{r}}}}
+{\displaystyle\theta_{r}}
+{\displaystyle\theta_{{r}}}
+{\displaystyle\psi_{r}}
+{\displaystyle\psi_{r}}
+{\displaystyle{\mathbf{a}}_{r}}
+{\displaystyle\lambda_{r}}
+{\displaystyle\lambda_{r}}
+{\displaystyle M_{r}}
+{\displaystyle M_{r}}
+{\displaystyle\scriptstyle{M_{r}}\,\!}
+{\displaystyle\eta_{r}}
+{\displaystyle\eta_{r}}
+{\displaystyle\eta_{r}}

@@ -1,0 +1,30 @@
+{\displaystyle({\sqrt{p_{1}}},\cdots,{\sqrt{p_{n}}})}
+{\displaystyle({\sqrt{q_{1}}},\cdots,{\sqrt{q_{n}}})}
+{\displaystyle({\sqrt{m_{e}}},{\sqrt{m_{{\mu}}}},{\sqrt{m_{{\tau}}}})}
+{\displaystyle({\sqrt{\lambda_{i}}},U_{i},V_{i})}
+{\displaystyle({\sqrt{2}},1,-1)}
+{\displaystyle g_{n}&lt;{\sqrt{p_{n}}}\,}
+{\displaystyle g_{n}&lt;{\sqrt{p_{n}}}\,}
+{\displaystyle{\sqrt{p_{{n+1}}}}-{\sqrt{p_{n}}}&lt;1}
+{\displaystyle A_{n}={\sqrt{p_{{n+1}}}}-{\sqrt{p_{n}}}}
+{\displaystyle(M,x,n)}
+{\displaystyle(2,d,1)}
+{\displaystyle(x,y,p)}
+{\displaystyle(0,\varphi,1)}
+{\displaystyle(v,k,1)}
+{\displaystyle({\textrm{CURVE}},G,n)}
+{\displaystyle(\Omega,{\mathcal{F}},p)}
+{\displaystyle\varphi(m,n,p)\,\!}
+{\displaystyle\phi(a,b,n)\,\!}
+{\displaystyle\Delta(l,m,n)}
+{\displaystyle f(x,y,p)}
+{\displaystyle a(x,y,p)}
+{\displaystyle\deg(f,\Omega,p)}
+{\displaystyle(x_{1},D,0)}
+{\displaystyle(q,\omega_{1},p)}
+{\displaystyle({\mathcal{H}},F_{1},\Gamma)}
+{\displaystyle(\alpha_{1},\cdots,\alpha_{K})}
+{\displaystyle(i_{1},\cdots,i_{k})}
+{\displaystyle n=(1,\cdots,k)}
+{\displaystyle(W_{1},\ldots,W_{n})}
+{\displaystyle(n_{1},\ldots,n_{k})}

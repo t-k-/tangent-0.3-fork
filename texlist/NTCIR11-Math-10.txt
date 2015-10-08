@@ -1,0 +1,30 @@
+{\displaystyle z*x\leq y}
+{\displaystyle(x\Rightarrow y)=\sup\{z\mid z*x\leq y\}.}
+{\displaystyle(x\Rightarrow y)=\sup\{z\mid z*x\leq y\}.}
+{\displaystyle\{x\in E\mid x\leq y\}}
+{\displaystyle x*(x\Rightarrow y)\leq y.}
+{\displaystyle x*(x\Rightarrow y)\leq y.}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y\ }
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}
+{\displaystyle x\leq y}

@@ -1,0 +1,30 @@
+{\displaystyle\Theta\wedge(d\Theta)^{n}\neq 0}
+{\displaystyle\alpha\wedge(d\alpha)^{n}}
+{\displaystyle E(z_{i}u_{i})\neq 0}
+{\displaystyle H^{{i}}(j_{x}^{!}C)\neq 0}
+{\displaystyle H^{{-i}}(j_{x}^{*}C)\neq 0}
+{\displaystyle det(A)\neq 0}
+{\displaystyle Im(\omega_{j})\neq 0}
+{\displaystyle p\wedge(e-p)=0}
+{\displaystyle B\wedge(p-q)=0}
+{\displaystyle L(\omega)\neq 0}
+{\displaystyle\sigma({\mathbf{x}})\neq 0}
+{\displaystyle{\mbox{Pf}}(\Omega)\neq 0}
+{\displaystyle P(z)\neq 0}
+{\displaystyle F(x)\neq 0\,}
+{\displaystyle\rho(x)\neq 0}
+{\displaystyle g(y)\neq 0}
+{\displaystyle S(x)\neq 0}
+{\displaystyle v(n)\neq 0}
+{\displaystyle a(p)\neq 0}
+{\displaystyle h(x)\not=0}
+{\displaystyle p(r)\neq 0}
+{\displaystyle V(r)\neq 0}
+{\displaystyle Q(x)\neq 0}
+{\displaystyle M(F)\neq 0}
+{\displaystyle q(x)\neq 0\,}
+{\displaystyle\tau(n)\neq 0}
+{\displaystyle K(x)\neq 0}
+{\displaystyle f(x)\not=0}
+{\displaystyle f(x)\neq 0}
+{\displaystyle f(x)\neq 0}

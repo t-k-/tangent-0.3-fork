@@ -1,0 +1,30 @@
+{\displaystyle(p-1)!^{n}}
+{\displaystyle|J_{1}\dots J_{n}|\geq(p-1)!^{n}}
+{\displaystyle{\scriptstyle(z-1)!}}
+{\displaystyle(n-1)!}
+{\displaystyle(n-1)!}
+{\displaystyle(n-1)!}
+{\displaystyle(n-1){\mathbf{W}}}
+{\displaystyle(\kappa-1)~{}r}
+{\displaystyle(b-1)^{l}}
+{\displaystyle n(n-1)!}
+{\displaystyle(N^{{\prime}}-1)!}
+{\displaystyle(m-1)!,}
+{\displaystyle(e-1)n!}
+{\displaystyle(d-1)m.}
+{\displaystyle 1+(p-1)!}
+{\displaystyle{\tfrac{1}{(n-1)!}}}
+{\displaystyle(n-1)!\ {\bmod\ }n}
+{\displaystyle(N-1)p+1\,}
+{\displaystyle l(p-1)!d_{i}}
+{\displaystyle\Gamma(n)=(n-1)!}
+{\displaystyle\Gamma(n)=(n-1)!\,}
+{\displaystyle\,\Gamma(n)=(n-1)!\,}
+{\displaystyle{\frac{n!}{(m-1)!}}.}
+{\displaystyle(-1)^{n}(n-2)!}
+{\displaystyle l^{p}(p-1)!d_{i}^{p}}
+{\displaystyle(p-1)!\equiv-1{\;\;(\mathop{{\rm mod}}p)}\,}
+{\displaystyle(p-1)!\equiv-1{\;\;(\mathop{{\rm mod}}p)}}
+{\displaystyle(p-1)!\ \equiv\ -1{\;\;(\mathop{{\rm mod}}p)}}
+{\displaystyle(p-1)!\ \equiv\ -1{\;\;(\mathop{{\rm mod}}p)}}
+{\displaystyle(p-1)\,}

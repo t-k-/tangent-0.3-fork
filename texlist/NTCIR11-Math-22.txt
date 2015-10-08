@@ -1,0 +1,30 @@
+{\displaystyle{\text{Ker}}(k_{*}-l_{*})\cong{\text{Im}}(i_{*},j_{*}).}
+{\displaystyle{\mbox{Aut}}(\widehat{{\mathbf{C}}})\cong{\mbox{PSL}}(2,{\mathbf%&#10;{C}}).}
+{\displaystyle{\mbox{Aut}}(\widehat{{\mathbf{C}}})\cong{\mbox{PGL}}(2,{\mathbf%&#10;{C}}).}
+{\displaystyle{\mathrm{Hom}}({\mathrm{colim}}F,N)\cong{\mathrm{Cocone}}(F,N).}
+{\displaystyle{\mathrm{Nat}}(h^{A},h^{B})\cong{\mathrm{Hom}}(B,A).}
+{\displaystyle{\mathrm{Nat}}(h_{A},h_{B})\cong{\mathrm{Hom}}(A,B).}
+{\displaystyle{\mathrm{Hom}}(\Sigma X,Y)\cong{\mathrm{Hom}}(X,\Omega Y).}
+{\displaystyle{\bigl(}H^{2}(G,{\mathbf{C}}^{\times}){\bigr)}^{*}\cong H^{2}(G,%&#10;{\mathbf{C}}^{\times}).}
+{\displaystyle H_{1}(X)\cong(H_{1}(A)\oplus H_{1}(B))/{\text{Ker}}(k_{*}-l_{*})}
+{\displaystyle{{\rm{MCG}}}({\mathbf{T}}^{n})\simeq{{\rm{SL}}}(n,{{\mathbf{Z}}}%&#10;).}
+{\displaystyle j^{*}(\Gamma({\mathbf{P}}^{n},{\mathcal{O}}(1)))\subset\Gamma(X%&#10;,j^{*}{\mathcal{O}}(1)).}
+{\displaystyle\cdots\rightarrow{\tilde{H}}_{0}(A\cap B)\,{\xrightarrow{(i_{*},%&#10;j_{*})}}\,{\tilde{H}}_{0}(A)\oplus{\tilde{H}}_{0}(B)\,{\xrightarrow{k_{*}-l_{*%&#10;}}}\,{\tilde{H}}_{0}(X)\rightarrow\,0.}
+{\displaystyle\cdots\rightarrow H_{{n}}(A\cap B,C\cap D)\,{\xrightarrow{(i_{*}%&#10;,j_{*})}}\,H_{{n}}(A,C)\oplus H_{{n}}(B,D)\,{\xrightarrow{k_{*}-l_{*}}}\,H_{{n%&#10;}}(X,Y)\,{\xrightarrow{\partial_{*}}}\,H_{{n-1}}(A\cap B,C\cap D)\rightarrow\cdots}
+{\displaystyle H_{*}(C_{*}(X\times Y))\cong H_{*}(C_{*}(X)\otimes C_{*}(Y)).}
+{\displaystyle\operatorname{G}(-)\cong\operatorname{Hom}(_{{S}}P,-).}
+{\displaystyle T_{s}(x)=T(s,x).}
+{\displaystyle T_{s}(x)=T(s,x).\,}
+{\displaystyle{\textrm{shortestPath}}(i,j,0)=w(i,j)}
+{\displaystyle(V^{*})^{{{\mathbb{C}}}}=V^{*}\otimes{\mathbb{C}}\cong{\mathrm{%&#10;Hom}}_{{{\mathbb{R}}}}(V,{\mathbb{C}}).}
+{\displaystyle{\textrm{Br}}(K)\cong H^{2}({\textrm{Gal}}(K^{s}/K),{K^{s}}^{*}).}
+{\displaystyle{\text{PAM}}_{n}(i,j)}
+{\displaystyle\beta\ \sim\ {\mathcal{N}}(\beta^{*},\Sigma^{*}).}
+{\displaystyle{\mathbb{Q}}_{{2^{s}}}={\mathbb{Q}}(i,\eta_{s}).}
+{\displaystyle{\text{subject to }}x_{i}\geq x_{j}~{}{\text{ for all }}(i,j)\in&#10;E.}
+{\displaystyle{\mathrm{subject~{}to~{}}}x_{i}\geq x_{j}~{}{\text{ for all }}(i%&#10;,j)\in E.}
+{\displaystyle A_{{ij}}={\frac{{\mbox{min}}(i,j)}{{\mbox{max}}(i,j)}}.}
+{\displaystyle{\text{RR}}={\frac{1}{N^{2}}}\sum_{{i,j=1}}^{N}{\mathbf{R}}(i,j).}
+{\displaystyle{\mathrm{colim}}_{J}\,{\mathrm{lim}}_{I}F(i,j)\rightarrow{%&#10;\mathrm{lim}}_{I}\,{\mathrm{colim}}_{J}F(i,j).}
+{\displaystyle g(v,w)=g^{\prime}\left(f_{{*}}v,f_{{*}}w\right).\,}
+{\displaystyle(C_{*},\partial_{*})}

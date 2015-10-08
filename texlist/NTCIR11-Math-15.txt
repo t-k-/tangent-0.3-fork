@@ -1,0 +1,30 @@
+{\displaystyle bx-x^{2}}
+{\displaystyle\ y=bx-x^{3}}
+{\displaystyle p(x)=bx-x^{2}}
+{\displaystyle\scriptstyle x(b-x)=bx-x^{2}}
+{\displaystyle{\frac{dx}{dt}}=rx-x^{2}.\,}
+{\displaystyle x^{3}-x^{2}-1}
+{\displaystyle y^{2}=x^{2}-x^{3}\ }
+{\displaystyle x^{3}-x^{2}-x-1}
+{\displaystyle\Pi=x-x^{2}-xy}
+{\displaystyle x^{5}-x^{4}-x^{2}-1}
+{\displaystyle{\frac{dx}{dt}}=x-x^{2}}
+{\displaystyle s=-x^{3}-x^{2}+x\ }
+{\displaystyle x^{4}-x^{2}+y^{2}=0.}
+{\displaystyle f={\frac{x}{1-x-x^{2}}}.}
+{\displaystyle 2y^{2}=x^{3}-x^{2}+x}
+{\displaystyle y^{2}=x^{3}-x^{2}-16x}
+{\displaystyle~{}\Phi_{{12}}(x)=x^{4}-x^{2}+1}
+{\displaystyle f\ x=x^{2}}
+{\displaystyle-x^{2}}
+{\displaystyle{\hat{x}}-x}
+{\displaystyle{\hat{x}}-x}
+{\displaystyle x-x^{\prime}}
+{\displaystyle 1-x^{2}}
+{\displaystyle 1-x^{2}\,}
+{\displaystyle 7225-x^{2}}
+{\displaystyle 16-x^{2}}
+{\displaystyle x-x_{i}}
+{\displaystyle x-x_{0}}
+{\displaystyle-x^{2}.}
+{\displaystyle x_{k}-x}

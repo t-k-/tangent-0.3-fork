@@ -1,0 +1,30 @@
+{\displaystyle y\left(x\right)={{\mathop{{\rm{sgn}}}}}\left({{\rho}}\right){%&#10;\frac{{{\sigma_{y}}}}{{{\sigma_{x}}}}}\left({x-{\mu_{x}}}\right)+{\mu_{y}}.}
+{\displaystyle E_{m}(x)=\sum_{{k=0}}^{m}{m\choose k}{\frac{E_{k}}{2^{k}}}\left%&#10;(x-{\frac{1}{2}}\right)^{{m-k}}\,.}
+{\displaystyle P_{\ell}^{{m}}(x)={\frac{(-1)^{m}}{2^{\ell}\ell!}}(1-x^{2})^{{m%&#10;/2}}\ {\frac{d^{{\ell+m}}}{dx^{{\ell+m}}}}(x^{2}-1)^{\ell}.}
+{\displaystyle{\frac{d}{dx}}\left(u(x)v(x)\right)=v(x){\frac{d}{dx}}\left(u(x)%&#10;\right)+u(x){\frac{d}{dx}}\left(v(x)\right).\!}
+{\displaystyle{\frac{d^{{\ell-m}}}{dx^{{\ell-m}}}}(x^{2}-1)^{{\ell}}=c_{{lm}}(%&#10;1-x^{2})^{m}{\frac{d^{{\ell+m}}}{dx^{{\ell+m}}}}(x^{2}-1)^{{\ell}},}
+{\displaystyle r(x)=r_{1}+{\frac{x}{l}}(r_{2}-r_{1})}
+{\displaystyle f\left(x\right)=H_{D}\left({F\cap\left({a,x}\right)}\right)=(x-%&#10;a)^{D}.}
+{\displaystyle{\tilde{I}}(\omega)=I(\lambda){\frac{-d\lambda}{d\omega}}}
+{\displaystyle Af(x)=\theta(\mu-x)f^{\prime}(x)+{\frac{\sigma^{{2}}}{2}}f^{%&#10;\prime\prime}(x).}
+{\displaystyle y={\frac{y_{1}-y_{0}}{x_{1}-x_{0}}}(x-x_{0})+y_{0}}
+{\displaystyle g(x)=f(x){\big/}(x-a)}
+{\displaystyle s\left(x\right)=f\left(x\right)\delta\left(x-b\right)}
+{\displaystyle P(x)=x(x-1)\cdots(x-k+1)}
+{\displaystyle p(x)=a(x-z_{1})\cdots(x-z_{n})}
+{\displaystyle f(x)={\textstyle{\frac{1}{2}}}(x-x^{*})^{T}H(x-x^{*})}
+{\displaystyle D_{F}^{y}(x,y)={\tfrac{1}{2}}(x-y)^{T}Q(x-y)}
+{\displaystyle y(x_{*})=y_{{k-1}}+{\frac{x_{*}-x_{{k-1}}}{x_{{k}}-x_{{k-1}}}}(%&#10;y_{{k}}-y_{{k-1}}).}
+{\displaystyle x_{i}=a+{\frac{i}{n}}(b-a)}
+{\displaystyle y={\sqrt{a}}+{\frac{1}{2{\sqrt{a}}}}(x-a)}
+{\displaystyle u(t)=x(t){\frac{p-\lambda(t)}{2}}}
+{\displaystyle\ell_{j}(x)=\ell(x){\frac{w_{j}}{x-x_{j}}}}
+{\displaystyle w^{k}(y)=v^{i}(x){\frac{\partial y^{k}}{\partial x^{i}}}(x).}
+{\displaystyle P(x)=P(x-1){\frac{k+x-1}{x}}{\frac{mk^{{-1}}}{mk^{{-1}}-1}}}
+{\displaystyle{\frac{d}{dt}}y^{i}(x(t))={\frac{\partial y^{i}}{\partial x^{j}}%&#10;}(x(t)){\frac{dx^{j}}{dt}}(t)}
+{\displaystyle{\scriptstyle{\frac{1}{2}}}(x^{2}-4x+2)\,}
+{\displaystyle f(x)=q(x)(x-a)+r\,.}
+{\displaystyle\prod_{x}a^{x}=Ca^{{{\frac{x}{2}}(x-1)}}\,}
+{\displaystyle(x^{2}-1){\frac{d}{dx}}(x^{2}-1)^{n}=2nx(x^{2}-1)^{n}}
+{\displaystyle R_{k}(x)={\frac{f^{{(k+1)}}(\xi)}{k!}}(x-\xi)^{k}{\frac{G(x)-G(%&#10;a)}{G^{\prime}(\xi)}}}
+{\displaystyle R_{k}(x)={\frac{f^{{(k+1)}}(\xi)}{k!}}(x-\xi)^{k}{\frac{G(x)-G(%&#10;a)}{G^{\prime}(\xi)}}.}

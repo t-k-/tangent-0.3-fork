@@ -1,0 +1,30 @@
+{\displaystyle z_{{t}}=\lambda_{{1}}z_{{t-1}}+\varepsilon_{{t}}}
+{\displaystyle y_{t}=a_{{1}}y_{{t-1}}+\varepsilon_{t}}
+{\displaystyle y_{{t}}=\delta y_{{t-1}}+u_{{t}}\,}
+{\displaystyle y_{{t}}=\rho y_{{t-1}}+u_{{t}}\,}
+{\displaystyle\nabla y_{t}=\delta y_{{t-1}}+u_{t}\,}
+{\displaystyle\varepsilon_{t}=\rho\varepsilon_{{t-1}}+e_{t},\ |\rho|&lt;1}
+{\displaystyle\varepsilon_{t}=\rho\varepsilon_{{t-1}}+e_{t},\ |\rho|&lt;1}
+{\displaystyle y_{{t}}=a_{{1}}y_{{t-1}}+a_{{2}}y_{{t-2}}+\varepsilon_{{t}}}
+{\displaystyle x_{t}=Ax_{{t-1}}+b\,}
+{\displaystyle x_{t}=Ax_{{t-1}}+Bx_{{t-2}}}
+{\displaystyle u_{t}=\rho_{1}u_{{t-1}}+\rho_{2}u_{{t-2}}+\cdots+\rho_{p}u_{{t-%&#10;p}}+\varepsilon_{t}.\,}
+{\displaystyle y_{t}=a_{1}y_{{t-1}}+a_{2}y_{{t-2}}+\cdots+a_{p}y_{{t-p}}+%&#10;\varepsilon_{t}.}
+{\displaystyle{D_{t}}=(1+r)D_{{t-1}}+G_{t}-T_{t}\,}
+{\displaystyle X_{t}=\mu+\varepsilon_{t}+\theta_{1}\varepsilon_{{t-1}}+\cdots+%&#10;\theta_{q}\varepsilon_{{t-q}}\,}
+{\displaystyle\nabla y_{{t}}=(\rho-1)y_{{t-1}}+u_{{t}}=\delta y_{{t-1}}+u_{{t}%&#10;}\,}
+{\displaystyle y_{t}=Ay_{{t-1}}}
+{\displaystyle y_{t}=Ay_{{t-1}},}
+{\displaystyle rD_{{t-1}}+G_{t}-T_{t}\,}
+{\displaystyle U_{{ni}}=\beta z_{{ni}}+\varepsilon_{{ni}}}
+{\displaystyle q_{{t+1}}=2q_{{t}}+p_{{t}}\mod N}
+{\displaystyle X_{t}=c+\varphi_{1}X_{{t-1}}+\varepsilon_{t}}
+{\displaystyle X_{t}=X_{{t-1}}+\varepsilon_{t}}
+{\displaystyle y_{{t}}=y_{{t-1}}+\varepsilon_{t}.}
+{\displaystyle U_{t}=U_{{t-1}}+e_{t},}
+{\displaystyle X_{t}=\mu+X_{{t-1}}+\epsilon_{t}\,}
+{\displaystyle c+\varphi X_{{t-2}}+\varepsilon_{{t-1}}}
+{\displaystyle X_{t}=c+\varphi X_{{t-1}}+\varepsilon_{t}\,}
+{\displaystyle Y_{t}={\mathbf{\nu}}+AY_{{t-1}}+U_{t}}
+{\displaystyle y_{t}=a+\lambda y_{{t-1}}+bx_{t}+{\text{error term}}.}
+{\displaystyle z_{i}:=Pz_{{i-1}}}

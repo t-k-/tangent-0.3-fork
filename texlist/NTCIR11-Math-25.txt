@@ -1,0 +1,30 @@
+{\displaystyle\lambda(L(B))\leq d}
+{\displaystyle\lambda(L(B))\leq\zeta(n)}
+{\displaystyle\lambda(L(B))\geq\gamma(n).d}
+{\displaystyle B(L(T))}
+{\displaystyle A(L(G))}
+{\displaystyle O(\log(B))}
+{\displaystyle\delta(B)\leq c}
+{\displaystyle d(\lambda(n))}
+{\displaystyle D(f(d))}
+{\displaystyle{{\mathcal{K}}}(L^{2}(G))}
+{\displaystyle B(L^{2}({\mathbb{T}}))}
+{\displaystyle O(\log^{2}(B))}
+{\displaystyle\lambda(f(N))=0}
+{\displaystyle\lambda(f(L))=0}
+{\displaystyle\Sigma_{1}(L_{\alpha}[B])}
+{\displaystyle Op(L^{2}({\mathbb{R}}^{n}))}
+{\displaystyle A\otimes B(L^{2}(G))}
+{\displaystyle\displaystyle\mu(B)=P{\big(}f^{{-1}}(B){\big)}}
+{\displaystyle\Gamma({\mathrm{L}}(H))\rightarrow H}
+{\displaystyle\lambda(L)\leq 1}
+{\displaystyle\textstyle{\text{Var}}[{N}(B)]}
+{\displaystyle(a(bc))d}
+{\displaystyle P(A)\leq P(B)}
+{\displaystyle w(2B)\leq Cw(B)}
+{\displaystyle\lambda(L)&gt;\beta}
+{\displaystyle L_{1}(B)\subseteq V}
+{\displaystyle N(v)=\lambda(L)}
+{\displaystyle L(A)\cap L(B)=\emptyset}
+{\displaystyle\lambda(L)}
+{\displaystyle{\mathrm{NT}}(B)}
