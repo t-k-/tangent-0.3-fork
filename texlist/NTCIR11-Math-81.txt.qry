@@ -1,31 +1,91 @@
-={rac{d}{dt}}log_{e}t={rac{qvar{x0}}{qvar{x1}}}.
+\text{query}: \qquad {\frac{d}{dt}}\log_{e}t={\frac{\qvar{x0}}{\qvar{x1}}}.
+docID=2821 position=16
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00335.html
 {\displaystyle{\frac{d}{dt}}\log_{e}t={\frac{1}{t}}.}
+docID=2821 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00335.html
 {\displaystyle{\frac{d}{dx}}\log_{e}x={\frac{1}{x}}.}
+docID=9610 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01478.html
 {\displaystyle\textstyle{\frac{d}{df}}\ln f={\frac{1}{f}}.}
+docID=9114 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12783.html
 {\displaystyle{\frac{d}{dx}}\ln x={\frac{1}{x}}.}
+docID=26457 position=64
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00594.html
 {\displaystyle{d\over dx}\log_{b}x={1\over x\ln b},}
+docID=5960 position=44
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00254.html
 {\displaystyle{\frac{d}{dx}}\log_{a}(x)={\frac{1}{x\ln(a)}}.}
+docID=2539 position=36
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00580.html
 {\displaystyle{\frac{d}{dx}}\log_{b}(x)={\frac{1}{x\ln(b)}}.}
+docID=26144 position=33
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00699.html
 {\displaystyle{\frac{d}{dx}}\ln(x)={\frac{1}{x}}.\,}
+docID=26008 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08077.html
 {\displaystyle{\frac{d}{dx}}\chi_{2}(x)={\frac{{{\rm{arctanh\,}}}x}{x}}.}
+docID=25764 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02513.html
 {\displaystyle\ln W=\log_{e}W={\frac{{\mathrm{Log}}(W)}{\log e}}.}
+docID=6435 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15335.html
 {\displaystyle{\frac{d}{{dx}}}\log\left(\kappa\right)={\frac{{\kappa^{\prime}}%&#10;}{\kappa}}}
+docID=12601 position=18
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14495.html
 {\displaystyle{\frac{d}{dt}}q(t)=~{}~{}{\frac{\partial}{\partial p}}{\mathcal{%&#10;H}}}
+docID=27933 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09101.html
 {\displaystyle t_{c}={\frac{a}{b}},\ x_{c}={\frac{A}{b}}.}
+docID=25407 position=18
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23365.html
 {\displaystyle\delta t={T\over N}.}
+docID=13707 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03772.html
 {\displaystyle\Delta t={\frac{2L}{c}}.}
+docID=13707 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03772.html
 {\displaystyle\Delta t^{\prime}={\frac{2D}{c}}.}
+docID=24156 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03163.html
 {\displaystyle\Delta t={\frac{0.441}{N\Delta\nu}}.}
+docID=16286 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07816.html
 {\displaystyle tangent={\frac{P}{b}}.\,}
+docID=16286 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07816.html
 {\displaystyle tangent={\frac{c}{L}}.\,}
+docID=24686 position=45
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08441.html
 {\displaystyle\Delta t^{\prime}={\Delta t\over 1-u/c}.}
+docID=13744 position=36
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06290.html
 {\displaystyle{dz\over dt}=iz,\ dt={dz\over iz}.}
+docID=23256 position=39
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01657.html
 {\displaystyle\log_{i}(x)={{2\ln x}\over i\pi}.}
+docID=13261 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05957.html
 {\displaystyle v={d\over t}.}
+docID=24629 position=34
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07996.html
 {\displaystyle e={\frac{a}{d}}.}
+docID=14980 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15301.html
 {\displaystyle r={\frac{d}{{\sqrt{3}}}}.}
+docID=15161 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12418.html
 {\displaystyle a={\frac{bc}{d}}.}
+docID=16168 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06096.html
 {\displaystyle P_{1}={\frac{l}{t}}.}
+docID=8126 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04196.html
 {\displaystyle\mu_{e}={v\over E}.}
+docID=22753 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06052.html
 {\displaystyle A={\frac{d^{2}}{2}}.}
+docID=9443 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10261.html
 {\displaystyle t={\frac{h}{V_{{Y0}}}}.}

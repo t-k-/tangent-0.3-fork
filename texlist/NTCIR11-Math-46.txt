@@ -1,30 +1,90 @@
+docID=18481 position=81
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00460.html
 {\displaystyle\,A\mapsto M\alpha(A)M^{{-1}},}
+docID=24936 position=56
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/28316.html
 {\displaystyle A\mapsto{{\rm{Tr}}}f(A)}
+docID=17677 position=55
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/28283.html
 {\displaystyle v(t){\rm{MPa^{{-1}}}}}
+docID=24936 position=49
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/28316.html
 {\displaystyle A\mapsto{{\rm{Tr}}}f(A)=\sum_{j}f(\lambda_{j}),}
+docID=16493 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07377.html
 {\displaystyle A\mapsto\langle\pi(A)\xi\mid\eta\rangle}
+docID=270 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07117.html
 {\displaystyle\omega=(dM)M^{{-1}}}
+docID=3945 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16527.html
 {\displaystyle g\mapsto\omega(g)g^{{-1}}}
+docID=21485 position=40
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27384.html
 {\displaystyle\displaystyle{MS(t)=S_{0}(t)M,}}
+docID=17851 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03057.html
 {\displaystyle{\mathbf{A}}^{{-1}}=({\mathbf{L}}^{{*}})^{{-1}}{\mathbf{L}}^{{-1%&#10;}},}
+docID=18481 position=76
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00460.html
 {\displaystyle\!a\mapsto-MaM^{{-1}}}
+docID=21485 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27384.html
 {\displaystyle\displaystyle{\sigma(g)=M\overline{g}M^{{-1}},}}
+docID=12129 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02531.html
 {\displaystyle{\frac{1}{\det(A)}}M=A^{{-1}},}
+docID=12986 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07765.html
 {\displaystyle MB(A)}
+docID=141 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13866.html
 {\displaystyle AP^{{-1}},}
+docID=12225 position=71
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23737.html
 {\displaystyle(m-1)!,}
+docID=2698 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11177.html
 {\displaystyle\langle\alpha_{\tau}^{\mu}(A)B\rangle}
+docID=2698 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11177.html
 {\displaystyle\langle\alpha_{z}^{\mu}(A)B\rangle}
+docID=2698 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11177.html
 {\displaystyle\langle B\alpha_{z}^{\mu}(A)\rangle}
+docID=24804 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03676.html
 {\displaystyle\int_{{E}}\varphi\leq M\mu(A),}
+docID=25671 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25087.html
 {\displaystyle[(i-1)w,iw)}
+docID=24804 position=51
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03676.html
 {\displaystyle\int_{{E}}\phi\,d\mu\leq M\mu(A),}
+docID=13617 position=85
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06748.html
 {\displaystyle A\mapsto(I+A)(I-A)^{{-1}},\,\!}
+docID=4328 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16922.html
 {\displaystyle A=-i(U+1)(U-1)^{{-1}},\,}
+docID=16704 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17562.html
 {\displaystyle U=(A^{T}A)^{{1/2}}A^{{-1}}}
+docID=4328 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16922.html
 {\displaystyle U_{A}=(A-i)(A+i)^{{-1}}\,}
+docID=19012 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15873.html
 {\displaystyle M=(D+L)D^{{-1}}(D+L)^{T}}
+docID=9195 position=128
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05133.html
 {\displaystyle W=M^{{-1}}}
+docID=19569 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17541.html
 {\displaystyle T\propto M^{{-1}}}
+docID=24028 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17583.html
 {\displaystyle\alpha=R_{b}^{{-1}}}
+docID=6284 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09087.html
 {\displaystyle\alpha\in f^{{-1}}(\beta)}

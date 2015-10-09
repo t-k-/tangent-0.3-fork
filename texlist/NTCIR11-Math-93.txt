@@ -1,30 +1,90 @@
+docID=12487 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07260.html
 {\displaystyle L(H_{B})\otimes C(X)}
+docID=12487 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07260.html
 {\displaystyle\Psi:L(H_{B})\otimes C(X)\rightarrow L(H_{A}).}
+docID=12487 position=34
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07260.html
 {\displaystyle C(X)\otimes L(H)}
+docID=22862 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16676.html
 {\displaystyle C_{*}(X)\otimes C_{*}(Y)}
+docID=7054 position=53
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06639.html
 {\displaystyle C(X)\otimes C(Y)=C(X\times Y).}
+docID=25132 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06988.html
 {\displaystyle C_{*}(X\times Y)\cong C_{*}(X)\otimes C_{*}(Y).}
+docID=12151 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25529.html
 {\displaystyle Y^{{-1}}(S)\in\sigma(X)}
+docID=20811 position=29
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13877.html
 {\displaystyle\pi:C(X)\rightarrow L(K)}
+docID=20811 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13877.html
 {\displaystyle\Phi_{E}:C(X)\rightarrow L(H)}
+docID=4660 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13590.html
 {\displaystyle\sigma\in L(H_{A})\otimes L(H_{B})}
+docID=14861 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11159.html
 {\displaystyle K_{*}(X)=\pi_{*}(K)\otimes K_{0}(X)}
+docID=26929 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12629.html
 {\displaystyle C(G)\otimes C(G)}
+docID=13535 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13927.html
 {\displaystyle\varepsilon\colon C_{p}(X)\otimes C^{q}(X)\to{\mathbb{Z}}}
+docID=12151 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25529.html
 {\displaystyle\sigma(Y)\subset\sigma(X)}
+docID=29357 position=33
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00216.html
 {\displaystyle L(A)\subseteq L(B)}
+docID=29357 position=31
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00216.html
 {\displaystyle L(A)=L(B)}
+docID=378 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29993.html
 {\displaystyle g(X)=h(X)}
+docID=29477 position=116
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26677.html
 {\displaystyle Q(X)/E(X)}
+docID=8722 position=43
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14251.html
 {\displaystyle I(X)=H(X)}
+docID=28006 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21895.html
 {\displaystyle f(X)\in K(X)}
+docID=16179 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05370.html
 {\displaystyle{\mathcal{K}}(X)=C_{C}(X)}
+docID=688 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24106.html
 {\displaystyle c_{2}(X)=e(X)}
+docID=3815 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16948.html
 {\displaystyle{\rm{{det}(MXM^{+})={\rm{{det}(X)}}}}}
+docID=24140 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/18008.html
 {\displaystyle C_{b}(X)\simeq C(Y)}
+docID=13685 position=18
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21942.html
 {\displaystyle C_{n}\left(X\right)\rightarrow C_{n}\left(Y\right)}
+docID=12487 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07260.html
 {\displaystyle\Psi:L(H_{B})\rightarrow L(H_{A})}
+docID=18282 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26775.html
 {\displaystyle L^{1}({\mathbb{R}}^{d})\cap C_{0}({\mathbb{R}}^{d})}
+docID=12487 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07260.html
 {\displaystyle\Phi:L(H_{A})\rightarrow L(H_{B})}
+docID=6442 position=31
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15695.html
 {\displaystyle T:L^{p}(Y)\to L^{q}(X)}
+docID=25902 position=46
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04786.html
 {\displaystyle f_{*}:C_{n}(X)\to C_{n}(Y)\,}

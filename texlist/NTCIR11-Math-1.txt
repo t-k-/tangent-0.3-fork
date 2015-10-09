@@ -1,30 +1,90 @@
+docID=21893 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02459.html
 {\displaystyle W(2,k)&gt;2^{k}/k^{\varepsilon}}
+docID=8777 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24417.html
 {\displaystyle{\mathrm{dist}}(y,L_{1}(B))&gt;2/3}
+docID=15545 position=42
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26429.html
 {\displaystyle g(2^{n},2^{k})=2^{k}}
+docID=21893 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02459.html
 {\displaystyle W(2,k)}
+docID=15702 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/30345.html
 {\displaystyle R(3,k)}
+docID=22196 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13874.html
 {\displaystyle H(2,N)}
+docID=15599 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24933.html
 {\displaystyle S(2,n)}
+docID=29602 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26098.html
 {\displaystyle{\mathrm{SO}}(2,{\mathbb{R}})}
+docID=6911 position=16
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12717.html
 {\displaystyle W(3,q)}
+docID=16584 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03094.html
 {\displaystyle{{\tilde{{\rm{{SL}}}}}}(2,{\mathbf{R}})}
+docID=21585 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10780.html
 {\displaystyle K_{e}(2,p)}
+docID=28649 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15834.html
 {\displaystyle p\cdot 2^{p}\leq W(2,p+1)}
+docID=323 position=90
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29379.html
 {\displaystyle\displaystyle{\mathbf{SL}(2,k)=\mathbf{B}\cup\mathbf{B}\cdot J%&#10;\cdot\mathbf{B},}}
+docID=323 position=91
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29379.html
 {\displaystyle\displaystyle{\mathbf{SL}(2,k)=\mathbf{B}\cup\mathbf{B}\cdot J%&#10;\cdot\mathbf{U},}}
+docID=2647 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16946.html
 {\displaystyle(2,n)}
+docID=21865 position=59
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09909.html
 {\displaystyle(2,{\mathbb{Z}})}
+docID=7546 position=18
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27742.html
 {\displaystyle(1,k)}
+docID=5353 position=31
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10580.html
 {\displaystyle D(2,1.2)}
+docID=2040 position=45
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04762.html
 {\displaystyle w(2,2)}
+docID=18481 position=143
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00460.html
 {\displaystyle{\mathcal{G}}(2,0)}
+docID=1692 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04913.html
 {\displaystyle\operatorname{SL}(2,{\mathbb{Z}})}
+docID=16147 position=49
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00435.html
 {\displaystyle\operatorname{PSL}(2,{\mathbf{Z}})}
+docID=14690 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09067.html
 {\displaystyle\operatorname{PSL}(2,{\mathbb{R}})}
+docID=7546 position=154
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27742.html
 {\displaystyle(1,k)-}
+docID=29825 position=63
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09205.html
 {\displaystyle(2,k-1)}
+docID=28263 position=44
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12671.html
 {\displaystyle T_{G}(2,1)}
+docID=8518 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00207.html
 {\displaystyle\scriptstyle f_{{\text{partial}}}(2,3)}
+docID=28263 position=47
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12671.html
 {\displaystyle T_{G}(2,0)}
+docID=9476 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/28015.html
 {\displaystyle T_{G}(2,0)}
+docID=22996 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15260.html
 {\displaystyle[2^{k},k,2^{k}/2]_{2}}

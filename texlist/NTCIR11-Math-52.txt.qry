@@ -1,31 +1,91 @@
-=underbrace{u_{1}({mathbf{qvar{x0}}},z_{1})=v_{1}+{dot{u}}_{x}}_{qvar{x1}}=overbrace{-{rac{partial V_{x}}{partial{qvar{x2}}}}g_{x}({mathbf{qvar{x3}}})-k_{1}(underbrace{z_{1}-u_{x}({mathbf{x}})}_{qvar{x4}})}^{{v_{1}}},+,overbrace{{rac{qvar{x5}}{partial{qvar{x6}}}}(underbrace{f_{qvar{x7}}({qvar{x8}})+g_{x}({mathbf{qvar{x9}}})z_{1}}_{{{qvar{x10}}{	ext{ (i.e., }}{rac{operatorname{d}{mathbf{qvar{x11}}}}{operatorname{qvar{x12}}t}}{	ext{?{x13}}}}})}^{{{qvar{x14}}_{x}{	ext{ (i.e., }}{rac{operatorname{d}u_{qvar{x15}}}{operatorname{d}t}}{	ext{)}}}}
+\text{query}: \qquad \underbrace{u_{1}({\mathbf{\qvar{x0}}},z_{1})=v_{1}+{\dot{u}}_{x}}_{\qvar{x1}}=\overbrace{-{\frac{\partial V_{x}}{\partial{\qvar{x2}}}}g_{x}({\mathbf{\qvar{x3}}})-k_{1}(\underbrace{z_{1}-u_{x}({\mathbf{x}})}_{\qvar{x4}})}^{{v_{1}}}\,+\,\overbrace{{\frac{\qvar{x5}}{\partial{\qvar{x6}}}}(\underbrace{f_{\qvar{x7}}({\qvar{x8}})+g_{x}({\mathbf{\qvar{x9}}})z_{1}}_{{{\qvar{x10}}{\text{ (i.e., }}{\frac{\operatorname{d}{\mathbf{\qvar{x11}}}}{\operatorname{\qvar{x12}}t}}{\text{?{x13}}}}})}^{{{\qvar{x14}}_{x}{\text{ (i.e., }}{\frac{\operatorname{d}u_{\qvar{x15}}}{\operatorname{d}t}}{\text{)}}}}
+docID=12837 position=156
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle\underbrace{u_{1}({\mathbf{x}},z_{1})=v_{1}+{\dot{u}}_{x}}_{{{%&#10;\text{By definition of }}v_{1}}}=\overbrace{-{\frac{\partial V_{x}}{\partial{%&#10;\mathbf{x}}}}g_{x}({\mathbf{x}})-k_{1}(\underbrace{z_{1}-u_{x}({\mathbf{x}})}_%&#10;{{e_{1}}})}^{{v_{1}}}\,+\,\overbrace{{\frac{\partial u_{x}}{\partial{\mathbf{x%&#10;}}}}(\underbrace{f_{x}({\mathbf{x}})+g_{x}({\mathbf{x}})z_{1}}_{{{\dot{{%&#10;\mathbf{x}}}}{\text{ (i.e., }}{\frac{\operatorname{d}{\mathbf{x}}}{%&#10;\operatorname{d}t}}{\text{)}}}})}^{{{\dot{u}}_{x}{\text{ (i.e., }}{\frac{%&#10;\operatorname{d}u_{x}}{\operatorname{d}t}}{\text{)}}}}}
+docID=12837 position=211
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle u_{1}({\mathbf{x}},z_{1})=-{\frac{\partial V_{x}}{\partial{%&#10;\mathbf{x}}}}g_{x}({\mathbf{x}})-k_{1}(z_{1}-u_{x}({\mathbf{x}}))+{\frac{%&#10;\partial u_{x}}{\partial{\mathbf{x}}}}(f_{x}({\mathbf{x}})+g_{x}({\mathbf{x}})%&#10;z_{1})}
+docID=12837 position=309
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle u_{{a1}}({\mathbf{x}},z_{1})=-{\frac{\partial V_{x}}{\partial{%&#10;\mathbf{x}}}}g_{x}({\mathbf{x}})-k_{1}(z_{1}-u_{x}({\mathbf{x}}))+{\frac{%&#10;\partial u_{x}}{\partial{\mathbf{x}}}}(f_{x}({\mathbf{x}})+g_{x}({\mathbf{x}})%&#10;z_{1})}
+docID=12837 position=311
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle u_{1}({\mathbf{x}},z_{1})={\frac{1}{g_{1}({\mathbf{x}},z_{1})}}%&#10;\left(\overbrace{-{\frac{\partial V_{x}}{\partial{\mathbf{x}}}}g_{x}({\mathbf{%&#10;x}})-k_{1}(z_{1}-u_{x}({\mathbf{x}}))+{\frac{\partial u_{x}}{\partial{\mathbf{%&#10;x}}}}(f_{x}({\mathbf{x}})+g_{x}({\mathbf{x}})z_{1})}^{{u_{{a1}}({\mathbf{x}},z%&#10;_{1})}}\,-\,f_{1}({\mathbf{x}},z_{1})\right)}
+docID=12837 position=286
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle u_{i}(\overbrace{{\mathbf{x}},z_{1},z_{2},\dots,z_{i}}^{{%&#10;\triangleq\,{\mathbf{x}}_{i}}})=-{\frac{\partial V_{{i-1}}}{\partial{\mathbf{x%&#10;}}_{{i-1}}}}g_{{i-1}}({\mathbf{x}}_{{i-1}})\,-\,k_{i}(z_{i}\,-\,u_{{i-1}}({%&#10;\mathbf{x}}_{{i-1}}))\,+\,{\frac{\partial u_{{i-1}}}{\partial{\mathbf{x}}_{{i-%&#10;1}}}}(f_{{i-1}}({\mathbf{x}}_{{i-1}})\,+\,g_{{i-1}}({\mathbf{x}}_{{i-1}})z_{i})}
+docID=12837 position=234
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle u_{2}({\mathbf{x}},z_{1},z_{2})=-{\frac{\partial V_{1}}{%&#10;\partial{\mathbf{x}}_{1}}}g_{1}({\mathbf{x}}_{1})-k_{2}(z_{2}-u_{1}({\mathbf{x%&#10;}}_{1}))+{\frac{\partial u_{1}}{\partial{\mathbf{x}}_{1}}}(f_{1}({\mathbf{x}}_%&#10;{1})+g_{1}({\mathbf{x}}_{1})z_{2})}
+docID=12837 position=264
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle u_{3}({\mathbf{x}},z_{1},z_{2},z_{3})=-{\frac{\partial V_{2}}{%&#10;\partial{\mathbf{x}}_{2}}}g_{2}({\mathbf{x}}_{2})-k_{3}(z_{3}-u_{2}({\mathbf{x%&#10;}}_{2}))+{\frac{\partial u_{2}}{\partial{\mathbf{x}}_{2}}}(f_{2}({\mathbf{x}}_%&#10;{2})+g_{2}({\mathbf{x}}_{2})z_{3})}
+docID=12837 position=324
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle u_{i}(\overbrace{{\mathbf{x}},z_{1},z_{2},\dots,z_{i}}^{{%&#10;\triangleq\,{\mathbf{x}}_{i}}})={\frac{1}{g_{i}({\mathbf{x}}_{i})}}\left(%&#10;\overbrace{-{\frac{\partial V_{{i-1}}}{\partial{\mathbf{x}}_{{i-1}}}}g_{{i-1}}%&#10;({\mathbf{x}}_{{i-1}})\,-\,k_{i}\left(z_{i}\,-\,u_{{i-1}}({\mathbf{x}}_{{i-1}}%&#10;)\right)\,+\,{\frac{\partial u_{{i-1}}}{\partial{\mathbf{x}}_{{i-1}}}}(f_{{i-1%&#10;}}({\mathbf{x}}_{{i-1}})\,+\,g_{{i-1}}({\mathbf{x}}_{{i-1}})z_{i})}^{{{\text{%&#10;Single-integrator stabilizing control }}u_{{a\;\!i}}({\mathbf{x}}_{i})}}\,-\,f%&#10;_{i}({\mathbf{x}}_{{i-1}})\right)}
+docID=12837 position=140
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle{\dot{V}}_{1}={\dot{V}}_{x}({\mathbf{x}})+{\frac{1}{2}}\left(2e_%&#10;{1}{\dot{e}}_{1}\right)={\dot{V}}_{x}({\mathbf{x}})+e_{1}{\dot{e}}_{1}={\dot{V%&#10;}}_{x}({\mathbf{x}})+e_{1}\overbrace{v_{1}}^{{{\dot{e}}_{1}}}=\overbrace{{%&#10;\frac{\partial V_{x}}{\partial{\mathbf{x}}}}\underbrace{{\dot{{\mathbf{x}}}}}_%&#10;{{{\text{(i.e., }}{\frac{\operatorname{d}{\mathbf{x}}}{\operatorname{d}t}}{%&#10;\text{)}}}}}^{{{\dot{V}}_{x}{\text{ (i.e.,}}{\frac{\operatorname{d}V_{x}}{%&#10;\operatorname{d}t}}{\text{)}}}}+e_{1}v_{1}=\overbrace{{\frac{\partial V_{x}}{%&#10;\partial{\mathbf{x}}}}\underbrace{\left((f_{x}({\mathbf{x}})+g_{x}({\mathbf{x}%&#10;})u_{x}({\mathbf{x}}))+g_{x}({\mathbf{x}})e_{1}\right)}_{{{\dot{{\mathbf{x}}}}%&#10;}}}^{{{\dot{V}}_{x}}}+e_{1}v_{1}}
+docID=12837 position=144
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle v_{1}=-{\frac{\partial V_{x}}{\partial{\mathbf{x}}}}g_{x}({%&#10;\mathbf{x}})-k_{1}e_{1}}
+docID=17821 position=91
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08705.html
 {\displaystyle{\frac{d^{2}}{dt^{2}}}y^{i}(x(t))={\frac{\partial^{2}y^{i}}{%&#10;\partial x^{j}\partial x^{k}}}(x(t)){\frac{dx^{j}}{dt}}(t){\frac{dx^{k}}{dt}}(%&#10;t)+{\frac{\partial y^{i}}{\partial x^{j}}}(x(t)){\frac{d^{2}x^{j}}{dt^{2}}}(t)}
+docID=12837 position=98
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle{\dot{V}}_{x}={\frac{\partial V_{x}}{\partial{\mathbf{x}}}}(f_{x%&#10;}({\mathbf{x}})+g_{x}({\mathbf{x}})u_{x}({\mathbf{x}}))\leq-W({\mathbf{x}})}
+docID=12837 position=146
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle{\dot{V}}_{1}=-W({\mathbf{x}})+{\frac{\partial V_{x}}{\partial{%&#10;\mathbf{x}}}}g_{x}({\mathbf{x}})e_{1}+e_{1}\overbrace{\left(-{\frac{\partial V%&#10;_{x}}{\partial{\mathbf{x}}}}g_{x}({\mathbf{x}})-k_{1}e_{1}\right)}^{{v_{1}}}}
+docID=12837 position=142
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle{\dot{V}}_{1}=\overbrace{{\frac{\partial V_{x}}{\partial{\mathbf%&#10;{x}}}}(f_{x}({\mathbf{x}})+g_{x}({\mathbf{x}})u_{x}({\mathbf{x}}))}^{{{}\leq-W%&#10;({\mathbf{x}})}}+{\frac{\partial V_{x}}{\partial{\mathbf{x}}}}g_{x}({\mathbf{x%&#10;}})e_{1}+e_{1}v_{1}\leq-W({\mathbf{x}})+{\frac{\partial V_{x}}{\partial{%&#10;\mathbf{x}}}}g_{x}({\mathbf{x}})e_{1}+e_{1}v_{1}}
+docID=16754 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02558.html
 {\displaystyle{\frac{\partial}{\partial t}}f(x,t)=-{\frac{\partial}{\partial x%&#10;}}\left[\mu(x,t)f(x,t)\right]+{\frac{\partial^{2}}{\partial x^{2}}}\left[D(x,t%&#10;)f(x,t)\right].}
+docID=22348 position=36
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05947.html
 {\displaystyle f(x)\leq f(x_{0})+{\frac{1}{2}}(f^{\prime\prime}(x_{0})+%&#10;\varepsilon)(x-x_{0})^{2}}
+docID=12837 position=275
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle V_{3}({\mathbf{x}},z_{1},z_{2},z_{3})=V_{2}({\mathbf{x}}_{2})+{%&#10;\frac{1}{2}}(z_{3}-u_{2}({\mathbf{x}}_{2}))^{2}}
+docID=12837 position=148
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle{\dot{V}}_{1}=-W({\mathbf{x}})+{\mathord{\overbrace{{\frac{%&#10;\partial V_{x}}{\partial{\mathbf{x}}}}g_{x}({\mathbf{x}})e_{1}-e_{1}{\frac{%&#10;\partial V_{x}}{\partial{\mathbf{x}}}}g_{x}({\mathbf{x}})}^{{0}}}}-k_{1}e_{1}^%&#10;{2}=-W({\mathbf{x}})-k_{1}e_{1}^{2}\leq-W({\mathbf{x}})&lt;0}
+docID=12837 position=39
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle V_{1}({\mathbf{x}},z_{1})=V_{x}({\mathbf{x}})+{\frac{1}{2}}(z_{%&#10;1}-u_{x}({\mathbf{x}}))^{2}}
+docID=29393 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23338.html
 {\displaystyle V_{1}({\mathbf{x}},z_{1})=V_{x}({\mathbf{x}})+{\frac{1}{2}}(z_{%&#10;1}-u_{x}({\mathbf{x}}))^{2}}
+docID=12837 position=153
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle V_{1}({\mathbf{x}},z_{1})\triangleq V_{x}({\mathbf{x}})+{\frac{%&#10;1}{2}}(z_{1}-u_{x}({\mathbf{x}}))^{2}}
+docID=12837 position=288
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle V_{i}({\mathbf{x}}_{i})=V_{{i-1}}({\mathbf{x}}_{{i-1}})+{\frac{%&#10;1}{2}}(z_{i}-u_{{i-1}}({\mathbf{x}}_{{i-1}}))^{2}}
+docID=1737 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23912.html
 {\displaystyle u_{s}^{{t+1}}=(1-\varepsilon)f(u_{s}^{t})+{\frac{\varepsilon}{2%&#10;}}\left(f(u_{{s+1}}^{t})+f(u_{{s-1}}^{t})\right)\ \ \ t\in{\mathbb{N}},\ %&#10;\varepsilon\in[0,1]}
+docID=17821 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08705.html
 {\displaystyle f(x)=f(x_{0})+f^{\prime}(x_{0})(x-x_{0})+\cdots+{\frac{f^{{(k)}%&#10;}(x_{0})}{k!}}(x-x_{0})^{{k}}+{\frac{R_{{k+1}}(x)}{(k+1)!}}(x-x_{0})^{{k+1}}}
+docID=14517 position=56
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16864.html
 {\displaystyle\rho\left({\frac{\partial v}{\partial t}}+u{\frac{\partial v}{%&#10;\partial x}}+v{\frac{\partial v}{\partial y}}+w{\frac{\partial v}{\partial z}}%&#10;\right)=-{\frac{\partial p}{\partial y}}+{\frac{\partial}{\partial x}}\left(%&#10;\mu\left({\frac{\partial v}{\partial x}}+{\frac{\partial u}{\partial y}}\right%&#10;)\right)+{\frac{\partial}{\partial y}}\left(2\mu{\frac{\partial v}{\partial y}%&#10;}-{\frac{2\mu}{3}}\nabla\cdot{\mathbf{v}}\right)+{\frac{\partial}{\partial z}}%&#10;\left(\mu\left({\frac{\partial v}{\partial z}}+{\frac{\partial w}{\partial y}}%&#10;\right)\right)+\rho g_{y}}
+docID=12837 position=243
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle V_{2}({\mathbf{x}},z_{1},z_{2})=V_{1}({\mathbf{x}}_{1})+{\frac{%&#10;1}{2}}(z_{2}-u_{1}({\mathbf{x}}_{1}))^{2}}
+docID=12837 position=46
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21960.html
 {\displaystyle V_{2}({\mathbf{x}},z_{1},z_{2})=V_{1}({\mathbf{x}},z_{1})+{%&#10;\frac{1}{2}}(z_{2}-u_{1}({\mathbf{x}},z_{1}))^{2}}
+docID=29393 position=30
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23338.html
 {\displaystyle V_{2}({\mathbf{x}},z_{1},z_{2})=V_{1}({\mathbf{x}},z_{1})+{%&#10;\frac{1}{2}}(z_{2}-u_{1}({\mathbf{x}},z_{1}))^{2}}
+docID=18311 position=36
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13737.html
 {\displaystyle\nabla\cdot{\mathbf{F}}={\frac{1}{h_{1}h_{2}h_{3}}}\left[{\frac{%&#10;\partial}{\partial q^{1}}}\left(F_{1}h_{2}h_{3}\right)+{\frac{\partial}{%&#10;\partial q^{2}}}\left(F_{2}h_{3}h_{1}\right)+{\frac{\partial}{\partial q^{3}}}%&#10;\left(F_{3}h_{1}h_{2}\right)\right]}
+docID=23106 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08292.html
 {\displaystyle\rho{\partial^{2}\xi\over\partial t^{2}}={\partial\over\partial x%&#10;}\left(P_{1}(\chi){\partial\xi\over\partial x}\right)+{\partial\over\partial x%&#10;}\left(P_{2}(\chi){\partial^{2}\xi\over\partial x\partial t}\right)-P_{3}(\chi%&#10;)-F_{0}{\partial\chi\over\partial x}}

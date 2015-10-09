@@ -1,30 +1,90 @@
+docID=20612 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12299.html
 {\displaystyle T_{4}\;}
+docID=20907 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02385.html
 {\displaystyle T_{4}}
+docID=8702 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29227.html
 {\displaystyle T_{4}}
+docID=1365 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21875.html
 {\displaystyle T_{&gt;}}
+docID=5016 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14502.html
 {\displaystyle T_{C}}
+docID=17565 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00181.html
 {\displaystyle T_{C}}
+docID=12335 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05087.html
 {\displaystyle T_{C}}
+docID=14292 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03625.html
 {\displaystyle T_{C}}
+docID=16636 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10161.html
 {\displaystyle T_{C}}
+docID=13739 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25350.html
 {\displaystyle T_{C}}
+docID=12169 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00226.html
 {\displaystyle T_{C}}
+docID=23446 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12820.html
 {\displaystyle T_{C}\,}
+docID=7495 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00842.html
 {\displaystyle T_{{C}}}
+docID=20349 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11960.html
 {\displaystyle T_{C}}
+docID=12082 position=61
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04776.html
 {\displaystyle T_{{N}}}
+docID=17467 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25039.html
 {\displaystyle T_{N}}
+docID=5194 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07539.html
 {\displaystyle T_{N}}
+docID=24578 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12860.html
 {\displaystyle T_{N}}
+docID=15178 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06139.html
 {\displaystyle T_{N}}
+docID=14022 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00475.html
 {\displaystyle T_{h}}
+docID=19616 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07089.html
 {\displaystyle T_{h}}
+docID=5466 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14886.html
 {\displaystyle T_{{h}}}
+docID=22128 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01045.html
 {\displaystyle T_{{{\rm{h}}}}}
+docID=26426 position=16
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13339.html
 {\displaystyle T_{h}}
+docID=25264 position=41
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01587.html
 {\displaystyle T_{{{\mathrm{h}}}}}
+docID=8702 position=57
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29227.html
 {\displaystyle T_{h}}
+docID=20487 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13351.html
 {\displaystyle T_{h}}
+docID=21821 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24216.html
 {\displaystyle T_{h}}
+docID=25655 position=102
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11654.html
 {\displaystyle T_{{h}}}
+docID=3668 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15647.html
 {\displaystyle T_{{{\rm{ex}}}}}

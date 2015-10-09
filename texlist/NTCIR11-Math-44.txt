@@ -1,30 +1,90 @@
+docID=26976 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27611.html
 {\displaystyle{\frac{D_{g}u_{g}}{Dt}}-f_{{0}}v_{a}-\beta yv_{g}=0}
+docID=26976 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27611.html
 {\displaystyle{\frac{D_{g}v_{g}}{Dt}}+f_{{0}}u_{a}+\beta yu_{g}=0}
+docID=28767 position=26
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27621.html
 {\displaystyle{{D_{g}u_{g}\over Dt}-{f_{o}v_{a}}-{\beta yf_{o}v_{g}}=0}}
+docID=28767 position=27
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27621.html
 {\displaystyle{{D_{g}v_{g}\over Dt}+{f_{o}u_{a}}+{\beta yf_{o}u_{g}}=0}}
+docID=21411 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21889.html
 {\displaystyle\int_{{\Omega}}(\rho{\frac{du_{i}}{dt}}-\nabla_{j}\sigma_{i}^{j}%&#10;-f_{i})\,dV=0}
+docID=28767 position=30
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27621.html
 {\displaystyle{{D_{g}\zeta_{g}\over Dt}=f_{o}({{\partial u_{a}\over\partial x}%&#10;+{\partial v_{a}\over\partial y}})-\beta v_{g}}}
+docID=6961 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03849.html
 {\displaystyle{\frac{Du}{Dt}}-fv=-{\frac{\partial\phi}{\partial x}}}
+docID=28759 position=76
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09833.html
 {\displaystyle{\frac{dv_{y}}{dt}}={\frac{-k}{m}}v_{y}-g}
+docID=18543 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08822.html
 {\displaystyle{dQ_{{ing}}\over dt}=-K_{a}Q_{{ing}}}
+docID=26976 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27611.html
 {\displaystyle{\frac{D_{g}T}{Dt}}-{\frac{\sigma p}{R}}\omega={\frac{J}{c_{p}}}}
+docID=22840 position=16
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02244.html
 {\displaystyle mu_{2}-mu_{1}+mP_{2}v_{2}-mP_{1}v_{1}=0}
+docID=28767 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27621.html
 {\displaystyle{D_{g}\overrightarrow{V_{g}}\over Dt}={-f_{o}{\hat{k}}\times%&#10;\overrightarrow{V_{a}}-\beta y{\hat{k}}\times\overrightarrow{V_{g}}}}
+docID=7297 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08225.html
 {\displaystyle{D\zeta\over Dt}+\beta v=f_{0}{\partial w\over\partial z}}
+docID=27551 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23387.html
 {\displaystyle{\frac{Du}{Dt}}=-{\frac{1}{\rho}}{\frac{\partial p}{\partial x}}%&#10;+fv+{\frac{1}{\rho}}{\frac{\partial\tau_{x}}{\partial z}}}
+docID=12772 position=40
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13965.html
 {\displaystyle{\frac{d^{{2}}x}{dt^{{2}}}}+\omega_{{0}}^{{2}}x=0}
+docID=12772 position=41
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13965.html
 {\displaystyle{\frac{d^{{2}}y}{dt^{{2}}}}+\omega_{{0}}^{{2}}y=0}
+docID=12772 position=42
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13965.html
 {\displaystyle{\frac{d^{{2}}z}{dt^{{2}}}}+\omega_{{0}}^{{2}}z=0}
+docID=10571 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17537.html
 {\displaystyle D{\frac{{\mathrm{D}}u_{y}}{{\mathrm{D}}t}}=-D{\frac{\partial p}%&#10;{\partial y}}+\nabla^{2}u_{y}}
+docID=15996 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02846.html
 {\displaystyle{\frac{dV_{-}}{dt}}=0}
+docID=29313 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04239.html
 {\displaystyle{\frac{dS_{j}}{dt}}=0}
+docID=18203 position=33
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26993.html
 {\displaystyle{\frac{dr_{i}}{dt}}=0}
+docID=5982 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14302.html
 {\displaystyle X_{f}=m{\frac{du_{f}}{dt}}}
+docID=18203 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26993.html
 {\displaystyle l_{i}{\frac{du_{i}}{dt}}=0}
+docID=21630 position=16
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22866.html
 {\displaystyle{\frac{dM_{z}(t)}{dt}}=0}
+docID=10571 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17537.html
 {\displaystyle D{\frac{{\mathrm{D}}u_{z}}{{\mathrm{D}}t}}=1+\nabla^{2}u_{z}}
+docID=28767 position=59
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27621.html
 {\displaystyle{{({{\partial\over\partial t}+{\overrightarrow{V_{g}}\cdot\nabla%&#10;}})q}={D_{g}q\over Dt}=0}}
+docID=10571 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17537.html
 {\displaystyle D\left({\frac{{\mathrm{D}}u_{x}}{{\mathrm{D}}t}}+u_{z}^{2}%&#10;\right)=-D{\frac{\partial p}{\partial x}}+\nabla^{2}u_{x}}
+docID=29600 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02981.html
 {\displaystyle{\frac{du}{dt}}=-{\frac{\nabla p}{\rho}}-\nabla\Phi=0}
+docID=28767 position=33
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27621.html
 {\displaystyle{{D_{g}f\over Dt}=\overrightarrow{V_{g}}\cdot\nabla f=\beta v_{g%&#10;}}}
+docID=26829 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05363.html
 {\displaystyle{Du\over Dt}=-{1\over\rho}{\partial P\over\partial x}+f\cdot v}

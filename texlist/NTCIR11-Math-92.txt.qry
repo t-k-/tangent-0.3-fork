@@ -1,31 +1,91 @@
-=G_{{k,sigma}}(y)=1-(1+ky/sigma)^{{-1/k}}
+\text{query}: \qquad G_{{k,\sigma}}(y)=1-(1+ky/\sigma)^{{-1/k}}
+docID=10544 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26815.html
 {\displaystyle G_{{k,\sigma}}(y)=1-(1+ky/\sigma)^{{-1/k}}}
+docID=5413 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15916.html
 {\displaystyle F_{{\xi}}(z)={\begin{cases}1-\left(1+\xi z\right)^{{-1/\xi}}&amp;{%&#10;\text{for }}\xi\neq 0,\\&#10;1-e^{{-z}}&amp;{\text{for }}\xi=0.\end{cases}}}
+docID=20474 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17689.html
 {\displaystyle F(x;c,k)=1-\left(1+x^{c}\right)^{{-k}}.}
+docID=10238 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01599.html
 {\displaystyle\Pr\{(M_{n}-b_{n})/a_{n}\leq z\}\rightarrow G(z)\propto\exp\left%&#10;[-(1+\zeta z)^{{-1/\zeta}}\right]}
+docID=10544 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26815.html
 {\displaystyle G_{{k,\sigma}}(y)=1-e^{{-y/\sigma}}}
+docID=12394 position=80
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09320.html
 {\displaystyle\left(1+\theta t\right)^{{-1/\theta}}}
+docID=13838 position=75
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24134.html
 {\displaystyle f(c)=(1+Qc)^{{-1/Q}}}
+docID=5413 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15916.html
 {\displaystyle F_{{(\xi,\mu,\sigma)}}(x)={\begin{cases}1-\left(1+{\frac{\xi(x-%&#10;\mu)}{\sigma}}\right)^{{-1/\xi}}&amp;{\text{for }}\xi\neq 0,\\&#10;1-\exp\left(-{\frac{x-\mu}{\sigma}}\right)&amp;{\text{for }}\xi=0.\end{cases}}}
+docID=15630 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09140.html
 {\displaystyle\sigma(x)=1/(1+e^{{-x}})}
+docID=10630 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05199.html
 {\displaystyle\Pr[{\mathrm{find~{}a}}]=1-(1/2)^{k}}
+docID=13114 position=54
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23498.html
 {\displaystyle F_{X}(x)=1-\left({\frac{k}{x}}\right)^{a}}
+docID=13932 position=62
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01677.html
 {\displaystyle L(F)=1-(1-F)^{{1-{\frac{1}{\alpha}}}},}
+docID=20495 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21822.html
 {\displaystyle f(a,b)=1-(1-a)(1-b)}
+docID=14237 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06798.html
 {\displaystyle g\left(\alpha\,\right)=1-{\left(1-{2^{{-N}}}\right)^{\alpha}\,}%&#10;:0\leq\,\alpha\,}
+docID=24359 position=116
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17247.html
 {\displaystyle P(n)=1-\left(1-{\frac{1}{2}}P\left({\Bigl\lceil}1+{\frac{n}{{%&#10;\sqrt{2}}}}{\Bigr\rceil}\right)\right)^{2}}
+docID=27798 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13678.html
 {\displaystyle\ H(z)=1-z^{{-1}}.}
+docID=20097 position=38
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04297.html
 {\displaystyle V(x)=1/(1+|x|)}
+docID=27836 position=46
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22159.html
 {\displaystyle p=1-\left(1-2t/G\right)^{m}}
+docID=23906 position=27
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06733.html
 {\displaystyle\,(1-d)=v={(1+i)}^{{-1}}}
+docID=343 position=27
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04315.html
 {\displaystyle f(f(x))=1-(1-x)=x\,.}
+docID=2609 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09860.html
 {\displaystyle f(n)=1+(1+2+3+\cdots+n).\,}
+docID=9812 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21709.html
 {\displaystyle F(x;\mu,\sigma,\xi)={\frac{1}{1+\left(1+{\frac{\xi(x-\mu)}{%&#10;\sigma}}\right)^{{-1/\xi}}}}}
+docID=24315 position=61
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02004.html
 {\displaystyle q(n)=1-\left({\frac{365-1}{365}}\right)^{n}}
+docID=9950 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/28103.html
 {\displaystyle P\,=\,A\cdot{\frac{1-\left({1+r}\right)^{{-n}}}{r}}}
+docID=18304 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05454.html
 {\displaystyle c={r\over{1-(1+r)^{{-N}}}}P_{0}}
+docID=6601 position=18
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12147.html
 {\displaystyle{\frac{A}{P}}={\frac{i}{1-(1+i)^{{-n}}}}}
+docID=17305 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24046.html
 {\displaystyle P_{0}={\dfrac{x[1-(1+i)^{{-m}}]}{i}}}
+docID=17305 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24046.html
 {\displaystyle x={\frac{P_{0}\cdot i}{1-(1+i)^{{-n}}}}}
+docID=17305 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24046.html
 {\displaystyle P_{v}(n)={\frac{x(1-(1+i)^{{-n}})}{i}}}
+docID=11199 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12489.html
 {\displaystyle a_{{\overline{n}|i}}={\frac{1-\left(1+i\right)^{{-n}}}{i}},}

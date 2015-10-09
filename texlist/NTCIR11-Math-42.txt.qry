@@ -1,31 +1,91 @@
-=lpha(d)leqleft({sqrt{3/2}}+arepsilonight)^{d}
+\text{query}: \qquad \alpha(d)\leq\left({\sqrt{3/2}}+\varepsilon\right)^{d}
+docID=6521 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15433.html
 {\displaystyle\alpha(d)\leq\left({\sqrt{3/2}}+\varepsilon\right)^{d}}
+docID=26237 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00317.html
 {\displaystyle h_{{{\text{out}}}}(G)\leq\left({\sqrt{4(d-\lambda_{2})}}+1%&#10;\right)^{2}-1}
+docID=27688 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05572.html
 {\displaystyle({\mathrm{OPT}}-c)\leq f(x)\leq({\mathrm{OPT}}+c).}
+docID=23005 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22655.html
 {\displaystyle(1-\varepsilon)g(n)\leq f(n)\leq(1+\varepsilon)g(n)\,}
+docID=9438 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03114.html
 {\displaystyle p(a,d)\leq(1+o(1))\varphi(d)^{2}\ln^{2}d\;,}
+docID=18204 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27747.html
 {\displaystyle 2d+1\leq\nu(d)\leq(d+1)^{2}}
+docID=24591 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17437.html
 {\displaystyle\max_{i}|V_{i}|\leq(1+\varepsilon)\left\lceil{\frac{|V|}{k}}%&#10;\right\rceil.}
+docID=9534 position=41
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24224.html
 {\displaystyle\Pi_{{H}}(m)\leq\left({\frac{em}{d}}\right)^{{d}}\,\!}
+docID=28502 position=38
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10846.html
 {\displaystyle x_{{(n+1)/2}}(z)\sim(1+z)^{n}}
+docID=14180 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01557.html
 {\displaystyle D\approx 3.57({\sqrt{2}}+{\sqrt{70}})}
+docID=18194 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00136.html
 {\displaystyle(1+x)^{{t}}\leq\left(1+tx\right)}
+docID=5670 position=260
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25589.html
 {\displaystyle t=q^{2}\approx(kd)^{2}\leq(d\log n)^{2}}
+docID=10391 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02536.html
 {\displaystyle{\sqrt{1/2}}}
+docID=17605 position=39
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00369.html
 {\displaystyle{\sqrt[{7}]{3/2}}}
+docID=17605 position=43
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00369.html
 {\displaystyle{\sqrt[{20}]{3/2}}}
+docID=17605 position=41
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00369.html
 {\displaystyle{\sqrt[{9}]{3/2}}}
+docID=17605 position=42
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00369.html
 {\displaystyle{\sqrt[{11}]{3/2}}}
+docID=16780 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00099.html
 {\displaystyle\scriptstyle{\sqrt{1/2}}\ \approx\ }
+docID=18913 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23758.html
 {\displaystyle{\sqrt{3/2}}\approx 1.225}
+docID=23187 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01256.html
 {\displaystyle\scriptstyle{\sqrt{1/2}}\ \approx\ 0.707}
+docID=17452 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02148.html
 {\displaystyle s={\sqrt{3/2}}\,l}
+docID=17452 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02148.html
 {\displaystyle s&gt;{\sqrt{3/2}}\,l}
+docID=20278 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25249.html
 {\displaystyle 1/({\sqrt{2}}+2)}
+docID=20210 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25250.html
 {\displaystyle 1/({\sqrt{2}}+2)}
+docID=17393 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12816.html
 {\displaystyle 1/({\sqrt{2}}+2)}
+docID=26396 position=39
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16619.html
 {\displaystyle{\mathrm{diam}}(V)^{d}\leq C\,\lambda_{d}(V)}
+docID=23315 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11048.html
 {\displaystyle(\pm{\sqrt{3/2}},\pm{\sqrt{3}}/2)}
+docID=21444 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23611.html
 {\displaystyle r\leq\left({\sqrt{q}}+1\right)^{2}\quad{\text{and}}\quad t\mid q%&#10;-1.}
+docID=4770 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00106.html
 {\displaystyle f(x)=(x+1)/2}
+docID=9911 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22039.html
 {\displaystyle(a+b)^{4}+(c+d)^{4}}

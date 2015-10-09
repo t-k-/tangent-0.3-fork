@@ -1,30 +1,90 @@
+docID=10554 position=39
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01038.html
 {\displaystyle V^{*}}
+docID=26767 position=84
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07629.html
 {\displaystyle V^{*}}
+docID=12868 position=95
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03211.html
 {\displaystyle V^{*}}
+docID=23427 position=105
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25587.html
 {\displaystyle{\mathit{V^{*}}}}
+docID=13333 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06552.html
 {\displaystyle V^{*}}
+docID=15396 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02841.html
 {\displaystyle V^{*}}
+docID=17871 position=47
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11580.html
 {\displaystyle V^{*}}
+docID=24942 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00260.html
 {\displaystyle V^{*}}
+docID=28448 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26864.html
 {\displaystyle V^{*}}
+docID=5891 position=18
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09234.html
 {\displaystyle V^{*}}
+docID=15032 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12819.html
 {\displaystyle V^{*}}
+docID=10911 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/28938.html
 {\displaystyle V^{*}}
+docID=26039 position=58
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03956.html
 {\displaystyle V^{*}}
+docID=17936 position=43
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03969.html
 {\displaystyle V^{*}}
+docID=20937 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13801.html
 {\displaystyle V^{*}}
+docID=29590 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23523.html
 {\displaystyle V^{*}}
+docID=14715 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06165.html
 {\displaystyle V^{*}}
+docID=16320 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25065.html
 {\displaystyle V^{*}}
+docID=12560 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00374.html
 {\displaystyle b^{*}}
+docID=7288 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13089.html
 {\displaystyle b^{*}\,}
+docID=4269 position=18
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12363.html
 {\displaystyle{\boldsymbol{\sigma}}^{*}}
+docID=9720 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08707.html
 {\displaystyle d^{*}}
+docID=18369 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27126.html
 {\displaystyle d^{*}}
+docID=8290 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01958.html
 {\displaystyle d^{*}}
+docID=13742 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12065.html
 {\displaystyle d^{*}}
+docID=1142 position=38
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04484.html
 {\displaystyle d^{*}}
+docID=4269 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12363.html
 {\displaystyle{\mathbf{R}}^{{*}}}
+docID=5374 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07231.html
 {\displaystyle X^{{*}}}
+docID=25345 position=133
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00296.html
 {\displaystyle X^{*}\,}
+docID=25675 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13206.html
 {\displaystyle X^{*}}

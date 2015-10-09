@@ -1,30 +1,90 @@
+docID=13539 position=55
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17497.html
 {\displaystyle P_{1}(X)=P(X)/(X-\alpha_{1})}
+docID=3506 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09519.html
 {\displaystyle g(x)=f(x){\big/}(x-a)}
+docID=29501 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23875.html
 {\displaystyle\mu(X_{1}\times X_{2})=\mu(X_{1})\mu(X_{2})}
+docID=21348 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00941.html
 {\displaystyle{\mathrm{P}}(A_{m}\cap A_{n})={\mathrm{P}}(A_{m}){\mathrm{P}}(A_%&#10;{n})}
+docID=14118 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07351.html
 {\displaystyle P(L_{1}\#L_{2})=P(L_{1})P(L_{2}),\,}
+docID=15725 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29405.html
 {\displaystyle\overline{G}(X)=G(X)/Z}
+docID=13677 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05116.html
 {\displaystyle\ R=Z[X]/(X^{N}-1)}
+docID=109 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22009.html
 {\displaystyle f_{n}(x)=\sum(x_{i}-{\bar{x}}_{n})^{2}/(n-1)}
+docID=29477 position=98
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26677.html
 {\displaystyle Q(X)=P(X)E(X)}
+docID=15246 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24611.html
 {\displaystyle P(A\cap B)\ =\ P(A)P(B)}
+docID=21348 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00941.html
 {\displaystyle{\mathrm{P}}(A\cap B)={\mathrm{P}}(A){\mathrm{P}}(B)}
+docID=4342 position=16
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15050.html
 {\displaystyle P(t+\tau)=P(t)P(\tau)\ }
+docID=6830 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27725.html
 {\displaystyle P(t+s)=P(t)P(s)\,}
+docID=11120 position=63
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01834.html
 {\displaystyle(fg)(X)=f(X)g(X).\,}
+docID=28502 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10846.html
 {\displaystyle Q_{A}(X)=q_{{{\mathrm{prim}}}}(X)\,q_{{{\mathrm{dual}}}}(X)}
+docID=21348 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00941.html
 {\displaystyle{\mathrm{P}}(A\cap B)={\mathrm{P}}(A){\mathrm{P}}(B).}
+docID=13539 position=53
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17497.html
 {\displaystyle P(X)=(X-\alpha_{1})\cdot P_{1}(X)}
+docID=1926 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15906.html
 {\displaystyle P(X,Y)=P(X)P(Y|X)\,}
+docID=15246 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24611.html
 {\displaystyle P(A\cap B)=P(A|B)P(B)}
+docID=28838 position=54
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01131.html
 {\displaystyle P(A\ and\ B)=P(A)P(B)}
+docID=445 position=33
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05024.html
 {\displaystyle P(x,y)=P_{1}(x)P_{2}(y)}
+docID=27203 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05532.html
 {\displaystyle P(X)=(X-\mu_{1})\dots(X-\mu_{N})}
+docID=14610 position=58
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01576.html
 {\displaystyle P(A|B)=P(A)P(B|A)/P(B)}
+docID=28696 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17029.html
 {\displaystyle H(X)=H^{\prime}(X)}
+docID=17816 position=90
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01571.html
 {\displaystyle P(H_{1})=P(H_{2})}
+docID=21456 position=54
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16041.html
 {\displaystyle P(E_{1})=P(E_{2})}
+docID=6078 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22309.html
 {\displaystyle L^{{\varphi}}(X)=L^{{p}}(X)}
+docID=24397 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11931.html
 {\displaystyle\underline{P}(A)=\overline{P}(A)}
+docID=6396 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25829.html
 {\displaystyle R_{{A_{R}}}(X)=R(X)}
+docID=13322 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17645.html
 {\displaystyle R_{{A_{R}}}(X)=R(X)}

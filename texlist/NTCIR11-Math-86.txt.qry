@@ -1,31 +1,91 @@
-={partial{L}overpartial q_{i}}={qvar{x0}}{partial{qvar{x1}}overpartial{{qvar{x2}}}}.
+\text{query}: \qquad {\partial{L}\over\partial q_{i}}={\qvar{x0}}{\partial{\qvar{x1}}\over\partial{{\qvar{x2}}}}.
+docID=18947 position=67
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24328.html
 {\displaystyle{\partial{L}\over\partial q_{i}}={{\mathrm{d}}\over{\mathrm{d}}t%&#10;}{\partial{L}\over\partial{{\dot{q_{i}}}}}.}
+docID=1239 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13492.html
 {\displaystyle{\frac{\partial c}{\partial t}}=-{\frac{\partial J}{\partial z}}.}
+docID=25125 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05766.html
 {\displaystyle{\frac{\partial f}{\partial\theta}}=f\,{\frac{\partial\log f}{%&#10;\partial\theta}}.}
+docID=22919 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26554.html
 {\displaystyle{\partial w\over\partial\overline{z}}=\mu{\partial w\over%&#10;\partial z}.}
+docID=7014 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02864.html
 {\displaystyle{\frac{\partial L}{\partial x_{i}}}=-{\frac{\partial V}{\partial&#10;x%&#10;_{i}}},}
+docID=29234 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07291.html
 {\displaystyle{\frac{\partial\phi}{\partial t}}=\nu{\frac{\partial^{2}\phi}{%&#10;\partial x^{2}}}.}
+docID=5787 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01590.html
 {\displaystyle{\frac{\partial u}{\partial t}}=\alpha{\frac{\partial^{2}u}{%&#10;\partial x^{2}}}.}
+docID=27952 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22310.html
 {\displaystyle{\frac{\partial\omega}{\partial t}}=\nu{\frac{\partial^{2}\omega%&#10;}{\partial z^{2}}}.}
+docID=21816 position=30
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00244.html
 {\displaystyle{\partial f\over\partial r}={1\over ir}{\partial f\over\partial%&#10;\theta}.}
+docID=7206 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22142.html
 {\displaystyle{\frac{\partial L}{\partial u}}={\frac{d}{dx}}{\frac{\partial L}%&#10;{\partial u^{\prime}}}\,.}
+docID=4134 position=79
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01122.html
 {\displaystyle{\frac{\partial u}{\partial t}}={\frac{1}{2}}{\frac{\partial^{2}%&#10;u}{\partial x^{2}}}.}
+docID=27952 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22310.html
 {\displaystyle{\frac{\partial u_{1}}{\partial t}}=\nu{\frac{\partial^{2}u_{1}}%&#10;{\partial z^{2}}}.}
+docID=14731 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07009.html
 {\displaystyle{\frac{\partial^{2}y}{\partial x^{2}}}={\frac{\mu}{T}}{\frac{%&#10;\partial^{2}y}{\partial t^{2}}}.}
+docID=20447 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15380.html
 {\displaystyle{\mathbf{v}}={\frac{d{\mathbf{r}}}{dt}}=\sum_{i}\ {\frac{%&#10;\partial{\mathbf{r}}}{\partial q_{i}}}{\dot{q}}_{i}+{\frac{\partial{\mathbf{r}%&#10;}}{\partial t}}\,\!.}
+docID=21816 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00244.html
 {\displaystyle{\dfrac{\partial u}{\partial y}}=-{\dfrac{\partial v}{\partial x%&#10;}}}
+docID=21259 position=30
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01859.html
 {\displaystyle{\partial u\over\partial y}=-{\partial v\over\partial x}}
+docID=3955 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01984.html
 {\displaystyle{\dfrac{\partial{\mathbf{p}}}{\partial t}}=-{\dfrac{\partial H}{%&#10;\partial{\mathbf{q}}}}}
+docID=29630 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23307.html
 {\displaystyle{\frac{\partial u}{\partial t}}=-{\frac{\partial\phi}{\partial x%&#10;}}}
+docID=17841 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16705.html
 {\displaystyle{\partial w\over\partial\overline{z}}=\mu{\partial w\over%&#10;\partial z}}
+docID=2191 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23394.html
 {\displaystyle{\frac{\partial u}{\partial t}}=\alpha{\frac{\partial^{2}u}{%&#10;\partial x^{2}}}}
+docID=13279 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23415.html
 {\displaystyle{\frac{\partial u}{\partial t}}=\alpha{\frac{\partial^{2}u}{%&#10;\partial x^{2}}}}
+docID=20288 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00418.html
 {\displaystyle{\frac{\partial\phi}{\partial t}}=D\,{\frac{\partial^{2}\phi}{%&#10;\partial x^{2}}}\,\!}
+docID=8106 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09441.html
 {\displaystyle{\partial u\over\partial t}=a{\frac{\partial^{2}u}{\partial x^{2%&#10;}}}}
+docID=7419 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16541.html
 {\displaystyle{\frac{\partial p}{\partial x}}=\mu{\frac{\partial^{2}u}{%&#10;\partial z^{2}}}}
+docID=17675 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23790.html
 {\displaystyle{\frac{\partial{H_{z}}}{\partial{y}}}=\varepsilon{\frac{\partial%&#10;{E_{x}}}{\partial{t}}}}
+docID=13676 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29415.html
 {\displaystyle\textstyle\frac{\partial C_{1}}{\partial x}=-\frac{\partial C_{2%&#10;}}{\partial x}}
+docID=3650 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02318.html
 {\displaystyle{\frac{\partial T}{\partial t}}=\kappa{\frac{\partial^{2}T}{%&#10;\partial^{2}z}}}
+docID=19380 position=89
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10083.html
 {\displaystyle{\frac{\partial{L}}{\partial y}}={\frac{{\mathrm{d}}}{{\mathrm{d%&#10;}}t}}{\frac{\partial{L}}{\partial{w}}}}
+docID=17675 position=46
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23790.html
 {\displaystyle{\frac{\partial{H_{z}}}{\partial{y}}}=C^{\prime}{\frac{\partial{%&#10;E_{x}}}{\partial{t}}}}
+docID=18638 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07037.html
 {\displaystyle{\frac{\partial v}{\partial y}}={\frac{-1}{H}}{\frac{\partial%&#10;\eta}{\partial t}}}

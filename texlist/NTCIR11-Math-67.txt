@@ -1,30 +1,90 @@
+docID=26045 position=30
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01666.html
 {\displaystyle{\frac{\partial f}{\partial x}}=f_{x}=\partial_{x}f.}
+docID=26045 position=31
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01666.html
 {\displaystyle{\frac{\partial^{2}f}{\partial x^{2}}}=f_{{xx}}=\partial_{{xx}}f.}
+docID=17043 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16694.html
 {\displaystyle{\frac{\partial f}{\partial x}}=f_{x}=\partial_{x}f=\partial^{x}%&#10;f,}
+docID=25125 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05766.html
 {\displaystyle{\frac{\partial f}{\partial\theta}}=f\,{\frac{\partial\log f}{%&#10;\partial\theta}}.}
+docID=26045 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01666.html
 {\displaystyle{\frac{\partial^{2}f}{\partial y\,\partial x}}={\frac{\partial}{%&#10;\partial y}}\left({\frac{\partial f}{\partial x}}\right)=(f_{{x}})_{{y}}=f_{{%&#10;xy}}=\partial_{{yx}}f.}
+docID=8189 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04150.html
 {\displaystyle\phi={\frac{\partial\psi}{\partial x}}=\partial_{x}\psi.\,}
+docID=300 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09870.html
 {\displaystyle{\frac{\partial V_{x}}{\partial x}}={\frac{\partial V_{x}}{%&#10;\partial z}}=0}
+docID=11834 position=41
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07457.html
 {\displaystyle{\frac{{\mathrm{d}}f}{{\mathrm{d}}x}}=2x\neq{\frac{\partial f}{%&#10;\partial x}}=y=x}
+docID=21236 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13019.html
 {\displaystyle f(x,y)={\partial f\over\partial x}={\partial f\over\partial y}=%&#10;0.}
+docID=25754 position=172
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09256.html
 {\displaystyle{\frac{\partial{\mathbf{a}}}{\partial x}}=}
+docID=25754 position=287
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09256.html
 {\displaystyle{\frac{\partial{\mathbf{AUB}}}{\partial x}}=}
+docID=25754 position=176
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09256.html
 {\displaystyle{\frac{\partial{\mathbf{A}}{\mathbf{u}}}{\partial x}}=}
+docID=11834 position=36
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07457.html
 {\displaystyle{\frac{\partial f}{\partial x}}=y}
+docID=20469 position=24
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03129.html
 {\displaystyle{\partial p\over\partial x}=0}
+docID=26045 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01666.html
 {\displaystyle{\frac{\partial z}{\partial x}}=3}
+docID=9131 position=34
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03913.html
 {\displaystyle{\frac{\partial L}{\partial x}}=0}
+docID=13713 position=18
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02388.html
 {\displaystyle\scriptstyle{\frac{\partial M}{\partial x}}=\,0}
+docID=29019 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26553.html
 {\displaystyle{\frac{\partial u}{\partial x}}=0\,.}
+docID=25754 position=179
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09256.html
 {\displaystyle{\frac{\partial{\mathbf{u}}^{{{\rm{T}}}}}{\partial x}}=}
+docID=3725 position=94
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14628.html
 {\displaystyle{\frac{\partial f}{\partial\sigma}}=0}
+docID=27635 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23659.html
 {\displaystyle{\frac{\partial f}{\partial y}}=\beta}
+docID=29630 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23307.html
 {\displaystyle{\frac{\partial f}{\partial y}}=\beta}
+docID=24197 position=45
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10105.html
 {\displaystyle\scriptstyle{\frac{\partial f}{\partial t}}\;=\;0}
+docID=25754 position=174
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09256.html
 {\displaystyle{\frac{\partial a{\mathbf{u}}}{\partial x}}=}
+docID=25754 position=285
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09256.html
 {\displaystyle{\frac{\partial a{\mathbf{U}}}{\partial x}}=}
+docID=25754 position=305
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09256.html
 {\displaystyle{\frac{\partial g({\mathbf{u}})}{\partial x}}=}
+docID=25754 position=311
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09256.html
 {\displaystyle{\frac{\partial\ln|{\mathbf{U}}|}{\partial x}}=}
+docID=25754 position=315
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09256.html
 {\displaystyle{\frac{\partial g({\mathbf{U}})}{\partial x}}=}
+docID=25754 position=185
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09256.html
 {\displaystyle{\frac{\partial{\mathbf{g(u)}}}{\partial x}}=}
+docID=21816 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00244.html
 {\displaystyle{\dfrac{\partial f}{\partial{\bar{z}}}}=0}

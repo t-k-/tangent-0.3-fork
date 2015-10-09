@@ -1,30 +1,90 @@
+docID=3520 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16716.html
 {\displaystyle{\frac{d}{dx}}\left(\log_{c}x\right)={1\over x\ln c},\qquad c&gt;0,%&#10;c\neq 1}
+docID=3520 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16716.html
 {\displaystyle{\frac{d}{dx}}\left(\ln x\right)={1\over x},\qquad x\neq 0}
+docID=8759 position=34
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06735.html
 {\displaystyle{\frac{d}{dx}}\left(\ln x\right)={\frac{1}{x}}.}
+docID=26144 position=44
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00699.html
 {\displaystyle\ {d\over dx}\left(\ln\left|x\right|\right)={1\over x}.}
+docID=25323 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10330.html
 {\displaystyle{\frac{d}{dx}}(x)={\frac{1}{x}}x=1}
+docID=3520 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16716.html
 {\displaystyle{\frac{d}{dx}}\left(\ln|x|\right)={|x|\over x^{2}}}
+docID=2995 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01637.html
 {\displaystyle(*)\qquad e^{0}=1,\qquad{\frac{d}{dx}}e^{x}=e^{x},\qquad e^{x}&gt;0%&#10;,\qquad x\in{\mathbb{R}}.}
+docID=10673 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22675.html
 {\displaystyle{\frac{d}{ds}}(c_{g}E)=0,}
+docID=18264 position=40
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09044.html
 {\displaystyle{\frac{d}{dx}}\left(Axe^{x}\right)=Axe^{x}+e^{x}}
+docID=12522 position=65
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00237.html
 {\displaystyle{\frac{d}{dx}}({f}*g)={\frac{df}{dx}}*g.}
+docID=21308 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04933.html
 {\displaystyle{\frac{d}{dt}}\left({\frac{\partial L}{\partial{\mathbf{{\dot{q}%&#10;}}}}}\right)={\frac{\partial L}{\partial{\mathbf{q}}}}\,,}
+docID=26117 position=43
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01466.html
 {\displaystyle{\frac{d}{dt}}\!\left({\frac{\partial{\mathcal{L}}_{{1}}}{%&#10;\partial{\dot{\alpha}}}}\right)={\frac{\partial{\mathcal{L}}_{{1}}}{\partial%&#10;\alpha}}\,,}
+docID=25856 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27154.html
 {\displaystyle f(x;0,1)={\frac{1}{x\pi(1+(\ln x)^{2})}},\ \ x&gt;0}
+docID=26144 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00699.html
 {\displaystyle{\frac{d}{dx}}\log_{b}(x)={\frac{d}{dx}}\left({\frac{1}{\ln(b)}}%&#10;\ln{x}\right)={\frac{1}{\ln(b)}}{\frac{d}{dx}}\ln{x}={\frac{1}{x\ln(b)}}.}
+docID=3520 position=18
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16716.html
 {\displaystyle{\frac{d}{dx}}\left(c^{{ax}}\right)={c^{{ax}}\ln c\cdot a},%&#10;\qquad c&gt;0}
+docID=15820 position=24
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01064.html
 {\displaystyle{\frac{dx}{dt}}(T)={\frac{dy}{dt}}(T)=0,}
+docID=13761 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/30201.html
 {\displaystyle{d\over dx}(\rho u\phi)={d\over dx}\left({d\phi\over dx}\right)}
+docID=16233 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09920.html
 {\displaystyle\beta\triangleq{\frac{1}{k_{B}}}\left({\frac{\partial S}{%&#10;\partial E}}\right)_{{V,N}}={\frac{1}{k_{B}T}}\,,}
+docID=28387 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02950.html
 {\displaystyle{\frac{r}{r_{s}}}\left({\frac{v}{c}}\right)^{2}={\frac{1}{2}}}
+docID=5960 position=43
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00254.html
 {\displaystyle{\frac{d}{dx}}\ln(x)={\frac{1}{x}},\qquad x&gt;0.}
+docID=7206 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22142.html
 {\displaystyle{d\over dx}\left({L-u^{\prime}{\frac{\partial L}{\partial u^{%&#10;\prime}}}}\right)=0\,,}
+docID=28387 position=34
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02950.html
 {\displaystyle{\frac{r}{r_{s}}}\left({\frac{v}{c}}{\sqrt{1-{\frac{r_{s}}{r}}}}%&#10;\right)^{2}={\frac{1}{2}}}
+docID=10996 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13099.html
 {\displaystyle{\frac{d}{dx}}\left({\frac{1}{g(x)}}\right)={\frac{-g^{\prime}(x%&#10;)}{(g(x))^{2}}}}
+docID=10996 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13099.html
 {\displaystyle{\frac{d}{dx}}\left({\frac{1}{g(x)}}\right)={\frac{d}{dx}}\left(%&#10;{\frac{f(x)}{g(x)}}\right)}
+docID=11096 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27861.html
 {\displaystyle f(x)={\frac{n}{x[1/2(x/x_{0})^{{-\alpha}}+\lambda+a/2(x/x_{0})^%&#10;{\alpha}]}},\qquad x&gt;0,}
+docID=29373 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04098.html
 {\displaystyle\alpha&gt;0,\alpha\neq 1}
+docID=4010 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03238.html
 {\displaystyle a&gt;0,\ a\neq 1}
+docID=13761 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/30201.html
 {\displaystyle{d\over dx}(\rho u)=0}
+docID=11035 position=149
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00619.html
 {\displaystyle Z(s)={\frac{1}{sC}},}
+docID=24492 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09019.html
 {\displaystyle\textstyle D_{{1}}(i)={\frac{1}{m}},}

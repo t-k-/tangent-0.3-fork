@@ -1,31 +1,91 @@
-=P_{x}=P-{amid ageq x}
+\text{query}: \qquad P_{x}=P-\{a\mid a\geq x\}
+docID=635 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27027.html
 {\displaystyle P_{x}=P-\{a\mid a\geq x\}}
+docID=6281 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14023.html
 {\displaystyle K=\{\,z\mid z\geq 0\,\}}
+docID=27556 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13615.html
 {\displaystyle{\mathbb{C}}^{\times}={\mathbb{C}}-\{0\}}
+docID=20847 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22164.html
 {\displaystyle P_{r}=P_{i}-P_{d}\,}
+docID=19432 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06386.html
 {\displaystyle P_{{\mathrm{net}}}=P_{{\mathrm{emit}}}-P_{{\mathrm{absorb}}}.\,}
+docID=2849 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25376.html
 {\displaystyle P_{{min}}=P_{m}-H}
+docID=19843 position=396
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12224.html
 {\displaystyle\{y\mid yWx\}}
+docID=21478 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07016.html
 {\displaystyle P=\{n\mid n{\mbox{ is prime}}\}.}
+docID=995 position=42
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15003.html
 {\displaystyle QC_{x}=C_{x}=\{x\}}
+docID=28827 position=40
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01046.html
 {\displaystyle P_{E}=P_{T}\,}
+docID=19293 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13369.html
 {\displaystyle P_{a}=P_{r}}
+docID=13635 position=259
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23578.html
 {\displaystyle P_{i}=P_{j}}
+docID=12610 position=81
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25595.html
 {\displaystyle\textstyle P_{{X_{r}}}=P}
+docID=19432 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06386.html
 {\displaystyle P_{{{\rm{abs}}}}=P_{{{\rm{emt\,bb}}}}}
+docID=17438 position=42
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00873.html
 {\displaystyle\,P_{b}=P_{{bc}}}
+docID=3232 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24806.html
 {\displaystyle P_{B}=P_{g}\Rightarrow}
+docID=9470 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00680.html
 {\displaystyle\{x\mid x=x\}}
+docID=19843 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12224.html
 {\displaystyle\{x\mid x\not\in x\}}
+docID=15469 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07066.html
 {\displaystyle\{x\mid x\not\in x\}}
+docID=28751 position=27
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11401.html
 {\displaystyle a\not\!\triangleleft S-\{a\}}
+docID=3067 position=106
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23409.html
 {\displaystyle P_{V}^{2}=P_{V}.}
+docID=26165 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27407.html
 {\displaystyle{\mathrm{M}}={\mathbb{R}}^{2}-\{0\}}
+docID=375 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15414.html
 {\displaystyle\Delta P=P_{m}-P_{e}}
+docID=28047 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27237.html
 {\displaystyle P_{{{\text{ph}}}}=P_{{i}}-P_{{f}}}
+docID=12141 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01761.html
 {\displaystyle\!P_{{{\text{pulse}}}}=P_{{{\text{sys}}}}-P_{{{\text{dias}}}}.}
+docID=2849 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25376.html
 {\displaystyle P_{{max}}=P_{m}+H}
+docID=17595 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16109.html
 {\displaystyle{\Delta P}=P_{{ATM}}-P_{A}}
+docID=6585 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24972.html
 {\displaystyle K_{1}^{M}(F)=F-\{0\}}
+docID=16716 position=130
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08991.html
 {\displaystyle[x]_{{({\mathrm{RED}}-\{a\})}}\neq[x]_{P}}
+docID=5232 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07898.html
 {\displaystyle EIRP=P_{T}-L_{c}+G_{a}}

@@ -1,31 +1,91 @@
-={x,p_{x}}_{{DB}}={y,p_{y}}_{{DB}}={rac{1}{2}}
+\text{query}: \qquad \{x,p_{x}\}_{{DB}}=\{y,p_{y}\}_{{DB}}={\frac{1}{2}}
+docID=29343 position=74
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/18056.html
 {\displaystyle\{x,p_{x}\}_{{DB}}=\{y,p_{y}\}_{{DB}}={\frac{1}{2}}}
+docID=29343 position=77
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/18056.html
 {\displaystyle[{\hat{x}},{\hat{p}}_{x}]=[{\hat{y}},{\hat{p}}_{y}]=i{\frac{%&#10;\hbar}{2}}}
+docID=6495 position=84
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25261.html
 {\displaystyle\{O_{n},f\}=\{E_{n},f\}=0}
+docID=29343 position=72
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/18056.html
 {\displaystyle\{f,g\}_{{DB}}=\{f,g\}_{{PB}}+{\frac{c\epsilon_{{ab}}}{qB}}\{f,%&#10;\phi_{a}\}_{{PB}}\{\phi_{b},g\}_{{PB}}.}
+docID=6495 position=75
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25261.html
 {\displaystyle\{x_{i},x_{j}\}=\{y_{i},y_{j}\}=\{x_{i},y_{j}\}=0}
+docID=23674 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/30237.html
 {\displaystyle D(x,y)={\frac{1}{2}}}
+docID=27899 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02956.html
 {\displaystyle I_{x}(\alpha,\beta)={\tfrac{1}{2}}}
+docID=3220 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11649.html
 {\displaystyle{\hbox{DSSIM}}(x,y)={\frac{1-{\hbox{SSIM}}(x,y)}{2}}}
+docID=9669 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16202.html
 {\displaystyle[AB_{{\mathrm{r}}}]^{{\ddagger}}=[AB_{{\mathrm{l}}}]^{{\ddagger}%&#10;}={\frac{1}{2}}[AB]^{{\ddagger}}}
+docID=28199 position=45
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10953.html
 {\displaystyle\left\{Q,\overline{S}\right\}=\left\{\overline{Q},S\right\}=0}
+docID=20747 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03717.html
 {\displaystyle\{p_{i},p_{j}\}=\{q_{i},q_{j}\}=0}
+docID=28464 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00732.html
 {\displaystyle(x,\ x)_{K}=\{\{x\},\{x,\ x\}\}=\{\{x\},\ \{x\}\}=\{\{x\}\}}
+docID=29343 position=62
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/18056.html
 {\displaystyle{\dot{x}}=\{x,H\}_{{PB}}+u_{1}\{x,\phi_{1}\}_{{PB}}+u_{2}\{x,%&#10;\phi_{2}\}=-{\frac{c}{qB}}{\frac{\partial V}{\partial y}}}
+docID=106 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07362.html
 {\displaystyle H=\{Q_{1},Q_{1}\}=\{Q_{2},Q_{2}\}={\frac{p^{2}}{2}}+{\frac{W^{2%&#10;}}{2}}+{\frac{W^{\prime}}{2}}(bb^{\dagger}-b^{\dagger}b)}
+docID=19717 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14573.html
 {\displaystyle\{a,b\}=\{b,a\}}
+docID=29343 position=73
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/18056.html
 {\displaystyle\{x,y\}_{{DB}}=-{\tfrac{c}{qB}}}
+docID=29343 position=84
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/18056.html
 {\displaystyle\{x_{i},p_{j}\}_{{DB}}=\delta_{{ij}}-x_{i}x_{j},}
+docID=29343 position=68
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/18056.html
 {\displaystyle\{\phi_{1},\phi_{2}\}_{{PB}}=-\{\phi_{2},\phi_{1}\}_{{PB}}={%&#10;\frac{qB}{c}},}
+docID=8718 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24387.html
 {\displaystyle\lim_{{x\to 0}}f(x)={\frac{\varphi(0)}{2}}={\frac{1}{2{\sqrt{2%&#10;\pi}}}}}
+docID=14178 position=93
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06286.html
 {\displaystyle\{a_{i}^{\dagger},a_{j}^{\dagger}\}=\{a_{i},a_{j}\}=0.}
+docID=4743 position=26
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08060.html
 {\displaystyle|t|={\frac{1}{2}}}
+docID=24588 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00047.html
 {\displaystyle\Re(s)={\tfrac{1}{2}}}
+docID=29343 position=83
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/18056.html
 {\displaystyle\{x_{i},x_{j}\}_{{DB}}=0,}
+docID=15506 position=24
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02274.html
 {\displaystyle X_{C}={\frac{1}{\omega C}}={\frac{1}{2\pi fC}}}
+docID=6453 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06738.html
 {\displaystyle v_{g}={\frac{d{\omega}}{dk}}={\frac{1}{2}}v_{p}.}
+docID=29343 position=75
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/18056.html
 {\displaystyle\{p_{x},p_{y}\}_{{DB}}=-{\tfrac{qB}{4c}}.}
+docID=17505 position=45
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07804.html
 {\displaystyle\{{\mathbf{e}}_{1},{\mathbf{e}}_{2}\}=\left\{{\begin{pmatrix}1\\&#10;0\end{pmatrix}},{\begin{pmatrix}0\\&#10;1\end{pmatrix}}\right\}}
+docID=1562 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06301.html
 {\displaystyle\{x,p\}=1\,.}
+docID=722 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07732.html
 {\displaystyle\{Q,Q\}=\{Q^{\dagger},Q^{\dagger}\}=0}
+docID=28199 position=41
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10953.html
 {\displaystyle\left\{Q,Q\right\}=\left\{\overline{Q},\overline{Q}\right\}=0}

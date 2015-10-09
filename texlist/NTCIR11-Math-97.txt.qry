@@ -1,31 +1,91 @@
-={mathbf{J^{T}W Delta y}}
+\text{query}: \qquad {\mathbf{J^{T}W\ \Delta y}}
+docID=5202 position=66
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21658.html
 {\displaystyle{\mathbf{J^{T}W\ \Delta y}}}
+docID=5202 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21658.html
 {\displaystyle{\mathbf{\left(J^{T}WJ\right)\Delta{\boldsymbol{\beta}}=J^{T}W\ %&#10;\Delta y}}.}
+docID=16292 position=50
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02082.html
 {\displaystyle{\mathbf{\left(J^{T}WJ\right){\boldsymbol{\Delta}}\beta=J^{T}W{%&#10;\boldsymbol{\Delta}}y}}.\,}
+docID=794 position=47
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07126.html
 {\displaystyle{\mathbf{J^{T}M^{{-1}}J\Delta{\boldsymbol{\beta}}=J^{T}M^{{-1}}%&#10;\Delta y}}.}
+docID=5202 position=65
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21658.html
 {\displaystyle\lambda{\mathbf{I\gg{}J^{T}WJ}},\ {\mathbf{\Delta{\boldsymbol{%&#10;\beta}}}}\approx 1/\lambda{\mathbf{J^{T}W\ \Delta y}}.}
+docID=16292 position=29
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02082.html
 {\displaystyle{\mathbf{\left(J^{T}J\right)\Delta{\boldsymbol{\beta}}=J^{T}%&#10;\Delta y}}.\,}
+docID=5202 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21658.html
 {\displaystyle{\mathbf{\left(J^{T}J\right)\Delta{\boldsymbol{\beta}}=J^{T}\ %&#10;\Delta y}}.}
+docID=5202 position=81
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21658.html
 {\displaystyle{\mathbf{R_{n}\ \Delta{\boldsymbol{\beta}}=\left(Q^{T}\ \Delta y%&#10;\right)_{n}}}.\,}
+docID=5202 position=62
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21658.html
 {\displaystyle{\mathbf{\left(J^{T}WJ+\lambda I\right)\Delta{\boldsymbol{\beta}%&#10;}=\left(J^{T}W\right)\Delta y}}}
+docID=5202 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21658.html
 {\displaystyle{\mathbf{X^{T}WX}}}
+docID=2669 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09608.html
 {\displaystyle{\mathbf{s}}_{k}^{{{\mathrm{T}}}}{\mathbf{y}}_{k}}
+docID=6136 position=111
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10137.html
 {\displaystyle{\mathrm{D}}^{i}f({\mathbf{y}})}
+docID=2990 position=53
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17016.html
 {\displaystyle{\mathbf{\Sigma^{p}=(J^{T}WJ)^{{-1}}}}}
+docID=2990 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17016.html
 {\displaystyle{\mathbf{\left(J^{T}WJ\right)\delta p=J^{T}Wr}}}
+docID=2846 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09762.html
 {\displaystyle{{\mathbf{a}}}=\left({{{\mathbf{J}}}^{{{\mathbf{T}}}}{{\mathbf{J%&#10;}}}}\right)^{{-{{\mathbf{1}}}}}{{\mathbf{J}}}^{{{\mathbf{T}}}}{{\mathbf{y}}}}
+docID=5202 position=56
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21658.html
 {\displaystyle{\mathbf{\left(J^{T}WJ\right)\Delta{\boldsymbol{\beta}}=\left(J^%&#10;{T}W\right)\Delta y}}}
+docID=2990 position=81
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17016.html
 {\displaystyle{\mathbf{r=y^{{\text{obs}}}-J\left(J^{T}T\right)^{{-1}}J^{T}y^{{%&#10;\text{obs}}}}}}
+docID=9195 position=62
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05133.html
 {\displaystyle{\boldsymbol{\beta}}=S{\mathbf{y}}}
+docID=13246 position=24
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00730.html
 {\displaystyle A{\mathbf{x}}={\mathbf{y}}}
+docID=2648 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15189.html
 {\displaystyle T{\mathbf{x}}={\mathbf{y}}}
+docID=9195 position=141
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05133.html
 {\displaystyle{\mathbf{X}}{\boldsymbol{\beta}}={\mathbf{y}}}
+docID=13788 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12656.html
 {\displaystyle{\mathbf{p^{{T}}}}}
+docID=29990 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22681.html
 {\displaystyle\Delta{\mathbf{y}}}
+docID=7804 position=44
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26684.html
 {\displaystyle{\mathbf{y^{{\prime\prime}}}}}
+docID=12187 position=40
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12337.html
 {\displaystyle{\mathbf{T}}^{e}}
+docID=19477 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03090.html
 {\displaystyle{{\mathbf{T}}}^{n}}
+docID=5202 position=86
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21658.html
 {\displaystyle{\mathbf{J^{T}J}}}
+docID=12143 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14698.html
 {\displaystyle{\mathbf{x_{i}^{T}}}}
+docID=7858 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15316.html
 {\displaystyle{\mathbf{y}}_{i}^{{{\rm{T}}}}}
+docID=22872 position=16
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27502.html
 {\displaystyle{\mathbf{TR{{\tilde{T}}}}}}

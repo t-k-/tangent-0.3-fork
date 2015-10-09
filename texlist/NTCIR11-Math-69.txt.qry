@@ -1,31 +1,91 @@
-=eta={rac{work done}{heat absorbed}}={rac{Q1-Q2}{Q1}}
+\text{query}: \qquad \eta={\frac{work\ done}{heat\ absorbed}}={\frac{Q1-Q2}{Q1}}
+docID=7099 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15167.html
 {\displaystyle\eta={\frac{work\ done}{heat\ absorbed}}={\frac{Q1-Q2}{Q1}}}
+docID=20372 position=24
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01000.html
 {\displaystyle{\eta_{{stage}}}={\frac{Work~{}done~{}on~{}blade}{Energy~{}%&#10;supplied~{}per~{}stage}}={\frac{U\Delta V_{w}}{\Delta h}}}
+docID=20372 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01000.html
 {\displaystyle{\eta_{b}}={\frac{Work~{}Done}{Kinetic~{}Energy~{}Supplied}}={%&#10;\frac{2UV_{w}}{V_{1}^{2}}}}
+docID=3824 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27776.html
 {\displaystyle{\eta_{c}}={{useful\,heat\,received\,by\,the\,coolant}\over{%&#10;incident\,radiation\,on\,the\,collector}}={Qu\over Qc}}
+docID=3824 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27776.html
 {\displaystyle{\eta_{0}}={{heat\,energy\,received\,by\,the\,receiver}\over{%&#10;incident\,radiation\,on\,the\,collector}}={Qr\over Qc}}
+docID=15792 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29457.html
 {\displaystyle\eta_{p}={\frac{AcutalPower(P)}{IdealPower(P_{i})}}={\frac{F_{x}%&#10;C_{u}}{{\frac{1}{2}}\rho AC(C_{s}^{2}-C_{u}^{2})}}={\frac{C_{u}}{C}}={\frac{1}%&#10;{1+a}}}
+docID=3824 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27776.html
 {\displaystyle{CR}={{aperture\,area\,of\,concentrator}\over{receiver\,surface%&#10;\,area}}={Ac\over Ar}}
+docID=13983 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/30147.html
 {\displaystyle Deflection={\frac{Force}{Stiffness}}={\frac{F_{{static}}}{2k}}}
+docID=24849 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15922.html
 {\displaystyle elongatedness={\frac{length}{width}}={\frac{area}{(2d)^{2}}}}
+docID=16576 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16204.html
 {\displaystyle Q={\frac{1}{tan\delta}}={\frac{f_{0}}{B}}\ }
+docID=28655 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11305.html
 {\displaystyle Q={\frac{1}{tan\delta}}={\frac{f_{0}}{B}}\ }
+docID=26239 position=31
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03523.html
 {\displaystyle p={\frac{A_{{1}}}{A_{{2}}}}={\frac{\pi 5^{2}}{\pi 1^{2}}}=25}
+docID=1206 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/20292.html
 {\displaystyle{\frac{force}{area}}={\mathrm{{\frac{N}{m^{2}}}}}}
+docID=16518 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02652.html
 {\displaystyle a_{0}={\frac{4\pi\varepsilon_{0}\hbar^{2}}{m_{{{\mathrm{e}}}}e^%&#10;{2}}}={\frac{\hbar}{m_{{{\mathrm{e}}}}\,c\,\alpha}}}
+docID=28706 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05469.html
 {\displaystyle COP_{{heating}}={\frac{Q_{{hot}}}{Q_{{hot}}-Q_{{cold}}}}}
+docID=5835 position=110
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01613.html
 {\displaystyle{\mathrm{Ri}}={\frac{gh}{u^{2}}}={\frac{1}{{\mathrm{Fr}}^{2}}}}
+docID=4917 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26640.html
 {\displaystyle r={w\over h}={\frac{\tan\left({H\over 2}\right)}{\tan\left({V%&#10;\over 2}\right)}}}
+docID=4971 position=42
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01993.html
 {\displaystyle R_{c}={\frac{\Delta T}{{\dot{Q}}}}={\frac{\ln(r_{2}/r_{1})}{2%&#10;\pi k\ell}}}
+docID=1154 position=94
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27573.html
 {\displaystyle D={\frac{var_{{obs}}}{var_{{bin}}}}={\frac{s^{2}}{np(1-p)}}}
+docID=11244 position=37
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27710.html
 {\displaystyle\nu={\frac{2eV}{h}}={\frac{V}{\Phi_{0}}}}
+docID=18436 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27099.html
 {\displaystyle\eta^{2}={\frac{\omega_{R}}{\omega_{z}}}={\frac{{\mathrm{change%&#10;\,in\,kinetic\,energy}}}{{\mathrm{quantized\,energy\,spacing\,of\,HO}}}}.}
+docID=28271 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05801.html
 {\displaystyle Q_{{Corrected}}=Q_{{Measured}}*{\rho_{{In}}\over\rho_{{Out}}}\,\!}
+docID=28271 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05801.html
 {\displaystyle Q_{{Corrected}}=Q_{{Measured}}*{\rho_{{Out}}\over\rho_{{In}}}\,\!}
+docID=28706 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05469.html
 {\displaystyle COP_{{heating}}={\frac{|Q_{{H}}|}{W}}={\frac{|Q_{{C}}|+W}{W}}}
+docID=17253 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24014.html
 {\displaystyle\nu={\frac{V}{m}}={\frac{1}{\rho}}}
+docID=11154 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15320.html
 {\displaystyle\sin\theta={\frac{{\mathrm{opposite}}}{{\mathrm{hypotenuse}}}}={%&#10;\frac{a}{h}}}
+docID=11154 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15320.html
 {\displaystyle\cos\theta={\frac{{\mathrm{adjacent}}}{{\mathrm{hypotenuse}}}}={%&#10;\frac{b}{h}}}
+docID=16015 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22981.html
 {\displaystyle K_{{{\rm{J}}}}={\frac{\nu}{U}}={\frac{2e}{h}}\,}
+docID=20372 position=52
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01000.html
 {\displaystyle{\rho_{{opt}}}={\frac{U}{V_{1}}}={\frac{\cos\alpha_{1}}{2}}}
+docID=23131 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03456.html
 {\displaystyle U={\frac{1}{R}}={\frac{{\dot{Q}}_{A}}{\Delta T}}={\frac{k}{L}}}

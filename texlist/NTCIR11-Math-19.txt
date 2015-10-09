@@ -1,30 +1,90 @@
+docID=28896 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03897.html
 {\displaystyle Z=\sum_{{j}}g_{j}\cdot{\mathrm{e}}^{{-\beta E_{j}}}}
+docID=5446 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14433.html
 {\displaystyle{\hat{\rho}}_{A}=\sum_{{j,k}}c_{{j,k}}\cdot{\hat{a}}^{j}{\hat{a}%&#10;}^{{\dagger k}}.}
+docID=23095 position=27
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05057.html
 {\displaystyle\delta W=\sum_{{j=1}}^{m}{\mathbf{F}}_{j}\cdot\delta{\mathbf{r}}%&#10;_{j}.}
+docID=24993 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07925.html
 {\displaystyle\delta W=\sum_{{j=1}}^{m}{\mathbf{F}}_{j}\cdot\delta{\mathbf{r}}%&#10;_{j}.}
+docID=28354 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02791.html
 {\displaystyle A=\sum_{j}\lambda_{j}u_{j}u_{j}^{\dagger}}
+docID=603 position=42
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16952.html
 {\displaystyle f(x)=\sum_{{j=0}}^{2}y_{j}\cdot\ell_{j}(x)\,\!}
+docID=5640 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26288.html
 {\displaystyle X=\sum_{j}f_{j}(x){\partial\over\partial x_{j}}}
+docID=1484 position=42
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03103.html
 {\displaystyle a_{{i}}=\sum_{{j=1}}^{n}A(i,j){\hat{e}}_{{j}}}
+docID=1708 position=53
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06079.html
 {\displaystyle F[{\vec{g}}]=\sum_{{j=1}}^{{N}}f_{j}[{\vec{g}}]e^{{2\pi i{\vec{%&#10;g}}\cdot{\vec{r}}_{{j}}}}.}
+docID=18348 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/28133.html
 {\displaystyle E=\sum_{j}H_{j}W_{j}\,\!}
+docID=2828 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00479.html
 {\displaystyle a=\sum_{j}u_{j}a_{j}\,}
+docID=22343 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16393.html
 {\displaystyle{\mathbf{x}}~{}=~{}\sum_{j}a_{j}{\mathbf{q}}_{j}}
+docID=25184 position=51
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02206.html
 {\displaystyle Y=\textstyle\sum_{{j=1}}^{n}X_{j}}
+docID=578 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27278.html
 {\displaystyle Y=\sum_{{j=1}}^{p}X_{j}}
+docID=3447 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/28978.html
 {\displaystyle K=\sum_{j}\pi_{j}m_{ij}}
+docID=14087 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04586.html
 {\displaystyle\,y=\sum_{j}w_{j}x_{j},}
+docID=24936 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/28316.html
 {\displaystyle A=\sum_{j}\lambda_{j}P_{j}.}
+docID=10679 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24185.html
 {\displaystyle\nu_{G}=\sum_{{j}}\sigma_{j}\nu_{j}}
+docID=9547 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23431.html
 {\displaystyle\Delta G_{i}=\sum_{{j}}\gamma_{j}O_{j}~{}}
+docID=13114 position=44
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23498.html
 {\displaystyle s_{\Lambda}=\sum_{{j=1}}^{m}x_{j}}
+docID=16005 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04903.html
 {\displaystyle X_{i}=\sum_{{j=1}}^{i}F_{j}}
+docID=4266 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13926.html
 {\displaystyle R_{i}=\sum_{{j=1}}^{i}r_{j}}
+docID=2828 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00479.html
 {\displaystyle a=\sum_{j}u_{j}a_{j}^{{(k)}}}
+docID=14189 position=35
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24842.html
 {\displaystyle E=\sum\nolimits_{{j=1}}^{N}\,k_{j}^{2}}
+docID=21765 position=52
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11333.html
 {\displaystyle\rho=\sum_{j}a_{j}a_{j}^{*}.}
+docID=15251 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22517.html
 {\displaystyle u=\sum_{{j=1}}^{{n}}F_{{j}}h_{{j}}}
+docID=11704 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06879.html
 {\displaystyle{\mathbf{x}}=\sum_{{j=1}}^{k}\lambda_{j}{\mathbf{x}}_{j}}
+docID=14970 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17078.html
 {\displaystyle E_{{tot}}=\sum_{j}c_{j}E_{j}}
+docID=11883 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24349.html
 {\displaystyle\sum_{i}v_{i}=\sum_{j}w_{j}=0}
+docID=10995 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00470.html
 {\displaystyle M_{i}=\sum_{{j=1}}^{i}{m_{j}}.}

@@ -1,31 +1,91 @@
-=Lleft(Cight)leq Lleft(Tight)
+\text{query}: \qquad L\left(C\right)\leq L\left(T\right)
+docID=2412 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00485.html
 {\displaystyle L\left(C\right)\leq L\left(T\right)}
+docID=10865 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27117.html
 {\displaystyle f(T)\leq f(S)}
+docID=10852 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24546.html
 {\displaystyle f(x)\leq_{T}f(y)}
+docID=2097 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06038.html
 {\displaystyle S\subseteq T\Rightarrow v(S)\leq v(T)}
+docID=12230 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26128.html
 {\displaystyle L_{{2^{\prime}}}(C_{X}(T))\leq L_{{2^{\prime}}}(X)}
+docID=3958 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11506.html
 {\displaystyle L(gh)\leq L(g)+L(h)}
+docID=13670 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15254.html
 {\displaystyle p\leq q\Rightarrow L_{p}(x)\leq L_{q}(x)}
+docID=8047 position=112
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11174.html
 {\displaystyle L(u)&lt;L(v)}
+docID=29357 position=31
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00216.html
 {\displaystyle L(A)=L(B)}
+docID=29357 position=33
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00216.html
 {\displaystyle L(A)\subseteq L(B)}
+docID=8777 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24417.html
 {\displaystyle L_{1}(x)\in L_{1}(B)}
+docID=29357 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00216.html
 {\displaystyle L(A)\cap L(B)=\emptyset}
+docID=6442 position=31
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15695.html
 {\displaystyle T:L^{p}(Y)\to L^{q}(X)}
+docID=4665 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16577.html
 {\displaystyle H(p)\leq L(p)\leq nH(p)}
+docID=7299 position=30
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23619.html
 {\displaystyle L^{\%}(M)\to L(M)}
+docID=20658 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10764.html
 {\displaystyle\phi_{a}(T)\to\phi(T)}
+docID=14698 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15480.html
 {\displaystyle X(T)\to X(T_{0})}
+docID=4302 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14011.html
 {\displaystyle{{\mathbf{x}}}^{{\mathrm{T}}}(T)F{{\mathbf{x}}}(T)}
+docID=14819 position=43
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16935.html
 {\displaystyle\displaystyle{T(t)=e_{t}(T)}}
+docID=6078 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22309.html
 {\displaystyle L^{{\varphi}}(X)=L^{{p}}(X)}
+docID=21122 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06248.html
 {\displaystyle L_{n}(R)\to L^{n}(R)}
+docID=24966 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09587.html
 {\displaystyle L(t)=L(0)e^{{nt}}}
+docID=1414 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00862.html
 {\displaystyle L(x)^{{-1}}=L(x^{{\lambda}})}
+docID=5501 position=26
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01600.html
 {\displaystyle L^{1}(\mathbb{R})\cap L^{2}(\mathbb{R}).}
+docID=26376 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02127.html
 {\displaystyle F:{\mathrm{L(A)}}^{N}\to{\mathrm{L(A)}}}
+docID=1620 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16159.html
 {\displaystyle\Phi:L(H_{1})\rightarrow L(H_{2})}
+docID=12487 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07260.html
 {\displaystyle\Psi:L(H_{B})\rightarrow L(H_{A})}
+docID=4660 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13590.html
 {\displaystyle\sigma\in L(H_{A})\otimes L(H_{B})}
+docID=12487 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07260.html
 {\displaystyle\Phi:L(H_{A})\rightarrow L(H_{B})}
+docID=7476 position=195
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22012.html
 {\displaystyle L_{\rho}(\gamma)=L_{{\rho^{*}}}(\gamma^{*})}

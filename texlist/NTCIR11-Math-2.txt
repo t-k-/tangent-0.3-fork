@@ -1,30 +1,90 @@
+docID=29655 position=24
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00657.html
 {\displaystyle\left(X,\Sigma\right)}
+docID=22259 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11571.html
 {\displaystyle(X,\Sigma)}
+docID=26103 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27360.html
 {\displaystyle(X,\Sigma)}
+docID=12026 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06189.html
 {\displaystyle(X,\Sigma)}
+docID=5871 position=62
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16758.html
 {\displaystyle\textstyle(X,\Sigma)}
+docID=2155 position=189
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04050.html
 {\displaystyle(X,\Sigma)}
+docID=3703 position=31
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16046.html
 {\displaystyle(X,\Sigma)}
+docID=14526 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11568.html
 {\displaystyle(X,\Sigma)}
+docID=16903 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02805.html
 {\displaystyle(X,\Sigma)}
+docID=18895 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22781.html
 {\displaystyle(X,\varnothing)}
+docID=2055 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/30042.html
 {\displaystyle(X,U)}
+docID=1009 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/30032.html
 {\displaystyle(X,U)}
+docID=16859 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01008.html
 {\displaystyle\scriptstyle(X,\,{\mathcal{F}})}
+docID=406 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25198.html
 {\displaystyle(X,{\mathcal{F}})}
+docID=57 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14929.html
 {\displaystyle(X,{\mathcal{F}})}
+docID=15157 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13511.html
 {\displaystyle(X,\omega)}
+docID=23422 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26714.html
 {\displaystyle(X,D)}
+docID=10258 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26722.html
 {\displaystyle(X,D)}
+docID=22358 position=28
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08412.html
 {\displaystyle(X,\mu)}
+docID=2035 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07318.html
 {\displaystyle(X,\mu)}
+docID=16038 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24859.html
 {\displaystyle(X,\mu)}
+docID=10283 position=249
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26981.html
 {\displaystyle(X,\mu)}
+docID=24599 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01776.html
 {\displaystyle(X,\mu)}
+docID=29524 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05257.html
 {\displaystyle(X,\rho)}
+docID=4903 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01745.html
 {\displaystyle(X,\rho)}
+docID=11163 position=45
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13956.html
 {\displaystyle(X,Y)}
+docID=12734 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21572.html
 {\displaystyle(X,Y)}
+docID=20609 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14883.html
 {\displaystyle(X,Y)}
+docID=21180 position=24
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00511.html
 {\displaystyle(X,Y)}
+docID=27283 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12421.html
 {\displaystyle(X,Y)}

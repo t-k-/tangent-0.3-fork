@@ -1,31 +1,91 @@
-=p={{rac{-xpm{sqrt{x^{qvar{x0}}-4({qvar{x1}})({rac{qvar{x2}}{qvar{x3}}}-y)}}}{2({rac{-gx^{2}}{qvar{x4}}})}}}
+\text{query}: \qquad p={{\frac{-x\pm{\sqrt{x^{\qvar{x0}}-4({\qvar{x1}})({\frac{\qvar{x2}}{\qvar{x3}}}-y)}}}{2({\frac{-gx^{2}}{\qvar{x4}}})}}}
+docID=28759 position=26
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09833.html
 {\displaystyle p={{\frac{-x\pm{\sqrt{x^{2}-4({\frac{-gx^{2}}{2v^{2}}})({\frac{%&#10;-gx^{2}}{2v^{2}}}-y)}}}{2({\frac{-gx^{2}}{2v^{2}}})}}}}
+docID=28943 position=44
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27191.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac}}}{2a}}\quad\Rightarrow\quad x={%&#10;y_{2}\over y_{1}}={\frac{-{1\over 2}\pm{\sqrt{{1\over 2}^{2}-4\left({1\over 2}%&#10;\right)\left(-F_{{r_{1}}}^{2}\right)}}}{2\left({1\over 2}\right)}}={\frac{-{1%&#10;\over 2}\pm{\sqrt{{1\over 4}+2{F_{{r_{1}}}^{2}}}}}{1}}}
+docID=10 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27176.html
 {\displaystyle x={\frac{-{\tfrac{1}{2}}\pm{\sqrt{(1/2)^{2}-4(1/2)(Fr_{1}^{2})}%&#10;}}{2(1/2)}}=-{\frac{1}{2}}{\sqrt{(1/4)-8(Fr_{1}^{2})}}.}
+docID=2554 position=39
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06805.html
 {\displaystyle x={\frac{-B\pm{\sqrt{B^{2}-4AC}}}{2A}}}
+docID=17537 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02397.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac}}}{2a}}}
+docID=17016 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01801.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac\ }}}{2a}}}
+docID=22277 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06457.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac}}}{2a}}}
+docID=10447 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/30310.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac\ }}}{2a}}}
+docID=17902 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01656.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac}}}{2a}}}
+docID=25573 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07823.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac}}}{2a}}}
+docID=17694 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05695.html
 {\displaystyle x={-b\pm{\sqrt{b^{2}-4ac}}\over 2a}}
+docID=7817 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08906.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac\ }}}{2a}},}
+docID=26843 position=131
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00346.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac}}}{2a}},}
+docID=542 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21998.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac}}}{2a}},}
+docID=29959 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13670.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac\ }}}{2a}}.}
+docID=21483 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04341.html
 {\displaystyle\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac}}}{2a}}.}
+docID=5247 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00639.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac}}}{2a}}.}
+docID=17537 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02397.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac\ }}}{2a}}.}
+docID=29998 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02281.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac}}}{2a}}.}
+docID=17016 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01801.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac\ }}}{2a}}.}
+docID=26661 position=16
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25774.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac}}}{2a}}.}
+docID=19056 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00855.html
 {\displaystyle x={\frac{-b\pm{\sqrt{b^{2}-4ac\ }}}{2a}}.}
+docID=13796 position=24
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26075.html
 {\displaystyle x={\frac{-{\tfrac{1}{2}}\pm{\sqrt{(1/2)^{2}+4(1/2)(Fr_{1}^{2})}%&#10;}}{2(1/2)}}=-{\frac{1}{2}}{\sqrt{(1/4)+2(Fr_{1}^{2})}}}
+docID=24886 position=31
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01739.html
 {\displaystyle x_{{1,2}}={\frac{-b\pm{\sqrt{\Delta}}}{2a}}={\frac{-b\pm{\sqrt{%&#10;b^{2}-4ac}}}{2a}}}
+docID=22991 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12720.html
 {\displaystyle{\frac{-\alpha\pm{\sqrt{\alpha^{2}-4}}}{2}}}
+docID=28533 position=39
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00467.html
 {\displaystyle f^{\prime\prime}(x)=\left({\frac{q}{p}}\right)\left({\frac{q}{p%&#10;}}-1\right)x^{{{\frac{q}{p}}-2}}}
+docID=17016 position=82
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01801.html
 {\displaystyle\textstyle{{\frac{1}{2}}}\left(-p\pm{\sqrt{p^{2}-4q}}\right)}
+docID=11199 position=34
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12489.html
 {\displaystyle{\frac{R}{i}}-\left(1+i\right)^{n}\left({\frac{R}{i}}-P\right)}
+docID=16556 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03930.html
 {\displaystyle x={\frac{1}{2}}\left(-p\pm{\sqrt{p^{2}-4q}}\right).}
+docID=14606 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21772.html
 {\displaystyle Z_{P}={\cfrac{bh^{2}}{4}}-(b-2t)({\cfrac{h}{2}}-t)^{2}}

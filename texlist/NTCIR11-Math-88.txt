@@ -1,30 +1,90 @@
+docID=3360 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07146.html
 {\displaystyle\Pi_{n}}
+docID=12163 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02926.html
 {\displaystyle\Pi_{n}}
+docID=7498 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08998.html
 {\displaystyle\Pi_{n}}
+docID=496 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12699.html
 {\displaystyle f_{n}}
+docID=13804 position=24
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06756.html
 {\displaystyle f_{n}}
+docID=20092 position=26
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/30027.html
 {\displaystyle f_{n}}
+docID=21631 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17880.html
 {\displaystyle{f_{n}}}
+docID=22876 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15265.html
 {\displaystyle f_{{n}}}
+docID=24618 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11151.html
 {\displaystyle f_{n}}
+docID=21880 position=74
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16219.html
 {\displaystyle f_{n}}
+docID=10749 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25107.html
 {\displaystyle f_{n}}
+docID=27480 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16161.html
 {\displaystyle f_{n}}
+docID=1880 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03522.html
 {\displaystyle f_{{n}}}
+docID=735 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/30258.html
 {\displaystyle f_{n}}
+docID=9100 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01596.html
 {\displaystyle f_{n}}
+docID=3829 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02481.html
 {\displaystyle f_{n}}
+docID=10356 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04199.html
 {\displaystyle f_{n}}
+docID=11967 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25772.html
 {\displaystyle f_{n}}
+docID=24274 position=78
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00911.html
 {\displaystyle{f_{n}}}
+docID=23606 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22217.html
 {\displaystyle f_{n}}
+docID=24422 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03171.html
 {\displaystyle f_{n}}
+docID=13428 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27078.html
 {\displaystyle f_{n}}
+docID=13863 position=75
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00486.html
 {\displaystyle f_{n}\,}
+docID=27435 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05708.html
 {\displaystyle f_{n}\,}
+docID=29718 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10031.html
 {\displaystyle f_{n}}
+docID=13088 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27282.html
 {\displaystyle f_{n}}
+docID=24804 position=35
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03676.html
 {\displaystyle f_{n}}
+docID=3405 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00633.html
 {\displaystyle M_{n}}
+docID=26506 position=45
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11786.html
 {\displaystyle M_{{n}}}
+docID=19844 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26103.html
 {\displaystyle M_{n}}

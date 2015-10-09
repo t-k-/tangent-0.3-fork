@@ -1,31 +1,91 @@
-=Eleft[{hat{sigma}}^{2}ight]={rac{n-1}{n}}sigma^{2}
+\text{query}: \qquad E\left[{\hat{\sigma}}^{2}\right]={\frac{n-1}{n}}\sigma^{2}
+docID=17216 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14318.html
 {\displaystyle E\left[{\hat{\sigma}}^{2}\right]={\frac{n-1}{n}}\sigma^{2}}
+docID=10059 position=72
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02276.html
 {\displaystyle E\left[\widehat{\sigma}^{2}\right]={\frac{n-1}{n}}\sigma^{2}.}
+docID=27674 position=92
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01588.html
 {\displaystyle E[\widehat{{\boldsymbol{\Sigma}}}]={\frac{n-1}{n}}{\boldsymbol{%&#10;\Sigma}}.}
+docID=21860 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11341.html
 {\displaystyle[n]_{q}={\frac{q^{n}-1}{q-1}}}
+docID=23457 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24928.html
 {\displaystyle[t]_{q}={\frac{q^{t}-1}{q-1}}.}
+docID=12604 position=36
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17952.html
 {\displaystyle\operatorname{E}\left[s_{{{\text{biased}}}}^{2}\right]=\sigma^{2%&#10;}-{\frac{\sigma^{2}}{n}}={\frac{n-1}{n}}\sigma^{2}}
+docID=6561 position=83
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00018.html
 {\displaystyle\textstyle(x_{n}-{\bar{x}}_{n})={\frac{n-1}{n}}(x_{n}-{\bar{x}}_%&#10;{{n-1}})}
+docID=11823 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05108.html
 {\displaystyle L(u)={\frac{u-1}{n}}}
+docID=19076 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24401.html
 {\displaystyle\operatorname{E}\,{\hat{\sigma}}^{2}={\frac{n-p}{n}}\sigma^{2}}
+docID=10492 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11543.html
 {\displaystyle\scriptstyle\pi(P_{n})\,=\,2^{{n-1}}}
+docID=19522 position=37
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02900.html
 {\displaystyle\operatorname{MSE}(S_{{n}}^{2})=\operatorname{E}((S_{{n}}^{2}-%&#10;\sigma^{2})^{2})={\frac{2n-1}{n^{2}}}\sigma^{4}}
+docID=6235 position=50
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/28067.html
 {\displaystyle E[S]={\frac{1}{\mu}}}
+docID=8614 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06402.html
 {\displaystyle i=1-{\frac{n-1}{n}}\alpha}
+docID=2713 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01470.html
 {\displaystyle{\mathrm{E}}\left[X^{n}\right]={\frac{n!}{\lambda^{n}}}.}
+docID=17885 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16686.html
 {\displaystyle{{\rm{Var}}}\left[{{\bar{x}}}\right]\,\,\,=\,\,\,{{\sigma^{2}}%&#10;\over n}\,\,\gamma_{2}}
+docID=5835 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01613.html
 {\displaystyle V={\frac{n_{d}-1}{n_{F}-n_{C}}}}
+docID=27571 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00892.html
 {\displaystyle V={\frac{n_{{\text{yellow}}}-1}{n_{{\text{blue}}}-n_{{\text{red%&#10;}}}}}}
+docID=12604 position=37
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17952.html
 {\displaystyle s_{{{\text{unbiased}}}}^{2}={\frac{n}{n-1}}s_{{{\text{biased}}}%&#10;}^{2}}
+docID=29565 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00060.html
 {\displaystyle V_{d}={\frac{n_{d}-1}{n_{F}-n_{C}}}}
+docID=5305 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03799.html
 {\displaystyle R_{{\mu\nu}}={\frac{n-1}{\alpha^{2}}}g_{{\mu\nu}}}
+docID=16817 position=61
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00940.html
 {\displaystyle s_{n}^{2}={\frac{n^{\prime}}{n^{\prime}-1}}\sigma_{n}^{2}\,}
+docID=29565 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00060.html
 {\displaystyle V_{D}={\frac{n_{D}-1}{n_{F}-n_{C}}},}
+docID=11049 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15840.html
 {\displaystyle\operatorname{E}{\big[}(\overline{X}-\mu)^{2}{\big]}={\frac{1}{n%&#10;}}\sigma^{2}.}
+docID=29565 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00060.html
 {\displaystyle V_{e}={\frac{n_{e}-1}{n_{{F^{\prime}}}-n_{{C^{\prime}}}}}}
+docID=28401 position=47
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01076.html
 {\displaystyle\operatorname{Var}(\overline{X})={\frac{\sigma^{2}}{n}}+{\frac{n%&#10;-1}{n}}\rho\sigma^{2}.}
+docID=25852 position=53
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13485.html
 {\displaystyle\sigma_{{P}}^{{2}}={\frac{1}{n}}\sigma_{{i}}^{{2}}+{\frac{n-1}{n%&#10;}}{\bar{\sigma}}_{{ij}}}
+docID=16166 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14858.html
 {\displaystyle{\frac{1}{(m-1)n}}E(SSB)={\frac{\sigma^{2}}{n}}+\tau^{2}.}
+docID=18342 position=31
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02231.html
 {\displaystyle K_{1}=nK,K_{2}={\frac{n-1}{2}}K,\ldots K_{n}={\frac{1}{n}}K}
+docID=18183 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16171.html
 {\displaystyle\operatorname{Var}(\theta)=\sigma^{2}={\frac{n-1}{n}}\sum_{{i=1}%&#10;}^{n}({\bar{\theta}}_{i}-{\bar{\theta}}_{{\mathrm{Jack}}})^{2}}
+docID=11323 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06667.html
 {\displaystyle{\mathcal{N}}\alpha=3\,{\frac{n^{2}-1}{n^{2}+2}}}

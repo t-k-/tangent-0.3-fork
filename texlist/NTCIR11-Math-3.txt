@@ -1,30 +1,90 @@
+docID=1934 position=50
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04189.html
 {\displaystyle(p-1)!^{n}}
+docID=1934 position=51
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04189.html
 {\displaystyle|J_{1}\dots J_{n}|\geq(p-1)!^{n}}
+docID=12502 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00336.html
 {\displaystyle{\scriptstyle(z-1)!}}
+docID=18462 position=46
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05688.html
 {\displaystyle(n-1)!}
+docID=27457 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07875.html
 {\displaystyle(n-1)!}
+docID=9468 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03160.html
 {\displaystyle(n-1)!}
+docID=8784 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07032.html
 {\displaystyle(n-1){\mathbf{W}}}
+docID=25361 position=97
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22435.html
 {\displaystyle(\kappa-1)~{}r}
+docID=2642 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13226.html
 {\displaystyle(b-1)^{l}}
+docID=13224 position=16
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02752.html
 {\displaystyle n(n-1)!}
+docID=12212 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09572.html
 {\displaystyle(N^{{\prime}}-1)!}
+docID=12225 position=71
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23737.html
 {\displaystyle(m-1)!,}
+docID=17795 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02186.html
 {\displaystyle(e-1)n!}
+docID=25568 position=48
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01234.html
 {\displaystyle(d-1)m.}
+docID=6450 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10368.html
 {\displaystyle 1+(p-1)!}
+docID=19684 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04246.html
 {\displaystyle{\tfrac{1}{(n-1)!}}}
+docID=9468 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03160.html
 {\displaystyle(n-1)!\ {\bmod\ }n}
+docID=5006 position=56
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00858.html
 {\displaystyle(N-1)p+1\,}
+docID=1934 position=34
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04189.html
 {\displaystyle l(p-1)!d_{i}}
+docID=5392 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00432.html
 {\displaystyle\Gamma(n)=(n-1)!}
+docID=153 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03351.html
 {\displaystyle\Gamma(n)=(n-1)!\,}
+docID=27528 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06573.html
 {\displaystyle\,\Gamma(n)=(n-1)!\,}
+docID=6113 position=27
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02572.html
 {\displaystyle{\frac{n!}{(m-1)!}}.}
+docID=25095 position=278
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13655.html
 {\displaystyle(-1)^{n}(n-2)!}
+docID=1934 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04189.html
 {\displaystyle l^{p}(p-1)!d_{i}^{p}}
+docID=2311 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02736.html
 {\displaystyle(p-1)!\equiv-1{\;\;(\mathop{{\rm mod}}p)}\,}
+docID=20883 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07509.html
 {\displaystyle(p-1)!\equiv-1{\;\;(\mathop{{\rm mod}}p)}}
+docID=27140 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01705.html
 {\displaystyle(p-1)!\ \equiv\ -1{\;\;(\mathop{{\rm mod}}p)}}
+docID=28708 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00378.html
 {\displaystyle(p-1)!\ \equiv\ -1{\;\;(\mathop{{\rm mod}}p)}}
+docID=5749 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11357.html
 {\displaystyle(p-1)\,}

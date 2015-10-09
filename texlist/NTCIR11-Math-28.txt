@@ -1,30 +1,90 @@
+docID=22596 position=93
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01227.html
 {\displaystyle\sigma_{y}^{2}(\tau)={\frac{2\pi^{2}\tau}{3}}h_{{-2}}}
+docID=22596 position=69
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01227.html
 {\displaystyle\sigma_{y}^{2}(\tau)={\frac{3f_{H}}{4\pi^{2}\tau^{2}}}h_{2}}
+docID=22596 position=81
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01227.html
 {\displaystyle\sigma_{y}^{2}(\tau)={\frac{1}{2\tau}}h_{0}}
+docID=22596 position=92
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01227.html
 {\displaystyle S_{x}(f)={\frac{1}{(2\pi)^{2}f^{4}}}h_{{-2}}}
+docID=22596 position=86
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01227.html
 {\displaystyle S_{x}(f)={\frac{1}{(2\pi)^{2}f^{3}}}h_{{-1}}}
+docID=22596 position=75
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01227.html
 {\displaystyle\sigma_{y}^{2}(\tau)={\frac{3[\gamma+\ln(2\pi f_{H}\tau)]-\ln 2}%&#10;{4\pi^{2}\tau^{2}}}h_{1}}
+docID=9962 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13184.html
 {\displaystyle g(r)={\frac{4\pi}{3}}G\rho r.}
+docID=25009 position=38
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24060.html
 {\displaystyle\omega_{{pl}}^{2}(q)={\frac{2\pi e^{2}nq}{\epsilon m}}}
+docID=16622 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23543.html
 {\displaystyle V_{n}(R)={\frac{2\pi R^{2}}{n}}V_{{n-2}}(R).}
+docID=22596 position=55
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01227.html
 {\displaystyle\sigma_{x}^{2}(\tau)={\frac{\tau^{2}}{3}}Mod.\sigma_{y}^{2}(\tau)}
+docID=22596 position=119
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01227.html
 {\displaystyle\sigma_{y}^{2}(\tau)={\frac{1}{2}}\langle({\bar{y}}_{{i+1}}-{%&#10;\bar{y}}_{i})^{2}\rangle}
+docID=1692 position=56
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04913.html
 {\displaystyle g_{2}(\tau)={2\pi^{4}\over 3}\left[\vartheta(0;\tau)^{8}+%&#10;\vartheta_{{01}}(0;\tau)^{8}+\vartheta_{{10}}(0;\tau)^{8}\right]}
+docID=22596 position=68
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01227.html
 {\displaystyle S_{x}(f)={\frac{1}{(2\pi)^{2}}}h_{2}}
+docID=19728 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03322.html
 {\displaystyle B_{\nu}(T)={\frac{2\nu^{2}kT}{c^{2}}}.}
+docID=26587 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10010.html
 {\displaystyle V(r)={\frac{2\pi\hbar^{2}}{m}}b\,\delta(r)}
+docID=22596 position=80
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01227.html
 {\displaystyle S_{x}(f)={\frac{1}{(2\pi)^{2}f^{2}}}h_{0}}
+docID=1154 position=99
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27573.html
 {\displaystyle var(s^{2}-m)={\frac{2t^{2}}{n-1}}}
+docID=25396 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25585.html
 {\displaystyle\sigma_{x}^{2}(\tau)={\frac{\tau^{2}}{3}}\operatorname{mod}%&#10;\sigma_{y}^{2}(n\tau_{0})}
+docID=16594 position=60
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07704.html
 {\displaystyle\left({\frac{{\dot{a}}}{a}}\right)^{2}={\frac{8\pi G}{3}}\rho-{%&#10;\frac{kc^{2}}{a^{2}}}\,}
+docID=27366 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05655.html
 {\displaystyle V(r)={\frac{2}{3}}\pi G\rho(r^{2}-3R^{2}),\qquad r\leq R,}
+docID=16594 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07704.html
 {\displaystyle H^{2}=\left({\frac{{\dot{a}}}{a}}\right)^{2}={\frac{8\pi G}{3}}%&#10;\rho-{\frac{kc^{2}}{a^{2}}}}
+docID=22596 position=106
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01227.html
 {\displaystyle\sigma_{y}^{2}(\tau)={\frac{2}{\nu_{0}^{2}}}\int_{0}^{{f_{b}}}S_%&#10;{\phi}(f){\frac{\sin^{4}(\pi\tau f)}{(\pi\tau)^{2}}}df}
+docID=9905 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07346.html
 {\displaystyle\beta(\alpha)={\frac{2\alpha^{2}}{3\pi}}~{},}
+docID=2892 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27547.html
 {\displaystyle S(q)={\frac{2\pi}{q^{4}}}.}
+docID=24435 position=49
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16445.html
 {\displaystyle~{}k(\gamma)={\frac{2\pi}{T(\gamma)}}~{}}
+docID=17354 position=36
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07445.html
 {\displaystyle{\frac{{\mathrm{d}}}{{\mathrm{d}}\alpha}}\,\varphi(\alpha)\,={%&#10;\frac{2\pi}{\alpha}}\,}
+docID=22596 position=82
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01227.html
 {\displaystyle\sigma_{y}(\tau)={\frac{1}{{\sqrt{2\tau}}}}{\sqrt{h_{0}}}}
+docID=8064 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03955.html
 {\displaystyle G={\frac{2\pi^{2}Lr^{2}}{MT^{2}}}\theta\,}
+docID=8823 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14474.html
 {\displaystyle\Delta\left({\frac{1}{B}}\right)={\frac{2\pi e}{\hbar cS}}}
+docID=24435 position=50
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16445.html
 {\displaystyle k_{{\text{fit}}}(\gamma)={\frac{2\pi}{T_{{\text{fit}}}(\gamma)}%&#10;}=}

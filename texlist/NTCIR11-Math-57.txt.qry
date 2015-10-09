@@ -1,31 +1,91 @@
-=0ightarrow Bightarrow Aoplus Bightarrow Aightarrow 0.
+\text{query}: \qquad 0\rightarrow B\rightarrow A\oplus B\rightarrow A\rightarrow 0.
+docID=19081 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06693.html
 {\displaystyle 0\rightarrow B\rightarrow A\oplus B\rightarrow A\rightarrow 0.}
+docID=6368 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22712.html
 {\displaystyle 0\rightarrow F\rightarrow F\bigoplus H\rightarrow H\rightarrow 0}
+docID=13204 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26271.html
 {\displaystyle 0\to A\to T_{1}\to\dots\to T_{n}\to 0}
+docID=19081 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06693.html
 {\displaystyle 0\rightarrow B\rightarrow X_{n}\rightarrow\cdots\rightarrow X_{%&#10;1}\rightarrow A\rightarrow 0}
+docID=19081 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06693.html
 {\displaystyle 0\rightarrow B\rightarrow X^{\prime}_{n}\rightarrow\cdots%&#10;\rightarrow X^{\prime}_{1}\rightarrow A\rightarrow 0}
+docID=19081 position=24
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06693.html
 {\displaystyle 0\rightarrow B\rightarrow X^{\prime\prime}_{n}\rightarrow X_{{n%&#10;-1}}\oplus X^{\prime}_{{n-1}}\rightarrow\cdots\rightarrow X_{2}\oplus X^{%&#10;\prime}_{2}\rightarrow X^{\prime\prime}_{1}\rightarrow A\rightarrow 0.}
+docID=21909 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16632.html
 {\displaystyle C(f)=A[1]\oplus B=\dots\to A^{n}\oplus B^{{n-1}}\to A^{{n+1}}%&#10;\oplus B^{n}\to A^{{n+2}}\oplus B^{{n+1}}\to\cdots}
+docID=14422 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14812.html
 {\displaystyle 0\;\rightarrow\;A^{{[d]}}\;{\xrightarrow{f}}\;A\;\rightarrow\;A%&#10;/f\rightarrow\;0\,,}
+docID=4073 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08992.html
 {\displaystyle\cdots\to 0\to 0\to A^{n}\to A^{{n+1}}\to\cdots\to A^{{m-1}}\to A%&#10;^{m}\to 0\to 0\to\cdots}
+docID=25870 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01002.html
 {\displaystyle 0\to N\to M\to M/N\to 0.}
+docID=5151 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02265.html
 {\displaystyle 0\rightarrow C_{k}\rightarrow A_{k}\rightarrow C_{{k+1}}%&#10;\rightarrow 0}
+docID=19081 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06693.html
 {\displaystyle 0\rightarrow B\rightarrow E\rightarrow A\rightarrow 0.}
+docID=19081 position=18
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06693.html
 {\displaystyle 0\rightarrow B\rightarrow Y\rightarrow A\rightarrow 0}
+docID=19081 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06693.html
 {\displaystyle 0\rightarrow B\rightarrow E\rightarrow A\rightarrow 0}
+docID=24566 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05266.html
 {\displaystyle\cdots\rightarrow A\rightarrow A\rightarrow A\rightarrow\cdots}
+docID=6368 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22712.html
 {\displaystyle 0\rightarrow F\rightarrow G\rightarrow H\rightarrow 0.}
+docID=10655 position=16
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23554.html
 {\displaystyle 0\to X\to E\to Y\to 0\,}
+docID=11123 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07181.html
 {\displaystyle 0\rightarrow X\rightarrow Y\rightarrow Z\rightarrow 0}
+docID=29012 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04166.html
 {\displaystyle 0\rightarrow{\mathfrak{a}}\rightarrow{\mathfrak{e}}\rightarrow{%&#10;\mathfrak{g}}\rightarrow 0}
+docID=23041 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03394.html
 {\displaystyle 0\to L\to M\to N\to 0}
+docID=22123 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06643.html
 {\displaystyle 0\rightarrow L\rightarrow M\rightarrow N\rightarrow 0}
+docID=13204 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26271.html
 {\displaystyle 0\to U\to M\to V\to 0}
+docID=27854 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10005.html
 {\displaystyle 0\rightarrow M\rightarrow{\mathfrak{h}}\rightarrow{\mathfrak{g}%&#10;}\rightarrow 0}
+docID=3016 position=59
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03106.html
 {\displaystyle 0\rightarrow U\rightarrow V\rightarrow W\rightarrow 0}
+docID=19081 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06693.html
 {\displaystyle 0\rightarrow B\rightarrow E^{\prime}\rightarrow A\rightarrow 0}
+docID=21185 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21637.html
 {\displaystyle 0\rightarrow K^{\prime}\rightarrow X\rightarrow P\rightarrow 0.}
+docID=3275 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26197.html
 {\displaystyle 0\rightarrow A_{1}\rightarrow A_{2}\rightarrow A_{3}\rightarrow&#10;0}
+docID=23817 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02271.html
 {\displaystyle 0\rightarrow B\rightarrow I^{0}\rightarrow I^{1}\rightarrow%&#10;\dots,}
+docID=19081 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06693.html
 {\displaystyle 0\rightarrow B\rightarrow I^{0}\rightarrow I^{1}\rightarrow%&#10;\dots,}
+docID=23817 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02271.html
 {\displaystyle\dots\rightarrow P^{1}\rightarrow P^{0}\rightarrow A\rightarrow 0,}

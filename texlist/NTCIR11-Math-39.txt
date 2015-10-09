@@ -1,30 +1,90 @@
+docID=1553 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00133.html
 {\displaystyle(x+y)^{n}=\sum_{{k=0}}^{n}{n\choose k}x^{{n-k}}y^{k}=\sum_{{k=0}%&#10;}^{n}{n\choose k}x^{{k}}y^{{n-k}}.}
+docID=23898 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01569.html
 {\displaystyle(x+y)^{n}=\sum_{{k=0}}^{n}{n\choose k}x^{{n-k}}y^{{k}}}
+docID=20659 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00131.html
 {\displaystyle(x+y)^{n}=\sum_{{k=0}}^{n}{\binom{n}{k}}x^{{n-k}}y^{k}}
+docID=17584 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03031.html
 {\displaystyle(y+x)^{n}=\sum_{{k=0}}^{n}{n\choose k}y^{{n-k}}x^{k}}
+docID=22715 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02165.html
 {\displaystyle(x+y)^{n}=\sum_{{i=0}}^{n}{n\choose i}x^{{n-i}}y^{i},}
+docID=1553 position=51
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00133.html
 {\displaystyle(x+y)^{{n+1}}=\sum_{{k=0}}^{{n+1}}{\tbinom{n+1}{k}}x^{{n+1-k}}y^%&#10;{k},}
+docID=21793 position=47
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02848.html
 {\displaystyle{{\mathit{He}}}_{n}(x+y)=\sum_{{k=0}}^{n}{n\choose k}x^{{n-k}}{{%&#10;\mathit{He}}}_{{k}}(y)}
+docID=23700 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/19294.html
 {\displaystyle(\Delta^{n}c)_{0}=\sum_{{k=0}}^{n}{\binom{n}{k}}(-1)^{{n-k}}z^{k%&#10;}=(z-1)^{n}.}
+docID=7292 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02190.html
 {\displaystyle P_{n}(x)={\frac{1}{2^{n}}}\sum_{{k=0}}^{n}{n\choose k}^{2}(x-1)%&#10;^{{n-k}}(x+1)^{k}=\sum_{{k=0}}^{n}{n\choose k}{-n-1\choose k}\left({\frac{1-x}%&#10;{2}}\right)^{k}=2^{n}\cdot\sum_{{k=0}}^{n}x^{k}{n\choose k}{{\frac{n+k-1}{2}}%&#10;\choose n},}
+docID=7464 position=26
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01438.html
 {\displaystyle 1=1^{n}=(p+q)^{n}=\sum_{{k=0}}^{n}{n\choose k}p^{k}q^{{n-k}}.}
+docID=4109 position=33
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06782.html
 {\displaystyle c_{n}=\sum_{{i=0}}^{n}{\frac{x^{i}}{i!}}{\frac{y^{{n-i}}}{(n-i)%&#10;!}}={\frac{1}{n!}}\sum_{{i=0}}^{n}{\binom{n}{i}}x^{i}y^{{n-i}}={\frac{(x+y)^{n%&#10;}}{n!}}}
+docID=23700 position=18
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/19294.html
 {\displaystyle\Delta^{n}=(E-I)^{n}=\sum_{{k=0}}^{n}{\binom{n}{k}}(-1)^{{n-k}}E%&#10;^{k},}
+docID=11059 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05791.html
 {\displaystyle(x+y)^{\alpha}=\sum_{{\nu\leq\alpha}}{\binom{\alpha}{\nu}}\,x^{%&#10;\nu}y^{{\alpha-\nu}}.}
+docID=1553 position=61
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00133.html
 {\displaystyle(x+y)^{\alpha}=\sum_{{\nu\leq\alpha}}{\binom{\alpha}{\nu}}\,x^{%&#10;\nu}y^{{\alpha-\nu}}.}
+docID=7464 position=27
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01438.html
 {\displaystyle(p+q)^{n}=\sum_{{k=0}}^{\infty}{n\choose k}p^{k}q^{{n-k}},}
+docID=16515 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04139.html
 {\displaystyle T_{0}(x)=1,\qquad T_{n}(x)=\sum_{{k=1}}^{n}S(n,k)x^{k}=\sum_{{k%&#10;=1}}^{n}\left\{{\begin{matrix}n\\&#10;k\end{matrix}}\right\}x^{k},\quad n&gt;0,}
+docID=17584 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03031.html
 {\displaystyle B_{n}(x)=\sum_{{k=0}}^{n}{n\choose k}b^{{n-k}}x^{k}=(b+x)^{n},}
+docID=23700 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/19294.html
 {\displaystyle\Delta^{n}=(E-I)^{n}=\sum_{{j=0}}^{n}{\binom{n}{j}}(-1)^{{n-j}}E%&#10;^{j},\qquad n\in{\mathbb{N}}_{0}.}
+docID=19111 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02327.html
 {\displaystyle(1+1/n)^{n}=\sum_{{k=0}}^{{n}}{\binom{n}{k}}/n^{k}=\sum_{{k=0}}^%&#10;{{n}}{\frac{1}{k!}}\times{\frac{n}{n}}\times{\frac{n-1}{n}}\times\cdots\times{%&#10;\frac{n-k+1}{n}},}
+docID=8570 position=28
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04615.html
 {\displaystyle B_{n}(x)=\sum_{{j=0}}^{n}{\binom{n}{j}}B_{j}x^{{n-j}}}
+docID=8157 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15089.html
 {\displaystyle(aX+bY)^{{{}^{\prime}n}}=\sum_{{i=0}}^{n}{n\choose i}a^{i}b^{{n-%&#10;i}}X^{{{}^{\prime}i}}Y^{{{}^{\prime}{n-i}}}}
+docID=17584 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03031.html
 {\displaystyle\sum_{{k=0}}^{n}{n\choose k}B_{{n-k}}(y)x^{k}=\sum_{{k=0}}^{n}{n%&#10;\choose k}L\left((2y)^{{n-k}}\right)x^{k}=L\left(\sum_{{k=0}}^{n}{n\choose k}(%&#10;2y)^{{n-k}}x^{k}\right)=L\left((2y+x)^{n}\right)=B_{n}(x+y).}
+docID=23700 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/19294.html
 {\displaystyle\sum_{{j=k}}^{n}{\binom{n}{j}}(-1)^{{n-j}}=-\sum_{{j=0}}^{{k-1}}%&#10;{\binom{n}{j}}(-1)^{{n-j}}=(-1)^{{n-k}}{\binom{n-1}{k-1}}.}
+docID=7487 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05760.html
 {\displaystyle(x_{1}+\cdots+x_{m})^{n}=\sum_{{|\alpha|=n}}{n\choose\alpha}x^{%&#10;\alpha}}
+docID=9507 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03081.html
 {\displaystyle s_{n}(x+y)=\sum_{{k=0}}^{n}{n\choose k}x^{k}s_{{n-k}}(y).}
+docID=6752 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09424.html
 {\displaystyle{1\over e}\sum_{{k=x}}^{\infty}{k^{n}\over(k-x)!}=\sum_{{k=0}}^{%&#10;n}{n\choose k}B_{{k}}x^{{n-k}}}
+docID=17584 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03031.html
 {\displaystyle{\begin{aligned}\displaystyle B_{n}(x)&amp;\displaystyle=\sum_{{k=0}%&#10;}^{n}{n\choose k}B_{{n-k}}x^{k}&amp;&amp;\displaystyle{\text{applying the definition %&#10;of Bernoulli polynomials}}\\&#10;&amp;\displaystyle=\sum_{{k=0}}^{n}{n\choose k}L\left(y^{{n-k}}\right)x^{k}&amp;&amp;%&#10;\displaystyle{\text{applying the above definition}}\\&#10;&amp;\displaystyle=L\left(\sum_{{k=0}}^{n}{n\choose k}y^{{n-k}}x^{k}\right)&amp;&amp;%&#10;\displaystyle{\text{since L is linear}}\\&#10;&amp;\displaystyle=L\left((y+x)^{n}\right).&amp;&amp;\end{aligned}}}
+docID=16894 position=67
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03830.html
 {\displaystyle(1+x)^{n}=\sum_{{k=0}}^{n}{n\choose k}\cdot x^{k}.}
+docID=14832 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12635.html
 {\displaystyle\Delta^{n}[f](x)=\sum_{{k=0}}^{n}{n\choose k}(-1)^{{n-k}}f(x+k)}
+docID=26120 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10096.html
 {\displaystyle(x_{1}+x_{2})^{n}=\sum_{{k_{1}+k_{2}=n}}{n\choose k_{1},k_{2}}x_%&#10;{1}^{{k_{1}}}x_{2}^{{k_{2}}};\ \ k_{1},k_{2},n\in{\mathbb{N}}_{0}}

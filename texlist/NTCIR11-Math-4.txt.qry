@@ -1,31 +1,91 @@
-=f_{qvar{x0}}(z)=z^{2}+c
+\text{query}: \qquad f_{\qvar{x0}}(z)=z^{2}+c
+docID=2487 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13200.html
 {\displaystyle f_{c}(z)=z^{2}+c\,}
+docID=14129 position=65
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00642.html
 {\displaystyle f_{c}(z)=z^{2}+c\,}
+docID=9101 position=68
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15332.html
 {\displaystyle f_{c}(z)=z^{2}+c}
+docID=2554 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06805.html
 {\displaystyle f_{c}(z)=z^{2}+c\,}
+docID=6543 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01755.html
 {\displaystyle f_{c}(z)=z^{2}+c}
+docID=14129 position=113
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00642.html
 {\displaystyle P_{c}(z)=z^{2}+c}
+docID=13830 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16387.html
 {\displaystyle P_{c}(z)=z^{2}+c\,}
+docID=27176 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17345.html
 {\displaystyle f_{c}(x)=x^{2}+c\,}
+docID=28761 position=60
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02766.html
 {\displaystyle f_{c}(x)=x^{2}+c\,}
+docID=27176 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17345.html
 {\displaystyle f_{c}(z)=z^{2}+c.\,}
+docID=27176 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17345.html
 {\displaystyle f_{{\theta}}(x)=x^{2}+e^{{2\pi\theta i}}x\,}
+docID=27331 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16429.html
 {\displaystyle f(z)=z^{2}+c}
+docID=6543 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01755.html
 {\displaystyle f(z)=z^{2}+c}
+docID=7410 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02048.html
 {\displaystyle f(z)=z^{2}+c}
+docID=1698 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27367.html
 {\displaystyle R(z)=z^{2}+c}
+docID=3288 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08647.html
 {\displaystyle f_{n}(x)=x+n}
+docID=27176 position=49
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17345.html
 {\displaystyle P_{2}(c)=c^{2}+c\,}
+docID=4632 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03925.html
 {\displaystyle f_{4}(z)=z+a/c\quad}
+docID=4632 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03925.html
 {\displaystyle f_{1}(z)=z+d/c\quad}
+docID=24021 position=40
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10959.html
 {\displaystyle f(z,w)=z^{2}+w^{3}}
+docID=9637 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12492.html
 {\displaystyle f(x)=x^{2}+\sin(x+4)\ }
+docID=9101 position=28
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15332.html
 {\displaystyle f_{0}(z)=z^{2}}
+docID=1370 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25535.html
 {\displaystyle f_{0}(x)=x^{2}\,}
+docID=28968 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27780.html
 {\displaystyle f(x)=x^{2}+1}
+docID=17173 position=29
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00608.html
 {\displaystyle f(x)=x^{2}+2}
+docID=6136 position=137
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10137.html
 {\displaystyle f(x)=x^{2}+x}
+docID=21628 position=62
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13570.html
 {\displaystyle f_{c}(z)=z^{2}-1}
+docID=13444 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06801.html
 {\displaystyle f(n)=n^{2}+n+41}
+docID=10290 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01831.html
 {\displaystyle f(x)=x^{2}+2x+3}
+docID=26151 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21989.html
 {\displaystyle f(z)=z+a_{2}z^{2}+\cdots.}

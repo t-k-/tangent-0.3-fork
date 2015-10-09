@@ -1,31 +1,91 @@
-=Dleft(ho u_{i}ight)/Dtpprox 0
+\text{query}: \qquad D\left(\rho u_{i}\right)/Dt\approx 0
+docID=24424 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06724.html
 {\displaystyle D\left(\rho u_{i}\right)/Dt\approx 0}
+docID=16018 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11546.html
 {\displaystyle d{[}ES{]}/{dt}\;{\overset{!}{=}}\;0}
+docID=2756 position=30
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09573.html
 {\displaystyle E(z_{i}u_{i})\neq 0}
+docID=20576 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12576.html
 {\displaystyle P(i)={{\rm{tr}}}(\rho F_{i}),\;}
+docID=29065 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21423.html
 {\displaystyle\rho_{C}^{2}=1-D(Y|X)/D(Y)}
+docID=9085 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04526.html
 {\displaystyle\partial_{t}(\rho u_{j})+\partial_{i}(\rho u_{i}u_{j})+\partial_%&#10;{j}p=0\,}
+docID=6967 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13213.html
 {\displaystyle\partial f(x)/\partial x_{{i}}&gt;0}
+docID=29833 position=118
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23113.html
 {\displaystyle\nabla(\rho_{i}v_{i})}
+docID=20690 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/28270.html
 {\displaystyle{d(\rho u)\over dx}=0.}
+docID=9085 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04526.html
 {\displaystyle\partial_{t}\rho+\partial_{i}(\rho u_{i})=0\,}
+docID=9085 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04526.html
 {\displaystyle{\partial\rho\over\partial t}+\sum_{{i=1}}^{3}{\partial(\rho u_{%&#10;i})\over\partial x_{i}}=0,}
+docID=6359 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16899.html
 {\displaystyle DV/Dt=0}
+docID=15285 position=85
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10204.html
 {\displaystyle dF/dt\geq 0}
+docID=813 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06099.html
 {\displaystyle{\mathrm{d}}{\mathbf{x}}/{\mathrm{d}}t=0}
+docID=4082 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11814.html
 {\displaystyle dN/dt=0}
+docID=22132 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26149.html
 {\displaystyle dx/dt=0}
+docID=19463 position=38
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01816.html
 {\displaystyle dW/dt=0}
+docID=15285 position=104
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10204.html
 {\displaystyle{dF}/{dt}\leq 0}
+docID=10365 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24547.html
 {\displaystyle dr/dt=0}
+docID=18479 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11926.html
 {\displaystyle\partial(...)/\partial t=0}
+docID=24338 position=27
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04544.html
 {\displaystyle{\displaystyle dx_{2}/dt=0}}
+docID=3902 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12098.html
 {\displaystyle dN_{B}/dt=0}
+docID=24338 position=26
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04544.html
 {\displaystyle{\displaystyle dx_{1}/dt=0}}
+docID=8207 position=26
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00648.html
 {\displaystyle D(a)=D(b)=0}
+docID=8185 position=78
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06555.html
 {\displaystyle F=dp/dt=0}
+docID=1239 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13492.html
 {\displaystyle dN_{{tot}}/dt=0}
+docID=6359 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16899.html
 {\displaystyle{DV}/{Dt}}
+docID=12418 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14017.html
 {\displaystyle Dk/Dt}
+docID=4808 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09595.html
 {\displaystyle du_{i}}
+docID=7429 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08281.html
 {\displaystyle D/Dt}

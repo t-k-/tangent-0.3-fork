@@ -1,30 +1,90 @@
+docID=12330 position=45
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21482.html
 {\displaystyle\{C:K_{X}\cdot C=0\}}
+docID=20487 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13351.html
 {\displaystyle T_{{h}}\cdot x=0}
+docID=28790 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14672.html
 {\displaystyle\{x:x^{T}Px=0\}}
+docID=8942 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08494.html
 {\displaystyle k\cdot\epsilon=0}
+docID=23710 position=16
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17400.html
 {\displaystyle s\cdot y=0}
+docID=4298 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10849.html
 {\displaystyle{\mathbf{B}}\cdot{\mathbf{ds}}=0}
+docID=22777 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05445.html
 {\displaystyle A\cdot B=0}
+docID=1919 position=82
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25269.html
 {\displaystyle u\cdot x=0}
+docID=25740 position=30
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23388.html
 {\displaystyle{\mathbf{u}}\cdot{\mathbf{n}}=0}
+docID=17611 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08662.html
 {\displaystyle{\mathbf{a}}\cdot{\mathbf{b}}=0}
+docID=9094 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00224.html
 {\displaystyle\scriptstyle{\mathbf{a}}\cdot{\mathbf{b}}\,=\,0}
+docID=10630 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05199.html
 {\displaystyle D\cdot r=0}
+docID=11526 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22848.html
 {\displaystyle{\mathbf{F}}\cdot{\mathbf{r}}=0}
+docID=13782 position=66
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27878.html
 {\displaystyle P\cdot p=0}
+docID=18481 position=128
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00460.html
 {\displaystyle D\cdot A=0}
+docID=18184 position=79
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02345.html
 {\displaystyle{\boldsymbol{{\mathsf{A}}}}\cdot{\boldsymbol{{\mathsf{U}}}}=0\,\!}
+docID=1919 position=115
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25269.html
 {\displaystyle\ r\cdot u=0}
+docID=28929 position=89
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/28742.html
 {\displaystyle{\boldsymbol{m}}\cdot{\boldsymbol{N}}=0}
+docID=6398 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09783.html
 {\displaystyle{\mathbf{r}}\cdot{\mathbf{A}}=0}
+docID=18184 position=82
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02345.html
 {\displaystyle{\boldsymbol{{\mathsf{F}}}}\cdot{\boldsymbol{{\mathsf{U}}}}=0\,\!}
+docID=29158 position=35
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17780.html
 {\displaystyle{\mathbf{e}}\cdot{\tilde{{\mathbf{y}}}}=0}
+docID=1151 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00320.html
 {\displaystyle{\mathbf{E}}\cdot{\hat{{\mathbf{k}}}}=0}
+docID=17516 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04471.html
 {\displaystyle gL\cdot P=0}
+docID=5379 position=52
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10523.html
 {\displaystyle{\hat{{\mathbf{r}}}}\cdot{\mathbf{E}}=0}
+docID=3725 position=96
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14628.html
 {\displaystyle\nabla f\cdot{\mathbf{e}}_{1}=0}
+docID=29158 position=45
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17780.html
 {\displaystyle{\mathbf{e}}\cdot{\tilde{{\mathbf{y}}}}_{{k}}=0}
+docID=3427 position=34
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06836.html
 {\displaystyle{\vec{p}}\cdot{\vec{r}}=0}
+docID=25264 position=97
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01587.html
 {\displaystyle z^{\prime}\cdot x^{\prime}=0}
+docID=27959 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10545.html
 {\displaystyle{\vec{R}}\cdot{\vec{s}}=0}
+docID=21387 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11518.html
 {\displaystyle\scriptstyle{\vec{L}}\cdot{\hat{p}}\,=\,0}

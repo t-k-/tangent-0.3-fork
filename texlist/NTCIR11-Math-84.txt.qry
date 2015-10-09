@@ -1,31 +1,91 @@
-=F={qvar{x0}}.
+\text{query}: \qquad F=\{\qvar{x0}\}.
+docID=14034 position=55
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23214.html
 {\displaystyle\kappa=|{\boldsymbol{\kappa}}|.}
+docID=5983 position=35
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15059.html
 {\displaystyle\phi=[n].}
+docID=8439 position=167
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00600.html
 {\displaystyle\Omega_{2}=\{\rightarrow\}.}
+docID=18861 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05405.html
 {\displaystyle B=\{x\mid\psi\}.}
+docID=21478 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07016.html
 {\displaystyle P=\{n\mid n{\mbox{ is prime}}\}.}
+docID=17690 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05754.html
 {\displaystyle f=\{{\mathcal{H}}\{{\mathcal{H}}f\}\}.}
+docID=21308 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04933.html
 {\displaystyle{\mathcal{M}}=\{{\mathbf{p}}\in{\mathbb{R}}^{N}\}\,.}
+docID=11873 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14940.html
 {\displaystyle r_{k}=\{x/\beta^{k}\}.\,}
+docID=14699 position=34
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12102.html
 {\displaystyle F_{2}={\begin{bmatrix}L&amp;M\\&#10;M&amp;N\end{bmatrix}}.}
+docID=14699 position=33
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12102.html
 {\displaystyle F_{1}={\begin{bmatrix}E&amp;F\\&#10;F&amp;G\end{bmatrix}}.}
+docID=26702 position=24
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09231.html
 {\displaystyle F=(1+E\cdot N)^{\lambda}.}
+docID=9307 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11256.html
 {\displaystyle{\mathcal{P}}={\big\{}P_{\theta}\ {\big|}\ \theta\in\Theta{\big%&#10;\}}.}
+docID=9307 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11256.html
 {\displaystyle{\mathcal{P}}={\big\{}f_{\theta}\ {\big|}\ \theta\in\Theta{\big%&#10;\}}.}
+docID=29824 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27687.html
 {\displaystyle\bigcap_{{n\in{\mathbb{N}}}}J^{n}=\{0\}.}
+docID=3547 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04490.html
 {\displaystyle{\mathrm{Hol}}_{x}=\{\tau_{\gamma}:\gamma{\text{ is a loop based%&#10; at }}x\}.\,}
+docID=16506 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01024.html
 {\displaystyle F=\{{\mbox{HALT}}\}}
+docID=4945 position=69
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00822.html
 {\displaystyle F=\{r\}}
+docID=16506 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01024.html
 {\displaystyle\Sigma=\{1\}}
+docID=6561 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00018.html
 {\displaystyle B=\{x\}}
+docID=1395 position=59
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22411.html
 {\displaystyle N=\left\{S\right\}}
+docID=21654 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12373.html
 {\displaystyle A=\{x\}}
+docID=1073 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10713.html
 {\displaystyle{\mathcal{J}}=\{1\}}
+docID=16339 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00935.html
 {\displaystyle{\mathcal{P}}=\{{\text{all distributions}}\}}
+docID=24232 position=104
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04330.html
 {\displaystyle X=\{a\}}
+docID=7868 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16627.html
 {\displaystyle H=\{0\}\,}
+docID=24232 position=106
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04330.html
 {\displaystyle W=\{Y\}}
+docID=10258 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26722.html
 {\displaystyle{\mathcal{D}}=\{d\}}
+docID=471 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15557.html
 {\displaystyle G=\{R\}}
+docID=13838 position=79
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24134.html
 {\displaystyle T=\{x\}}
+docID=23576 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23663.html
 {\displaystyle C=\{i\}}

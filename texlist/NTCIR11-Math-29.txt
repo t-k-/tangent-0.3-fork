@@ -1,30 +1,90 @@
+docID=22724 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21692.html
 {\displaystyle R_{{s\ normal}}={\sqrt{{\frac{\omega\mu_{0}}{2\sigma}}}}}
+docID=8035 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/30202.html
 {\displaystyle V_{{normal}}=0}
+docID=28925 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05019.html
 {\displaystyle U=U_{{thermal}}.\;}
+docID=1505 position=95
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10847.html
 {\displaystyle\neg Abnormal(...)}
+docID=21543 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26644.html
 {\displaystyle\max(normal)=1}
+docID=21543 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26644.html
 {\displaystyle\min(normal)=0}
+docID=6669 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27294.html
 {\displaystyle Normal(0,\sigma^{{2}}\delta)}
+docID=3725 position=46
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14628.html
 {\displaystyle A_{{\gamma-norm}}}
+docID=16437 position=58
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24234.html
 {\displaystyle\sigma_{k}={\sqrt{\lambda}}}
+docID=776 position=45
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27538.html
 {\displaystyle c_{n}={\sqrt{n}}}
+docID=10944 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17477.html
 {\displaystyle H_{{norm}}}
+docID=4714 position=57
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02348.html
 {\displaystyle c_{{{\mathrm{l}}}}={\sqrt{{\frac{Y}{\rho}}}}}
+docID=20470 position=30
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21484.html
 {\displaystyle r_{{B}}={\sqrt{2}}{\mathit{l}}_{B}}
+docID=1579 position=38
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16076.html
 {\displaystyle SNR_{{norm}}}
+docID=8404 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11899.html
 {\displaystyle R_{{\mathrm{AB}}}={\sqrt{R_{{\mathrm{A}}}R_{{\mathrm{B}}}}}}
+docID=28709 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01417.html
 {\displaystyle R_{{{\mathrm{g}}}}={\sqrt{{\frac{I}{A}}}},}
+docID=24846 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27680.html
 {\displaystyle R_{{{\rm{eff}}}}={\sqrt{R_{1}R_{2}}},}
+docID=840 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17330.html
 {\displaystyle R_{i}={\sqrt{\left({\frac{A_{t}}{\pi N}}\right)}}}
+docID=5330 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03976.html
 {\displaystyle R_{s}={\sqrt{\pi f\mu_{c}/\sigma_{c}}}}
+docID=14547 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23019.html
 {\displaystyle R_{{g0}}={\sqrt{Nb^{2}/(6)}}}
+docID=22907 position=40
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24722.html
 {\displaystyle R={\sqrt{Q}}}
+docID=20281 position=28
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05600.html
 {\displaystyle x={\sqrt{t}}}
+docID=2877 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13500.html
 {\displaystyle\scriptstyle{d={\sqrt{2}}}}
+docID=28351 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22419.html
 {\displaystyle a={\sqrt{d}}}
+docID=9869 position=52
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02957.html
 {\displaystyle a={\sqrt{\theta}}}
+docID=11180 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07911.html
 {\displaystyle\gamma={\sqrt{2}}}
+docID=9261 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00576.html
 {\displaystyle a={\sqrt{2}}}
+docID=8248 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02322.html
 {\displaystyle a={\sqrt{2}}}
+docID=28581 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06865.html
 {\displaystyle x={\sqrt{r}}}
+docID=23917 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15214.html
 {\displaystyle x={\sqrt{a}}}

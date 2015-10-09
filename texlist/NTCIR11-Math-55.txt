@@ -1,30 +1,90 @@
+docID=29715 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10050.html
 {\displaystyle\sum_{x}\sum_{y}I(x,y)\,\!}
+docID=26855 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04237.html
 {\displaystyle{1\over{|{\mathcal{A}}|\cdot|{\mathcal{B}}|}}\sum_{{x\in{%&#10;\mathcal{A}}}}\sum_{{y\in{\mathcal{B}}}}d(x,y)}
+docID=16338 position=50
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12590.html
 {\displaystyle\sum_{{x,y\in C}}d(x,y)}
+docID=23231 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23661.html
 {\displaystyle\sum_{{x,y}}z(x,y)&lt;\infty}
+docID=22311 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02085.html
 {\displaystyle\sum_{{xy}}A(x,y)|x,y\rangle\,}
+docID=18863 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29942.html
 {\displaystyle I(x,y)}
+docID=25918 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07912.html
 {\displaystyle I\left(x,y\right)}
+docID=19691 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05080.html
 {\displaystyle I(x,y)}
+docID=17391 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01235.html
 {\displaystyle I(x,y)}
+docID=29715 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10050.html
 {\displaystyle I(x,y)}
+docID=3029 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27588.html
 {\displaystyle\sigma(x,y)}
+docID=12561 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15357.html
 {\displaystyle\Psi(x,y)}
+docID=17286 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07337.html
 {\displaystyle\scriptstyle\Psi(x,y)}
+docID=147 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24590.html
 {\displaystyle p(x,y)}
+docID=430 position=65
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03245.html
 {\displaystyle p(x,y)}
+docID=6557 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08359.html
 {\displaystyle p(x,y)}
+docID=2040 position=38
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04762.html
 {\displaystyle p(x,y)}
+docID=8109 position=69
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27854.html
 {\displaystyle\scriptstyle p(x,y)}
+docID=25264 position=118
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01587.html
 {\displaystyle p(x,y)}
+docID=4514 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07442.html
 {\displaystyle p(x,y)}
+docID=7049 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14910.html
 {\displaystyle p(x,y)}
+docID=11143 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23103.html
 {\displaystyle p(x,y)}
+docID=14426 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16323.html
 {\displaystyle r(x,y)}
+docID=23674 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/30237.html
 {\displaystyle D(x,y)}
+docID=14034 position=127
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23214.html
 {\displaystyle k(x,y)}
+docID=14987 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22265.html
 {\displaystyle k(x,y)}
+docID=9127 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15587.html
 {\displaystyle k(x,y)\,}
+docID=20756 position=34
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11116.html
 {\displaystyle k(x,y)}
+docID=6545 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03738.html
 {\displaystyle P(x,y)}
+docID=17175 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27856.html
 {\displaystyle P(x,y)}

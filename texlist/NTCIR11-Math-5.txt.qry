@@ -1,31 +1,91 @@
-=orall x,orall y,P(x,y)Leftrightarroworall y,orall x,P(x,y)
+\text{query}: \qquad \forall x\,\forall y\,P(x,y)\Leftrightarrow\forall y\,\forall x\,P(x,y)
+docID=1060 position=114
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00391.html
 {\displaystyle\forall x\,\forall y\,P(x,y)\Leftrightarrow\forall y\,\forall x%&#10;\,P(x,y)}
+docID=1060 position=115
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00391.html
 {\displaystyle\exists x\,\exists y\,P(x,y)\Leftrightarrow\exists y\,\exists x%&#10;\,P(x,y)}
+docID=8970 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13207.html
 {\displaystyle\forall x\forall yf(x,y)\rightarrow\forall z(f(x,z)\rightarrow y%&#10;=z)}
+docID=10348 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11558.html
 {\displaystyle T(x,y)=\lambda\delta(x-y)-K(x,y)}
+docID=29604 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11478.html
 {\displaystyle xv(x,y)-yu(x,y)+w(x,y)}
+docID=1060 position=38
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00391.html
 {\displaystyle(\forall x\forall y\,{\mathop{\leq}}({\mathop{+}}(x,y),z)\to%&#10;\forall x\,\forall y\,{\mathop{+}}(x,y)=0)}
+docID=28268 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11205.html
 {\displaystyle\exists x\forall y\;\psi(x,y)}
+docID=24973 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05850.html
 {\displaystyle\forall x\exists y\,\phi(x,y)}
+docID=6439 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24820.html
 {\displaystyle\forall x\exists y\,\phi(x,y)}
+docID=3882 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10012.html
 {\displaystyle\forall{\vec{y}}\,\exists x\,\!\,\varphi(x,{\vec{y}})}
+docID=28268 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11205.html
 {\displaystyle\phi=\forall x\exists y\;\psi(x,y)}
+docID=12627 position=28
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08835.html
 {\displaystyle\forall x\in a\exists y\,\phi(x,y)\rightarrow\exists b\forall x%&#10;\in a\exists y\in b\,\phi(x,y)}
+docID=1060 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00391.html
 {\displaystyle\forall y\,P(x,y)}
+docID=16678 position=124
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03440.html
 {\displaystyle\forall x\left(p(x,y)\right)\vdash p(x,y)}
+docID=15788 position=24
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03174.html
 {\displaystyle\forall x(\exists yB(x,y))\vee C(y,x)}
+docID=23775 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15619.html
 {\displaystyle Qxy\phi(x,y)}
+docID=28312 position=27
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22714.html
 {\displaystyle h(x,y)=k+xh_{1}(x,y)+yh_{2}(x,y)}
+docID=21194 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24509.html
 {\displaystyle f(q)=u(x,y)+r\ v(x,y)}
+docID=6545 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03738.html
 {\displaystyle P(x,y)}
+docID=17175 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27856.html
 {\displaystyle P(x,y)}
+docID=16304 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06958.html
 {\displaystyle P(x,y)}
+docID=26539 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12364.html
 {\displaystyle P(x,y)}
+docID=27174 position=38
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00055.html
 {\displaystyle P(x,y)}
+docID=29546 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08498.html
 {\displaystyle P(x,y)}
+docID=17175 position=37
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27856.html
 {\displaystyle P(x,y)=0}
+docID=14032 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10785.html
 {\displaystyle P(x,y)=0}
+docID=16304 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06958.html
 {\displaystyle P(x,y)=0}
+docID=1993 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02420.html
 {\displaystyle P(x_{0},y_{0})}
+docID=13509 position=48
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01455.html
 {\displaystyle\left(x,y\right)\to U\left(x,y\right)}
+docID=11846 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00688.html
 {\displaystyle f(x,y)=P(x,y)}

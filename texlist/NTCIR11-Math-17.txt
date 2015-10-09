@@ -1,30 +1,90 @@
+docID=12699 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27275.html
 {\displaystyle{\mathbf{m}}_{1}}
+docID=1406 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13950.html
 {\displaystyle\lambda_{1}\,}
+docID=6768 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16114.html
 {\displaystyle\lambda_{1}}
+docID=10127 position=82
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22820.html
 {\displaystyle\lambda_{1}}
+docID=19319 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24950.html
 {\displaystyle\lambda_{1}}
+docID=22973 position=42
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10746.html
 {\displaystyle\lambda_{1}}
+docID=1780 position=57
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02611.html
 {\displaystyle\lambda_{1}}
+docID=4198 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23192.html
 {\displaystyle\lambda_{1}}
+docID=4752 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07349.html
 {\displaystyle\lambda_{1}}
+docID=12962 position=16
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25045.html
 {\displaystyle\lambda_{1}\,}
+docID=18838 position=16
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23398.html
 {\displaystyle\lambda_{1}\!}
+docID=341 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07658.html
 {\displaystyle\lambda_{{1}}}
+docID=5341 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16835.html
 {\displaystyle\lambda_{1}}
+docID=6247 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13663.html
 {\displaystyle\lambda_{1}}
+docID=7352 position=28
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26509.html
 {\displaystyle\lambda_{1}}
+docID=14579 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08601.html
 {\displaystyle\lambda_{1}}
+docID=26578 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27179.html
 {\displaystyle\lambda_{1}}
+docID=29941 position=35
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02787.html
 {\displaystyle\lambda_{1}}
+docID=814 position=27
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10488.html
 {\displaystyle\lambda_{{1}}}
+docID=19566 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02255.html
 {\displaystyle\lambda_{1}}
+docID=28966 position=48
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26561.html
 {\displaystyle\lambda_{1}}
+docID=3921 position=68
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15084.html
 {\displaystyle\lambda_{1}}
+docID=15068 position=28
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08577.html
 {\displaystyle\lambda_{1}}
+docID=9030 position=18
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06515.html
 {\displaystyle\lambda_{{1}}\,}
+docID=10028 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14486.html
 {\displaystyle\lambda_{{1}}}
+docID=25377 position=223
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10106.html
 {\displaystyle\lambda_{1}}
+docID=28385 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26076.html
 {\displaystyle\lambda_{1}}
+docID=24008 position=83
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24784.html
 {\displaystyle\lambda_{{1}}}
+docID=27346 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08353.html
 {\displaystyle\lambda_{1}}
+docID=5646 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10275.html
 {\displaystyle\lambda_{1}}

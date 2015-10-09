@@ -1,30 +1,90 @@
+docID=11764 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00421.html
 {\displaystyle\scriptstyle{\frac{c}{a}}}
+docID=17016 position=41
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01801.html
 {\displaystyle{\frac{c}{a}}}
+docID=529 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08717.html
 {\displaystyle{\tfrac{355}{113}}}
+docID=11533 position=47
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13220.html
 {\displaystyle{\frac{355}{113}}}
+docID=18365 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01110.html
 {\displaystyle{\tfrac{355}{113}}}
+docID=20205 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24769.html
 {\displaystyle{\tfrac{355}{113}}}
+docID=23783 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02386.html
 {\displaystyle{\tfrac{355}{113}}}
+docID=22698 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00503.html
 {\displaystyle{\tfrac{355}{113}}}
+docID=5942 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22721.html
 {\displaystyle{\tfrac{355}{113}}}
+docID=10850 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25775.html
 {\displaystyle{81\over 80}}
+docID=2539 position=66
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00580.html
 {\displaystyle{\tfrac{1}{6}}\,}
+docID=16703 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06745.html
 {\displaystyle{\tfrac{1}{6}}}
+docID=23237 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15984.html
 {\displaystyle{\frac{1}{6}}}
+docID=28236 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00144.html
 {\displaystyle{\frac{1}{6}}}
+docID=5692 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04403.html
 {\displaystyle\textstyle{\frac{1}{6}}}
+docID=28401 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01076.html
 {\displaystyle\textstyle{\frac{1}{6}}}
+docID=6225 position=27
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02986.html
 {\displaystyle{1\over 6}}
+docID=12941 position=166
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01593.html
 {\displaystyle{\frac{1}{6}}}
+docID=9854 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06134.html
 {\displaystyle{\pi\over 5}}
+docID=16703 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06745.html
 {\displaystyle{\tfrac{\pi}{5}}}
+docID=24265 position=34
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00801.html
 {\displaystyle{\pi\over 5}}
+docID=22215 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02898.html
 {\displaystyle{\tfrac{\pi}{5}}}
+docID=22946 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07857.html
 {\displaystyle{\tfrac{\pi}{5}}}
+docID=5618 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12682.html
 {\displaystyle{\mathbf{{\tfrac{n}{m}}}}}
+docID=4964 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03431.html
 {\displaystyle{\tfrac{p}{q}}\;}
+docID=21632 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03866.html
 {\displaystyle\scriptstyle{\frac{p}{q}}}
+docID=15195 position=24
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06406.html
 {\displaystyle{\frac{p}{q}}}
+docID=25761 position=217
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10962.html
 {\displaystyle{\frac{p}{q}}}
+docID=14129 position=39
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00642.html
 {\displaystyle\textstyle{\frac{p}{q}}}
+docID=19843 position=336
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12224.html
 {\displaystyle{\frac{p}{q}}}

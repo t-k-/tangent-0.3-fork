@@ -1,30 +1,90 @@
+docID=23798 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04416.html
 {\displaystyle{\text{Ker}}(k_{*}-l_{*})\cong{\text{Im}}(i_{*},j_{*}).}
+docID=4632 position=33
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03925.html
 {\displaystyle{\mbox{Aut}}(\widehat{{\mathbf{C}}})\cong{\mbox{PSL}}(2,{\mathbf%&#10;{C}}).}
+docID=4632 position=30
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03925.html
 {\displaystyle{\mbox{Aut}}(\widehat{{\mathbf{C}}})\cong{\mbox{PGL}}(2,{\mathbf%&#10;{C}}).}
+docID=7130 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01179.html
 {\displaystyle{\mathrm{Hom}}({\mathrm{colim}}F,N)\cong{\mathrm{Cocone}}(F,N).}
+docID=3880 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01106.html
 {\displaystyle{\mathrm{Nat}}(h^{A},h^{B})\cong{\mathrm{Hom}}(B,A).}
+docID=3880 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01106.html
 {\displaystyle{\mathrm{Nat}}(h_{A},h_{B})\cong{\mathrm{Hom}}(A,B).}
+docID=16185 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06263.html
 {\displaystyle{\mathrm{Hom}}(\Sigma X,Y)\cong{\mathrm{Hom}}(X,\Omega Y).}
+docID=12503 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07621.html
 {\displaystyle{\bigl(}H^{2}(G,{\mathbf{C}}^{\times}){\bigr)}^{*}\cong H^{2}(G,%&#10;{\mathbf{C}}^{\times}).}
+docID=23798 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04416.html
 {\displaystyle H_{1}(X)\cong(H_{1}(A)\oplus H_{1}(B))/{\text{Ker}}(k_{*}-l_{*})}
+docID=29002 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06592.html
 {\displaystyle{{\rm{MCG}}}({\mathbf{T}}^{n})\simeq{{\rm{SL}}}(n,{{\mathbf{Z}}}%&#10;).}
+docID=15939 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26589.html
 {\displaystyle j^{*}(\Gamma({\mathbf{P}}^{n},{\mathcal{O}}(1)))\subset\Gamma(X%&#10;,j^{*}{\mathcal{O}}(1)).}
+docID=23798 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04416.html
 {\displaystyle\cdots\rightarrow{\tilde{H}}_{0}(A\cap B)\,{\xrightarrow{(i_{*},%&#10;j_{*})}}\,{\tilde{H}}_{0}(A)\oplus{\tilde{H}}_{0}(B)\,{\xrightarrow{k_{*}-l_{*%&#10;}}}\,{\tilde{H}}_{0}(X)\rightarrow\,0.}
+docID=23798 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04416.html
 {\displaystyle\cdots\rightarrow H_{{n}}(A\cap B,C\cap D)\,{\xrightarrow{(i_{*}%&#10;,j_{*})}}\,H_{{n}}(A,C)\oplus H_{{n}}(B,D)\,{\xrightarrow{k_{*}-l_{*}}}\,H_{{n%&#10;}}(X,Y)\,{\xrightarrow{\partial_{*}}}\,H_{{n-1}}(A\cap B,C\cap D)\rightarrow\cdots}
+docID=22862 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16676.html
 {\displaystyle H_{*}(C_{*}(X\times Y))\cong H_{*}(C_{*}(X)\otimes C_{*}(Y)).}
+docID=29260 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11976.html
 {\displaystyle\operatorname{G}(-)\cong\operatorname{Hom}(_{{S}}P,-).}
+docID=10319 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07421.html
 {\displaystyle T_{s}(x)=T(s,x).}
+docID=17709 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22867.html
 {\displaystyle T_{s}(x)=T(s,x).\,}
+docID=3568 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03189.html
 {\displaystyle{\textrm{shortestPath}}(i,j,0)=w(i,j)}
+docID=15443 position=26
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06495.html
 {\displaystyle(V^{*})^{{{\mathbb{C}}}}=V^{*}\otimes{\mathbb{C}}\cong{\mathrm{%&#10;Hom}}_{{{\mathbb{R}}}}(V,{\mathbb{C}}).}
+docID=16560 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04584.html
 {\displaystyle{\textrm{Br}}(K)\cong H^{2}({\textrm{Gal}}(K^{s}/K),{K^{s}}^{*}).}
+docID=26506 position=52
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11786.html
 {\displaystyle{\text{PAM}}_{n}(i,j)}
+docID=2508 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27238.html
 {\displaystyle\beta\ \sim\ {\mathcal{N}}(\beta^{*},\Sigma^{*}).}
+docID=27428 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23504.html
 {\displaystyle{\mathbb{Q}}_{{2^{s}}}={\mathbb{Q}}(i,\eta_{s}).}
+docID=16765 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11180.html
 {\displaystyle{\text{subject to }}x_{i}\geq x_{j}~{}{\text{ for all }}(i,j)\in&#10;E.}
+docID=16765 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11180.html
 {\displaystyle{\mathrm{subject~{}to~{}}}x_{i}\geq x_{j}~{}{\text{ for all }}(i%&#10;,j)\in E.}
+docID=10099 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15573.html
 {\displaystyle A_{{ij}}={\frac{{\mbox{min}}(i,j)}{{\mbox{max}}(i,j)}}.}
+docID=29429 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10187.html
 {\displaystyle{\text{RR}}={\frac{1}{N^{2}}}\sum_{{i,j=1}}^{N}{\mathbf{R}}(i,j).}
+docID=7130 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01179.html
 {\displaystyle{\mathrm{colim}}_{J}\,{\mathrm{lim}}_{I}F(i,j)\rightarrow{%&#10;\mathrm{lim}}_{I}\,{\mathrm{colim}}_{J}F(i,j).}
+docID=23429 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15529.html
 {\displaystyle g(v,w)=g^{\prime}\left(f_{{*}}v,f_{{*}}w\right).\,}
+docID=11647 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06161.html
 {\displaystyle(C_{*},\partial_{*})}

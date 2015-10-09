@@ -1,30 +1,90 @@
+docID=14133 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02951.html
 {\displaystyle T-\lambda I}
+docID=25377 position=174
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10106.html
 {\displaystyle T-\lambda I}
+docID=29891 position=71
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08407.html
 {\displaystyle A-\lambda I}
+docID=21213 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07668.html
 {\displaystyle(A-\lambda I)}
+docID=17071 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05357.html
 {\displaystyle(A-\mu I)}
+docID=21213 position=33
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07668.html
 {\displaystyle(A-\lambda I)^{k}}
+docID=14133 position=18
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02951.html
 {\displaystyle(T-\lambda I)^{{-1}}}
+docID=25377 position=175
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10106.html
 {\displaystyle(T-\lambda I)^{{-1}}}
+docID=141 position=98
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13866.html
 {\displaystyle(A-{\tilde{\lambda}}_{\star}I)}
+docID=14133 position=52
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02951.html
 {\displaystyle T-\lambda I:D\to X}
+docID=7809 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21662.html
 {\displaystyle A(\lambda)=B-\lambda I}
+docID=5557 position=43
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11454.html
 {\displaystyle(A-{\tilde{\lambda}}I)^{{-1}}}
+docID=5557 position=48
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11454.html
 {\displaystyle(D-{\tilde{\lambda}}I)^{{-1}}}
+docID=25377 position=192
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10106.html
 {\displaystyle\det(A-\lambda I)=0}
+docID=15328 position=16
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03079.html
 {\displaystyle\det(A-\lambda I)=0\,}
+docID=1226 position=24
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03912.html
 {\displaystyle(A-\lambda I)^{{k_{1}-2}}}
+docID=1226 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03912.html
 {\displaystyle(A-\lambda I)^{{k_{1}-1}}}
+docID=141 position=83
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13866.html
 {\displaystyle(A-\lambda_{\star}I)x=0}
+docID=28855 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05345.html
 {\displaystyle\textstyle(A-\lambda_{j}I)^{{\alpha_{j}}}.}
+docID=21213 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07668.html
 {\displaystyle(A-\lambda I)^{k}{\mathbf{v}}={\mathbf{0}}.}
+docID=1226 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03912.html
 {\displaystyle\;{\mathrm{Ker}}(A-\lambda I)/Q.}
+docID=141 position=87
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13866.html
 {\displaystyle T=(A-\lambda_{\star}I)^{+}}
+docID=1226 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03912.html
 {\displaystyle(A-\lambda I)^{{k_{1}}}=0}
+docID=25377 position=183
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10106.html
 {\displaystyle(A-\lambda I)v=0,}
+docID=1226 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03912.html
 {\displaystyle p_{i}\in\operatorname{Ker}(A-\lambda_{{i}}I)}
+docID=21213 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07668.html
 {\displaystyle(A-\lambda I)^{k}x_{k}=0.\!}
+docID=141 position=84
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13866.html
 {\displaystyle T(A-\lambda_{\star}I)x=0}
+docID=28855 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05345.html
 {\displaystyle\left(A-\lambda I\right)^{k}{{\mathbf{v}}}=0,}
+docID=21213 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07668.html
 {\displaystyle(A-\lambda I)v_{2}=v_{1}.}
+docID=10304 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07150.html
 {\displaystyle T-\lambda}

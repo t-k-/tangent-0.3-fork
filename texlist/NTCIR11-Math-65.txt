@@ -1,30 +1,90 @@
+docID=25775 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17513.html
 {\displaystyle H^{1}(E)=0}
+docID=5251 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24093.html
 {\displaystyle H^{2}(M)=0}
+docID=5036 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06392.html
 {\displaystyle H^{1}(K)={\sqrt{2}}}
+docID=19821 position=65
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06751.html
 {\displaystyle H^{1}(X;{\mathbb{Z}})=0.}
+docID=19821 position=64
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06751.html
 {\displaystyle{\check{H}}^{1}(X;{\mathbb{Z}})={\mathbb{Z}},}
+docID=29696 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12812.html
 {\displaystyle H(Z)=1}
+docID=4883 position=158
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29368.html
 {\displaystyle H(x)=0}
+docID=10120 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02400.html
 {\displaystyle H(x)=0}
+docID=19164 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22248.html
 {\displaystyle H(x)=0}
+docID=14312 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25090.html
 {\displaystyle H(\tau)=H}
+docID=19164 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22248.html
 {\displaystyle H(x)=\alpha}
+docID=17254 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07155.html
 {\displaystyle H(X)=0}
+docID=1699 position=24
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09709.html
 {\displaystyle H(S)=0}
+docID=13447 position=27
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04475.html
 {\displaystyle y(x)=1}
+docID=193 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23649.html
 {\displaystyle v(p)=1}
+docID=194 position=28
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15018.html
 {\displaystyle\pi(\theta)=1}
+docID=5019 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12220.html
 {\displaystyle w(x)=1}
+docID=18885 position=58
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15045.html
 {\displaystyle w(x)=1}
+docID=29655 position=34
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00657.html
 {\displaystyle\mu\!\left(X\right)=1}
+docID=22163 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06587.html
 {\displaystyle\mu(X)=1}
+docID=15725 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29405.html
 {\displaystyle g(x)=1}
+docID=13447 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04475.html
 {\displaystyle g(x)=1}
+docID=7506 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23321.html
 {\displaystyle g(x)=1}
+docID=19704 position=35
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27714.html
 {\displaystyle s(F)=1}
+docID=1484 position=55
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03103.html
 {\displaystyle D(I)=1}
+docID=9523 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23984.html
 {\displaystyle f(x)=1}
+docID=10996 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13099.html
 {\displaystyle f(x)=1}
+docID=22242 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01787.html
 {\displaystyle f(x)=1}
+docID=11208 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07384.html
 {\displaystyle f(x)=1}
+docID=10685 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07026.html
 {\displaystyle f(x)=1}

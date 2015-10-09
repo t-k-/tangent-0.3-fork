@@ -1,31 +1,91 @@
-=int_{{{mathbb{R}}^{n}}}f,dx=int_{0}^{infty}left{int_{qvar{x0}}f,dSight},dr.
+\text{query}: \qquad \int_{{{\mathbb{R}}^{n}}}f\,dx=\int_{0}^{\infty}\left\{\int_{\qvar{x0}}f\,dS\right\}\,dr.
+docID=29826 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22382.html
 {\displaystyle\int_{{{\mathbb{R}}^{n}}}f\,dx=\int_{0}^{\infty}\left\{\int_{{%&#10;\partial B(x_{0};r)}}f\,dS\right\}\,dr.}
+docID=12873 position=87
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11081.html
 {\displaystyle\int_{{A\times B}}f(x,y)\,d(x,y)=\int_{A}\left(\int_{B}f(x,y)\,%&#10;dy\right)\,dx=\int_{B}\left(\int_{A}f(x,y)\,dx\right)\,dy.}
+docID=16863 position=64
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15132.html
 {\displaystyle F(a)=\int_{{-\infty}}^{a}\left[\int_{{x}}^{{\infty}}f(x|t)g(t)%&#10;dt\right]dx.}
+docID=16622 position=64
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23543.html
 {\displaystyle\int_{{{\mathbf{R}}^{n}}}f\,dV=\int_{0}^{\infty}\int_{{S^{{n-1}}%&#10;(r)}}\exp\left(-r^{2}/2\right)\,dA\,dr,}
+docID=8010 position=60
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00545.html
 {\displaystyle\int_{4}^{{10}}\left[\int_{3}^{7}\ 5\ dx\right]dy.}
+docID=17641 position=53
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01655.html
 {\displaystyle\int_{{-\infty}}^{\infty}\left|f(x)\right|^{2}\,dx=\int_{{-%&#10;\infty}}^{\infty}\left|{\hat{f}}(\xi)\right|^{2}\,d\xi.}
+docID=23922 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04706.html
 {\displaystyle\int_{{-\infty}}^{\infty}|{\hat{f}}(\xi)|^{2}\,d\xi=\int_{{-%&#10;\infty}}^{\infty}|f(x)|^{2}\,dx.}
+docID=28818 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01018.html
 {\displaystyle\int_{{0}}^{{\infty}}f_{k}e^{{-x}}\,dx=\int_{{0}}^{{\infty}}%&#10;\left([(-1)^{{n}}(n!)]^{{k+1}}e^{{-x}}x^{k}+\cdots\right)dx}
+docID=6841 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26671.html
 {\displaystyle M=\int\left[\int w\,dx\right]dx}
+docID=1304 position=26
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06294.html
 {\displaystyle\lim_{{\lambda\to\infty}}{\frac{1}{\lambda}}\int_{0}^{\lambda}%&#10;\left\{\int_{0}^{x}f(y)\,dy\right\}\,dx}
+docID=14319 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04191.html
 {\displaystyle\int_{0}^{1}\left(\int_{0}^{1}f(x,y)\,dy\right)\,dx=1\neq 0=\int%&#10;_{0}^{1}\left(\int_{0}^{1}f(x,y)\,dx\right)\,dy}
+docID=10539 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16050.html
 {\displaystyle\int_{0}^{t}H_{s}\,dX_{s}=\int_{0}^{t}H\,d^{-}X.}
+docID=16359 position=58
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04884.html
 {\displaystyle 2^{{1-s}}\,\Gamma(s+1)\,\eta(s)=2\int_{0}^{\infty}{\frac{x^{{2s%&#10;+1}}}{\cosh^{2}(x^{2})}}\,dx=\int_{0}^{\infty}{\frac{t^{s}}{\cosh^{2}(t)}}\,dt.}
+docID=8730 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06759.html
 {\displaystyle\int_{{-\infty}}^{\infty}|f(x)|^{2}\,dx=\int_{{-\infty}}^{\infty%&#10;}|g(y)|^{2}\,dy=1.}
+docID=16131 position=40
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00636.html
 {\displaystyle\int_{a}^{b}{\bar{f}}\,dx=\int_{a}^{b}f(x)\,dx}
+docID=24274 position=80
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00911.html
 {\displaystyle\int_{{a}}^{{b}}f\,dx=\int_{a}^{b}{\lim_{{n\to\infty}}{f_{n}}\,%&#10;dx}=\lim_{{n\to\infty}}\int_{{a}}^{{b}}f_{n}\,dx.}
+docID=1452 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04210.html
 {\displaystyle\lim_{{n\to\infty}}\int_{S}{f_{n}\,d\mu}=\int_{S}{f\,d\mu}.}
+docID=25704 position=34
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07982.html
 {\displaystyle\lim_{{\epsilon\rightarrow 0}}\int_{\epsilon}^{{\infty}}{\frac{%&#10;\sin(x)}{x}}dx=\int_{0}^{{\infty}}{\frac{\sin(x)}{x}}dx={\frac{\pi}{2}}}
+docID=29007 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12803.html
 {\displaystyle F=\int_{{0}}^{\infty}{\frac{1}{\Gamma(x)}}\,dx.}
+docID=18392 position=28
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25221.html
 {\displaystyle\int_{A}f\,d\mu=\int_{{[a,b]}}f\,d\mu}
+docID=8010 position=42
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00545.html
 {\displaystyle\textstyle{\int_{A}f\,d\mu=\int_{{[a,b]}}f\,d\mu}}
+docID=29373 position=28
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04098.html
 {\displaystyle\nu(A)=\int_{A}f\,d\mu=\int_{A}g\,d\mu}
+docID=1452 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04210.html
 {\displaystyle\lim_{{n\to\infty}}\int_{S}f_{n}\,d\mu=\int_{S}f\,d\mu}
+docID=23912 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22483.html
 {\displaystyle\int f\,dV=\int_{{-\infty}}^{{\infty}}f(t)\,\sinh^{2}t\,dt.}
+docID=8010 position=19
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00545.html
 {\displaystyle\int_{E}f\,d\mu=\int_{E}f^{+}\,d\mu-\int_{E}f^{-}\,d\mu}
+docID=11585 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16043.html
 {\displaystyle\int_{0}^{\infty}e^{{-x}}e^{{-x}}\,dx=\int_{0}^{\infty}e^{{-2x}}%&#10;\,dx={\frac{1}{2}}.}
+docID=15883 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01743.html
 {\displaystyle\scriptstyle\int_{{{\mathbf{R}}^{n}}}\chi_{r}\,dx=1}
+docID=18392 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25221.html
 {\displaystyle\int_{E}f\,d\mu=\int_{E}f\left(x\right)\,\mu\left(dx\right)}
+docID=23912 position=55
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22483.html
 {\displaystyle\int f\,dA=\int_{{-\infty}}^{{\infty}}f(t)\,|\sinh t|\,dt.}
+docID=18082 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04629.html
 {\displaystyle\int_{0}^{\infty}\oint_{C}x^{{\alpha-1}}e^{{-x}}\,d\alpha\,dx=%&#10;\int_{0}^{\infty}e^{{-x}}\oint_{C}x^{{\alpha-1}}\,d\alpha\,dx.}

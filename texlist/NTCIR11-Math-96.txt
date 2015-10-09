@@ -1,16 +1,48 @@
+docID=24611 position=24
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22195.html
 {\displaystyle{\boldsymbol{s}}}
+docID=1246 position=27
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15596.html
 {\displaystyle{\boldsymbol{s}}}
+docID=9755 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00027.html
 {\displaystyle{\boldsymbol{s}}}
+docID=13114 position=29
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23498.html
 {\displaystyle{\boldsymbol{s}}_{{{\boldsymbol{\Theta}}}}}
+docID=13114 position=38
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23498.html
 {\displaystyle{\boldsymbol{s}}={\boldsymbol{s}}_{{{\boldsymbol{\Theta}}}}}
+docID=1669 position=65
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/28883.html
 {\displaystyle G(.,{\boldsymbol{s}})}
+docID=15673 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06767.html
 {\displaystyle{\boldsymbol{v}}={\frac{{\text{d}}{\boldsymbol{s}}}{{\text{d}}t}}}
+docID=22352 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15078.html
 {\displaystyle\Gamma(t)=\oint_{C}{\boldsymbol{u}}\cdot{\boldsymbol{ds}}}
+docID=20877 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01922.html
 {\displaystyle{\mathcal{E}}=-\int_{{A}}^{{B}}{\boldsymbol{E_{{cs}}\cdot}}d{%&#10;\boldsymbol{\ell}}\ ,}
+docID=22352 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15078.html
 {\displaystyle{\frac{{\mathrm{D}}{\boldsymbol{{\mathrm{d}}s}}}{{\mathrm{D}}t}}%&#10;=\left({\boldsymbol{{\mathrm{d}}s}}\cdot{\boldsymbol{\nabla}}\right){%&#10;\boldsymbol{u}}.}
+docID=22352 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15078.html
 {\displaystyle\Gamma(t)=\oint_{C}({\boldsymbol{u}}+{\boldsymbol{\Omega}}\times%&#10;{\boldsymbol{r}})\cdot{\boldsymbol{ds}}}
+docID=15673 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06767.html
 {\displaystyle{\boldsymbol{a}}={\frac{{\text{d}}{\boldsymbol{v}}}{{\text{d}}t}%&#10;}={\frac{{\text{d}}^{2}{\boldsymbol{s}}}{{\text{d}}t^{2}}}}
+docID=15673 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06767.html
 {\displaystyle{\boldsymbol{j}}={\frac{{\text{d}}{\boldsymbol{a}}}{{\text{d}}t}%&#10;}={\frac{{\text{d}}^{2}{\boldsymbol{v}}}{{\text{d}}t^{2}}}={\frac{{\text{d}}^{%&#10;3}{\boldsymbol{s}}}{{\text{d}}t^{3}}}}
+docID=22352 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15078.html
 {\displaystyle{\frac{{\mathrm{D}}\Gamma}{{\mathrm{D}}t}}=\oint_{C}{\frac{{%&#10;\mathrm{D}}{\boldsymbol{u}}}{{\mathrm{D}}t}}\cdot{\boldsymbol{{\mathrm{d}}s}}+%&#10;\oint_{C}{\boldsymbol{u}}\cdot{\frac{{\mathrm{D}}{\boldsymbol{{\mathrm{d}}s}}}%&#10;{{\mathrm{D}}t}}.}
+docID=22352 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15078.html
 {\displaystyle\oint_{C}{\boldsymbol{u}}\cdot{\frac{{\mathrm{D}}{\boldsymbol{{%&#10;\mathrm{d}}s}}}{{\mathrm{D}}t}}=\oint_{C}{\boldsymbol{u}}\cdot\left[\left({%&#10;\boldsymbol{{\mathrm{d}}s}}\cdot{\boldsymbol{\nabla}}\right){\boldsymbol{u}}%&#10;\right]={\frac{1}{2}}\oint_{C}{\boldsymbol{\nabla}}\left(|{\boldsymbol{u}}|^{2%&#10;}\right)\cdot{\boldsymbol{{\mathrm{d}}s}}=0.}
+docID=1246 position=28
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15596.html
 {\displaystyle{\begin{aligned}\displaystyle I_{1}&amp;\displaystyle={\text{Tr}}({%&#10;\boldsymbol{\sigma}})=\sigma_{1}+\sigma_{2}+\sigma_{3}\\&#10;\displaystyle J_{2}&amp;\displaystyle={\tfrac{1}{2}}{\boldsymbol{s}}:{\boldsymbol{%&#10;s}}={\tfrac{1}{6}}\left[(\sigma_{1}-\sigma_{2})^{2}+(\sigma_{2}-\sigma_{3})^{2%&#10;}+(\sigma_{3}-\sigma_{1})^{2}\right]\\&#10;\displaystyle J_{3}&amp;\displaystyle=\det({\boldsymbol{s}})={\tfrac{1}{3}}({%&#10;\boldsymbol{s}}\cdot{\boldsymbol{s}}):{\boldsymbol{s}}=s_{1}s_{2}s_{3}\end{%&#10;aligned}}}

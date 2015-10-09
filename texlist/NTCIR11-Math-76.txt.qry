@@ -1,31 +1,91 @@
-=z_{{t}}=lambda_{{1}}z_{{t-1}}+arepsilon_{{t}}
+\text{query}: \qquad z_{{t}}=\lambda_{{1}}z_{{t-1}}+\varepsilon_{{t}}
+docID=814 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10488.html
 {\displaystyle z_{{t}}=\lambda_{{1}}z_{{t-1}}+\varepsilon_{{t}}}
+docID=814 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10488.html
 {\displaystyle y_{t}=a_{{1}}y_{{t-1}}+\varepsilon_{t}}
+docID=20314 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24753.html
 {\displaystyle y_{{t}}=\delta y_{{t-1}}+u_{{t}}\,}
+docID=1231 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10595.html
 {\displaystyle y_{{t}}=\rho y_{{t-1}}+u_{{t}}\,}
+docID=1231 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10595.html
 {\displaystyle\nabla y_{t}=\delta y_{{t-1}}+u_{t}\,}
+docID=8496 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13016.html
 {\displaystyle\varepsilon_{t}=\rho\varepsilon_{{t-1}}+e_{t},\ |\rho|&lt;1}
+docID=14595 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26100.html
 {\displaystyle\varepsilon_{t}=\rho\varepsilon_{{t-1}}+e_{t},\ |\rho|&lt;1}
+docID=814 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10488.html
 {\displaystyle y_{{t}}=a_{{1}}y_{{t-1}}+a_{{2}}y_{{t-2}}+\varepsilon_{{t}}}
+docID=16533 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25690.html
 {\displaystyle x_{t}=Ax_{{t-1}}+b\,}
+docID=16533 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25690.html
 {\displaystyle x_{t}=Ax_{{t-1}}+Bx_{{t-2}}}
+docID=29388 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22120.html
 {\displaystyle u_{t}=\rho_{1}u_{{t-1}}+\rho_{2}u_{{t-2}}+\cdots+\rho_{p}u_{{t-%&#10;p}}+\varepsilon_{t}.\,}
+docID=814 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10488.html
 {\displaystyle y_{t}=a_{1}y_{{t-1}}+a_{2}y_{{t-2}}+\cdots+a_{p}y_{{t-p}}+%&#10;\varepsilon_{t}.}
+docID=27588 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03908.html
 {\displaystyle{D_{t}}=(1+r)D_{{t-1}}+G_{t}-T_{t}\,}
+docID=26413 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23282.html
 {\displaystyle X_{t}=\mu+\varepsilon_{t}+\theta_{1}\varepsilon_{{t-1}}+\cdots+%&#10;\theta_{q}\varepsilon_{{t-q}}\,}
+docID=1231 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10595.html
 {\displaystyle\nabla y_{{t}}=(\rho-1)y_{{t-1}}+u_{{t}}=\delta y_{{t-1}}+u_{{t}%&#10;}\,}
+docID=16533 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25690.html
 {\displaystyle y_{t}=Ay_{{t-1}}}
+docID=16533 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25690.html
 {\displaystyle y_{t}=Ay_{{t-1}},}
+docID=27588 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03908.html
 {\displaystyle rD_{{t-1}}+G_{t}-T_{t}\,}
+docID=6960 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13644.html
 {\displaystyle U_{{ni}}=\beta z_{{ni}}+\varepsilon_{{ni}}}
+docID=15424 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14308.html
 {\displaystyle q_{{t+1}}=2q_{{t}}+p_{{t}}\mod N}
+docID=9090 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08435.html
 {\displaystyle X_{t}=c+\varphi_{1}X_{{t-1}}+\varepsilon_{t}}
+docID=1228 position=18
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08671.html
 {\displaystyle X_{t}=X_{{t-1}}+\varepsilon_{t}}
+docID=814 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10488.html
 {\displaystyle y_{{t}}=y_{{t-1}}+\varepsilon_{t}.}
+docID=28916 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25786.html
 {\displaystyle U_{t}=U_{{t-1}}+e_{t},}
+docID=29199 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09801.html
 {\displaystyle X_{t}=\mu+X_{{t-1}}+\epsilon_{t}\,}
+docID=9090 position=73
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08435.html
 {\displaystyle c+\varphi X_{{t-2}}+\varepsilon_{{t-1}}}
+docID=9090 position=38
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08435.html
 {\displaystyle X_{t}=c+\varphi X_{{t-1}}+\varepsilon_{t}\,}
+docID=4591 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12668.html
 {\displaystyle Y_{t}={\mathbf{\nu}}+AY_{{t-1}}+U_{t}}
+docID=26436 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21592.html
 {\displaystyle y_{t}=a+\lambda y_{{t-1}}+bx_{t}+{\text{error term}}.}
+docID=3599 position=30
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27349.html
 {\displaystyle z_{i}:=Pz_{{i-1}}}

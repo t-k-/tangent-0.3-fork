@@ -1,32 +1,91 @@
-=(
-abla_{Y}T)(lpha_{1},lpha_{2},ldots,X_{1},X_{2},ldots)=Y(T(lpha_{1},lpha_{2},ldots,X_{qvar{x0}},X_{2},ldots))
+\text{query}: \qquad (\nabla_{Y}T)(\alpha_{1},\alpha_{2},\ldots,X_{1},X_{2},\ldots)=Y(T(\alpha_{1},\alpha_{2},\ldots,X_{\qvar{x0}},X_{2},\ldots))
+docID=8013 position=49
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04787.html
 {\displaystyle(\nabla_{Y}T)(\alpha_{1},\alpha_{2},\ldots,X_{1},X_{2},\ldots)=Y%&#10;(T(\alpha_{1},\alpha_{2},\ldots,X_{1},X_{2},\ldots))}
+docID=4627 position=71
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03726.html
 {\displaystyle({\mathcal{L}}_{Y}T)(\alpha_{1},\alpha_{2},\ldots,X_{1},X_{2},%&#10;\ldots)=Y(T(\alpha_{1},\alpha_{2},\ldots,X_{1},X_{2},\ldots))}
+docID=26356 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08859.html
 {\displaystyle\eta(X_{1},X_{2},\ldots,X_{n})={\mathrm{E}}(\delta(X_{1},X_{2},%&#10;\ldots,X_{n})|T)\,}
+docID=21820 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13191.html
 {\displaystyle\Pr\left\{f(X_{1},X_{2},\dots,X_{n})-E[f(X_{1},X_{2},\dots,X_{n}%&#10;)]\geq\varepsilon\right\}\leq\exp\left(-{\frac{2\varepsilon^{2}}{\sum_{{i=1}}^%&#10;{n}c_{i}^{2}}}\right)}
+docID=5005 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09918.html
 {\displaystyle{\bar{A}}={\frac{\int{Ae^{{-\beta H(q_{1},q_{2},...q_{M},p_{1},p%&#10;_{2},...p_{N})}}d\tau}}{\int{e^{{-\beta H(q_{1},q_{2},...q_{M},p_{1},p_{2},...%&#10;p_{N})}}d\tau}}}}
+docID=15330 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15004.html
 {\displaystyle C(X_{1},X_{2},\ldots,X_{n})\equiv\operatorname{D_{{KL}}}\left[p%&#10;(X_{1},\ldots,X_{n})\|p(X_{1})p(X_{2})\cdots p(X_{n})\right]\;.}
+docID=8013 position=51
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04787.html
 {\displaystyle-T(\alpha_{1},\alpha_{2},\ldots,\nabla_{Y}X_{1},X_{2},\ldots)-T(%&#10;\alpha_{1},\alpha_{2},\ldots,X_{1},\nabla_{Y}X_{2},\ldots)-\ldots}
+docID=4627 position=73
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03726.html
 {\displaystyle-T(\alpha_{1},\alpha_{2},\ldots,{\mathcal{L}}_{Y}X_{1},X_{2},%&#10;\ldots)-T(\alpha_{1},\alpha_{2},\ldots,X_{1},{\mathcal{L}}_{Y}X_{2},\ldots)-\ldots}
+docID=8013 position=50
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04787.html
 {\displaystyle-T(\nabla_{Y}\alpha_{1},\alpha_{2},\ldots,X_{1},X_{2},\ldots)-T(%&#10;\alpha_{1},\nabla_{Y}\alpha_{2},\ldots,X_{1},X_{2},\ldots)-\ldots}
+docID=4627 position=72
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03726.html
 {\displaystyle-T({\mathcal{L}}_{Y}\alpha_{1},\alpha_{2},\ldots,X_{1},X_{2},%&#10;\ldots)-T(\alpha_{1},{\mathcal{L}}_{Y}\alpha_{2},\ldots,X_{1},X_{2},\ldots)-\ldots}
+docID=26356 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08859.html
 {\displaystyle{\mathrm{var}}(\delta(X_{1},X_{2},\ldots,X_{n}))\leq{\mathrm{var%&#10;}}({\tilde{\delta}}(X_{1},X_{2},\ldots,X_{n}))}
+docID=21820 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13191.html
 {\displaystyle\Pr\left\{E[f(X_{1},X_{2},\dots,X_{n})]-f(X_{1},X_{2},\dots,X_{n%&#10;})\geq\varepsilon\right\}\leq\exp\left(-{\frac{2\varepsilon^{2}}{\sum_{{i=1}}^%&#10;{n}c_{i}^{2}}}\right)}
+docID=21820 position=23
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13191.html
 {\displaystyle\Pr\left\{|E[f(X_{1},X_{2},\dots,X_{n})]-f(X_{1},X_{2},\dots,X_{%&#10;n})|\geq\varepsilon\right\}\leq 2\exp\left(-{\frac{2\varepsilon^{2}}{\sum_{{i=%&#10;1}}^{n}c_{i}^{2}}}\right).\;}
+docID=3751 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03395.html
 {\displaystyle\Pr\left[\lim_{{n\to\infty}}-{\frac{1}{n}}\log p(X_{1},X_{2},...%&#10;,X_{n})=H(X)\right]=1}
+docID=22984 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11969.html
 {\displaystyle(i_{P}Q)(X_{0},X_{1},\ldots,X_{{p+q}})=\sum_{{\sigma\in Sh_{{p,q%&#10;}}}}{\mathrm{sgn}}(\sigma)P(Q(X_{{\sigma(0)}},X_{{\sigma(1)}},\ldots,X_{{%&#10;\sigma(q)}}),X_{{{\sigma(q+1)}}},\ldots,X_{{{\sigma(p+q)}}})}
+docID=28720 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01439.html
 {\displaystyle\lambda(x_{1},x_{2},\ldots,x_{n},x_{{n+1}},\ldots)=(\lambda x_{1%&#10;},\lambda x_{2},\ldots,\lambda x_{n},\lambda x_{{n+1}},\ldots)}
+docID=14189 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24842.html
 {\displaystyle\psi(x_{1},x_{2},\dots,x_{j},\dots,x_{N})}
+docID=2052 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11662.html
 {\displaystyle\Delta y=f\left(x_{1},x_{2},\ldots,x_{{i,1}},\ldots,x_{n}\right)%&#10;-f\left(x_{1},x_{2},\ldots,x_{{i,0}},\ldots,x_{n}\right)}
+docID=2052 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11662.html
 {\displaystyle{\frac{\Delta y}{\Delta x}}={\frac{f\left(x_{1},x_{2},\ldots,x_{%&#10;{i,1}},\ldots,x_{n}\right)-f\left(x_{1},x_{2},\ldots,x_{{i,0}},\ldots,x_{n}%&#10;\right)}{x_{{i,1}}-x_{{i,0}}}}}
+docID=28720 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01439.html
 {\displaystyle{\begin{aligned}&amp;\displaystyle(x_{1},x_{2},\ldots,x_{n},x_{{n+1}%&#10;},\ldots)+(y_{1},y_{2},\ldots,y_{n},y_{{n+1}},\ldots)=\\&#10;&amp;\displaystyle(x_{1}+y_{1},x_{2}+y_{2},\ldots,x_{n}+y_{n},x_{{n+1}}+y_{{n+1}},%&#10;\ldots)\end{aligned}}}
+docID=3681 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17720.html
 {\displaystyle P^{{\prime}}(X_{{1}},X_{{2}},X_{{3}},X_{{4}},X_{{5}},X_{{6}})=P%&#10;(X_{{6}}|X_{{5}})P(X_{{5}}|X_{{2}})P(X_{{4}}|X_{{2}})P(X_{{3}}|X_{{2}})P(X_{{2%&#10;}}|X_{{1}})P(X_{{1}})}
+docID=28720 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01439.html
 {\displaystyle\scriptstyle\ x\;=\;(x_{1},\,x_{2},\,\ldots,\,x_{n},\,x_{{n+1}},%&#10;\,\ldots)}
+docID=3681 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17720.html
 {\displaystyle P(X_{{1}},X_{{2}},\ldots,X_{{n}})}
+docID=19434 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09816.html
 {\displaystyle g(X_{1},X_{2},\dots,X_{n})}
+docID=15330 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15004.html
 {\displaystyle C(X_{1},X_{2},\ldots,X_{n})}
+docID=26356 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08859.html
 {\displaystyle\delta(X_{1},X_{2},\ldots,X_{n})}
+docID=15330 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15004.html
 {\displaystyle p(X_{1},X_{2},\ldots,X_{n})}
+docID=3681 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17720.html
 {\displaystyle H(X_{{1}},X_{{2}},\ldots,X_{{n}})}
+docID=15330 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15004.html
 {\displaystyle H(X_{1},X_{2},\ldots,X_{n})}
+docID=21366 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12818.html
 {\displaystyle\gcd(\alpha_{1},\alpha_{2},\ldots,\alpha_{r})&gt;1}

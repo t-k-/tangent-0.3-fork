@@ -1,34 +1,91 @@
-=f^{{mu}}=-8pi{Gover{3c^{4}}}left({Aover 2}T_{{lphabeta}}+{Bover 2}Teta_{{lphabeta}}ight)left(delta_{{
-u}}^{{mu}}+u^{{mu}}u_{{
-u}}ight)u^{{lpha}}x^{{
-u}}u^{{beta}}
+\text{query}: \qquad f^{{\mu}}=-8\pi{G\over{3c^{4}}}\left({A\over 2}T_{{\alpha\beta}}+{B\over 2}T\eta_{{\alpha\beta}}\right)\left(\delta_{{\nu}}^{{\mu}}+u^{{\mu}}u_{{\nu}}\right)u^{{\alpha}}x^{{\nu}}u^{{\beta}}
+docID=1861 position=96
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12471.html
 {\displaystyle f^{{\mu}}=-8\pi{G\over{3c^{4}}}\left({A\over 2}T_{{\alpha\beta}%&#10;}+{B\over 2}T\eta_{{\alpha\beta}}\right)\left(\delta_{{\nu}}^{{\mu}}+u^{{\mu}}%&#10;u_{{\nu}}\right)u^{{\alpha}}x^{{\nu}}u^{{\beta}}}
+docID=1861 position=97
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12471.html
 {\displaystyle{\acute{f}}^{{\mu}}=-8\pi{G\over{3c^{4}}}\left({A\over 2}{\acute%&#10;{T}}_{{\alpha\beta}}+{B\over 2}{\acute{T}}g_{{\alpha\beta}}\right)\left(\delta%&#10;_{{\nu}}^{{\mu}}+{\acute{u}}^{{\mu}}{\acute{u}}_{{\nu}}\right){\acute{u}}^{{%&#10;\alpha}}{\acute{x}}^{{\nu}}{\acute{u}}^{{\beta}}}
+docID=1861 position=93
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12471.html
 {\displaystyle f^{{\mu}}=-8\pi{G\over{3c^{4}}}\left({A\over 2}T_{{\alpha\beta}%&#10;}+{B\over 2}T\eta_{{\alpha\beta}}\right)\delta_{{\nu}}^{{\mu}}u^{{\alpha}}x^{{%&#10;\nu}}u^{{\beta}}}
+docID=1861 position=100
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12471.html
 {\displaystyle{\acute{R}}_{{\alpha\beta}}=8\pi{G\over{c^{4}}}\left({A\over 2}{%&#10;\acute{T}}_{{\alpha\beta}}+{B\over 2}{\acute{T}}g_{{\alpha\beta}}\right)}
+docID=1861 position=101
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12471.html
 {\displaystyle{\acute{R}}={\acute{R}}_{{\alpha}}^{{\alpha}}=8\pi{G\over{c^{4}}%&#10;}\left({A\over 2}{\acute{T}}_{{\alpha}}^{{\alpha}}+{B\over 2}{\acute{T}}\delta%&#10;_{{\alpha}}^{{\alpha}}\right)=8\pi{G\over{c^{4}}}\left({A\over 2}+2B\right){%&#10;\acute{T}}}
+docID=27934 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26342.html
 {\displaystyle{}+{\frac{\varphi_{{i,j+1}}-\varphi_{{i,j}}}{h_{{j}}^{y}}}\left(%&#10;{\frac{h_{i}^{x}}{2}}\varepsilon_{{i,j}}^{y}+{\frac{h_{{i-1}}^{x}}{2}}%&#10;\varepsilon_{{i-1,j}}^{y}\right)}
+docID=7784 position=77
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17988.html
 {\displaystyle F=\int\!\left({\frac{A}{2}}\phi^{2}+{\frac{B}{4}}\phi^{4}+{%&#10;\frac{\kappa}{2}}\left(\nabla\phi\right)^{2}\right)~{}dx\;.}
+docID=9653 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25303.html
 {\displaystyle{\frac{{\mathrm{d}}^{{2}}u}{{\mathrm{d}}\theta^{{2}}}}+u={\frac{%&#10;r_{s}c^{{2}}}{2h^{{2}}}}+{\frac{3r_{s}}{2}}u^{{2}}-{\frac{GQ^{{2}}}{4\pi%&#10;\varepsilon_{0}c^{{4}}}}\left({\frac{c^{{2}}}{h^{{2}}}}u+2u^{3}\right)}
+docID=12788 position=153
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26394.html
 {\displaystyle\Delta\omega_{1}\ =\ -2\pi\ {\frac{J_{2}}{\mu\ p^{2}}}\ {\frac{3%&#10;}{2}}\left({\frac{3}{2}}\ \sin^{2}i\ -\ 1\right)\,}
+docID=1861 position=30
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12471.html
 {\displaystyle{{d^{2}{\acute{x}}^{{\mu}}}\over{d\tau^{2}}}+{\acute{{R}^{{\mu}}%&#10;}}_{{\alpha\nu\beta}}{\acute{u}}^{{\alpha}}{\acute{x}}^{{\nu}}{\acute{u}}^{{%&#10;\beta}}=0}
+docID=7059 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21452.html
 {\displaystyle{\frac{\partial^{2}\psi}{\partial\tau^{2}}}\,-\,{\frac{\partial^%&#10;{2}\psi}{\partial\xi^{2}}}\,-\,{\frac{\partial^{2}}{\partial\xi^{2}}}\left(\,{%&#10;\frac{1}{2}}\,\psi^{2}\,+\,{\frac{\partial^{2}\psi}{\partial\xi^{2}}}\,\right)%&#10;\,=\,0,}
+docID=28279 position=77
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04746.html
 {\displaystyle R^{{\alpha\beta}}-{1\over 2}Rg^{{\alpha\beta}}+g^{{\alpha\beta}%&#10;}\Lambda={\frac{8\pi G}{c^{4}\mu_{0}}}\left(F^{{\alpha}}{}^{{\psi}}F_{{\psi}}{%&#10;}^{{\beta}}+{1\over 4}g^{{\alpha\beta}}F_{{\psi\tau}}F^{{\psi\tau}}\right).}
+docID=7784 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17988.html
 {\displaystyle{\frac{\Delta F}{V}}=\left({\frac{A^{2}}{4}}\right)\left(f^{%&#10;\prime\prime}+2\,\kappa\,\beta^{{2}}\right).}
+docID=28279 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04746.html
 {\displaystyle R_{{\mu\nu}}-g_{{\mu\nu}}\Lambda={8\pi G\over c^{4}}\left(T_{{%&#10;\mu\nu}}-{1\over 2}T\,g_{{\mu\nu}}\right)\,.}
+docID=25432 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13393.html
 {\displaystyle T^{{\mu\nu}}={\frac{1}{\mu_{0}}}\left[F^{{\mu\alpha}}F_{{\ %&#10;\alpha}}^{\nu}-{\frac{1}{4}}\eta^{{\mu\nu}}F_{{\alpha\beta}}F^{{\alpha\beta}}%&#10;\right]\,.}
+docID=21816 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00244.html
 {\displaystyle f(z)={\frac{\alpha-i\beta}{2}}z+{\frac{\alpha+i\beta}{2}}{\bar{%&#10;z}}+\eta(z)z\,}
+docID=3741 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11636.html
 {\displaystyle{\hat{\vec{\mathbf{a}}}}\cdot{\mathbf{A}}\cdot{\hat{\vec{\mathbf%&#10;{b}}}}={\frac{\delta A}{2}}{\hat{T}}_{{2,-2}}+{\frac{\delta A}{2}}{\hat{T}}_{{%&#10;2,2}}+{\frac{\Delta A}{{\sqrt{6}}}}{\hat{T}}_{{2,-2}}}
+docID=1861 position=91
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12471.html
 {\displaystyle T_{{00}}\rightarrow u^{{\alpha}}\left(AT_{{\alpha\beta}}+BT\eta%&#10;_{{\alpha\beta}}\right)u^{{\beta}}}
+docID=25871 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03810.html
 {\displaystyle\operatorname{gd}\,u=i^{{-1}}\ln\tan\left({\tfrac{1}{4}}\pi+{%&#10;\tfrac{1}{2}}ui\right)}
+docID=1861 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12471.html
 {\displaystyle{{du^{{\mu}}}\over{d\tau}}+{R^{{\mu}}}_{{\alpha\nu\beta}}u^{{%&#10;\alpha}}x^{{\nu}}u^{{\beta}}=0}
+docID=23585 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29432.html
 {\displaystyle T=\frac{1}{2}(\frac{1}{\rho c_{0}}\frac{d\rho c_{0}}{dz}+\frac{%&#10;1}{\rho c_{0}}\frac{dQ}{dz})\quad(2.8.b)}
+docID=23130 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11120.html
 {\displaystyle{\;\,dS^{\alpha}\over d\tau}={e\over m}{\bigg[}{g\over 2}F^{{%&#10;\alpha\beta}}S_{\beta}+\left({g\over 2}-1\right)u^{\alpha}\left(S_{\lambda}F^{%&#10;{\lambda\mu}}U_{\mu}\right){\bigg]}\;,}
+docID=1861 position=95
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12471.html
 {\displaystyle f^{{\mu}}\rightarrow f^{{\mu}}+u^{{\mu}}u_{{\nu}}f^{{\nu}}}
+docID=1861 position=105
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12471.html
 {\displaystyle{\acute{R}}=-8\pi{G\over{c^{4}}}{\acute{T}}}
+docID=10439 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08266.html
 {\displaystyle c_{2}={1\over 2}c_{0}+{1\over 2}c_{1}}
+docID=944 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16413.html
 {\displaystyle\nu_{x}={\frac{1}{2}}\delta_{{-1}}+{\frac{1}{2}}\delta_{1}}
+docID=1861 position=79
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12471.html
 {\displaystyle{\mathbf{f}}=-{4\pi G\over{3c^{4}}}\left({Mc^{2}\over V}\right){%&#10;\mathbf{r}}}
+docID=25432 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13393.html
 {\displaystyle u_{{\mathrm{em}}}={\frac{\epsilon_{0}}{2}}E^{2}+{\frac{1}{2\mu_%&#10;{0}}}B^{2}\,}
+docID=5386 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05699.html
 {\displaystyle{\frac{1}{2}}t^{2}+{\frac{1}{2}}t={\frac{1}{2}}(t)(t+1)}
+docID=14032 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10785.html
 {\displaystyle X=-T^{{-1/2}}+{\frac{1}{2}}-{\frac{1}{8}}T^{{1/2}}+{\frac{1}{12%&#10;8}}T^{{3/2}}+\cdots}

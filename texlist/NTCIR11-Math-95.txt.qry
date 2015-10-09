@@ -1,31 +1,91 @@
-=({sqrt{p_{1}}},ots,{sqrt{p_{n}}})
+\text{query}: \qquad ({\sqrt{p_{1}}},\cdots,{\sqrt{p_{n}}})
+docID=5555 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14285.html
 {\displaystyle({\sqrt{p_{1}}},\cdots,{\sqrt{p_{n}}})}
+docID=5555 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14285.html
 {\displaystyle({\sqrt{q_{1}}},\cdots,{\sqrt{q_{n}}})}
+docID=939 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14500.html
 {\displaystyle({\sqrt{m_{e}}},{\sqrt{m_{{\mu}}}},{\sqrt{m_{{\tau}}}})}
+docID=3053 position=77
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21648.html
 {\displaystyle({\sqrt{\lambda_{i}}},U_{i},V_{i})}
+docID=19563 position=126
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02479.html
 {\displaystyle({\sqrt{2}},1,-1)}
+docID=26955 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26105.html
 {\displaystyle g_{n}&lt;{\sqrt{p_{n}}}\,}
+docID=7441 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13789.html
 {\displaystyle g_{n}&lt;{\sqrt{p_{n}}}\,}
+docID=4567 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15517.html
 {\displaystyle{\sqrt{p_{{n+1}}}}-{\sqrt{p_{n}}}&lt;1}
+docID=4567 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15517.html
 {\displaystyle A_{n}={\sqrt{p_{{n+1}}}}-{\sqrt{p_{n}}}}
+docID=24305 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10471.html
 {\displaystyle(M,x,n)}
+docID=974 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17349.html
 {\displaystyle(2,d,1)}
+docID=25284 position=91
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24721.html
 {\displaystyle(x,y,p)}
+docID=15703 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10264.html
 {\displaystyle(0,\varphi,1)}
+docID=1091 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/18131.html
 {\displaystyle(v,k,1)}
+docID=14527 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04904.html
 {\displaystyle({\textrm{CURVE}},G,n)}
+docID=24511 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24231.html
 {\displaystyle(\Omega,{\mathcal{F}},p)}
+docID=22278 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00075.html
 {\displaystyle\varphi(m,n,p)\,\!}
+docID=27861 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27216.html
 {\displaystyle\phi(a,b,n)\,\!}
+docID=5822 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11798.html
 {\displaystyle\Delta(l,m,n)}
+docID=18380 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26857.html
 {\displaystyle f(x,y,p)}
+docID=25284 position=92
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24721.html
 {\displaystyle a(x,y,p)}
+docID=23538 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11631.html
 {\displaystyle\deg(f,\Omega,p)}
+docID=10231 position=27
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21730.html
 {\displaystyle(x_{1},D,0)}
+docID=25346 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23564.html
 {\displaystyle(q,\omega_{1},p)}
+docID=28002 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11505.html
 {\displaystyle({\mathcal{H}},F_{1},\Gamma)}
+docID=24412 position=46
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07609.html
 {\displaystyle(\alpha_{1},\cdots,\alpha_{K})}
+docID=11732 position=103
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22414.html
 {\displaystyle(i_{1},\cdots,i_{k})}
+docID=11732 position=31
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22414.html
 {\displaystyle n=(1,\cdots,k)}
+docID=16929 position=191
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29939.html
 {\displaystyle(W_{1},\ldots,W_{n})}
+docID=13359 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10411.html
 {\displaystyle(n_{1},\ldots,n_{k})}

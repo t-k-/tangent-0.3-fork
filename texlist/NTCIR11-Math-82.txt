@@ -1,30 +1,90 @@
+docID=5133 position=70
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01545.html
 {\displaystyle f_{{W}}:X\to[0,1]\,}
+docID=5133 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01545.html
 {\displaystyle f_{{U}}:X\to[0,1]\,}
+docID=7080 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12253.html
 {\displaystyle p_{K}:X\rightarrow[0,\infty)}
+docID=29113 position=32
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17232.html
 {\displaystyle h_{i}:X\to\{-1,+1\}}
+docID=29140 position=63
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29927.html
 {\displaystyle\phi:X\rightarrow\{0\}}
+docID=18686 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01362.html
 {\displaystyle f:E\rightarrow\{1\}}
+docID=26801 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08075.html
 {\displaystyle\phi:{\mathbb{R}}^{{2}}\rightarrow\{0\}}
+docID=29140 position=66
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29927.html
 {\displaystyle\phi:{\mathbb{R}}^{4}\rightarrow\{0\}}
+docID=3945 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16527.html
 {\displaystyle\omega\colon\pi\to\left\{\pm 1\right\}}
+docID=19649 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27988.html
 {\displaystyle h:X\to[0,1]}
+docID=3735 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23400.html
 {\displaystyle f:X\to(Y\to Z)}
+docID=9053 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04440.html
 {\displaystyle b:X\to\{0,1\}}
+docID=29539 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11691.html
 {\displaystyle j:X\to(X,A)}
+docID=3966 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04922.html
 {\displaystyle\nu:X\to[0,1]}
+docID=29140 position=59
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29927.html
 {\displaystyle\phi:{\mathbb{R}}^{{n+1}}\rightarrow\{0\}}
+docID=1743 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11438.html
 {\displaystyle F:X\to[0,+\infty)}
+docID=1743 position=29
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11438.html
 {\displaystyle G:X\to[0,+\infty)}
+docID=7161 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27338.html
 {\displaystyle H:X\rightarrow\{l,\neg l\}}
+docID=7565 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12821.html
 {\displaystyle H=\{h:U\to[m]\}}
+docID=3331 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26482.html
 {\displaystyle H=\{h:U\to[m]\}}
+docID=7898 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27160.html
 {\displaystyle h_{C}:X^{*}\to{\mathbb{R}}}
+docID=2823 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03301.html
 {\displaystyle{\mathbf{1}}_{A}\colon X\to\{0,1\}\,}
+docID=16894 position=31
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03830.html
 {\displaystyle{\mathbf{1}}_{A}:X\to\{0,1\}\,}
+docID=19562 position=56
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12857.html
 {\displaystyle h:|{\mathcal{A}}|\rightarrow|{\mathcal{B}}|}
+docID=17780 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02448.html
 {\displaystyle X\to\{1\}}
+docID=7033 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22762.html
 {\displaystyle h:X\to Y\,}
+docID=29546 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08498.html
 {\displaystyle\!h:X\to Y}
+docID=29128 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02994.html
 {\displaystyle h:X^{\prime}\to{{\mathbb{F}}}}
+docID=22538 position=11
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24656.html
 {\displaystyle C_{n}\to\{\pm 1\}}
+docID=19378 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14397.html
 {\displaystyle g,h\colon X\to{\mathbb{R}}}

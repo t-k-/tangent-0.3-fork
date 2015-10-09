@@ -1,30 +1,90 @@
+docID=7788 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25556.html
 {\displaystyle K_{*}^{M}(k):=T^{*}(k^{\times})/(a\otimes(1-a))}
+docID=22627 position=20
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05763.html
 {\displaystyle K_{*}^{M}(k):=T^{*}(k^{\times})/(a\otimes(1-a))}
+docID=5401 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11314.html
 {\displaystyle K_{*}^{M}(F):=T^{*}F^{\times}/(a\otimes(1-a)),\,}
+docID=3016 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03106.html
 {\displaystyle\Lambda(V):=T(V)/I.\,}
+docID=26104 position=54
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08378.html
 {\displaystyle B(f):=b^{*}(f)+b(f)}
+docID=13635 position=170
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23578.html
 {\displaystyle J(C):={\mathrm{Div}}^{0}(C)/{\mathrm{Princ}}(C)}
+docID=3506 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09519.html
 {\displaystyle g(x)=f(x){\big/}(x-a)}
+docID=7788 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25556.html
 {\displaystyle\left\{a\otimes(1-a):\ a\neq 0,1\right\}.}
+docID=22627 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05763.html
 {\displaystyle\left\{a\otimes(1-a):\ a\neq 0,1\right\}.}
+docID=6669 position=29
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27294.html
 {\displaystyle G(l)=(1-(1-p)^{l})}
+docID=12098 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04302.html
 {\displaystyle U(L)=T(L)/I}
+docID=3016 position=28
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03106.html
 {\displaystyle\Lambda(V)=T(V)/I\ }
+docID=17326 position=37
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/27788.html
 {\displaystyle\alpha\in{\mathbb{A}}^{1}(k)\subset{\mathbb{P}}^{1}(k)}
+docID=8294 position=29
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17498.html
 {\displaystyle F(C)=T(C)/W(C)}
+docID=29701 position=52
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/13154.html
 {\displaystyle K^{{+}}(k){\hat{g}}(k)=G^{{+}}(k)+G^{{-}}(k).}
+docID=23649 position=13
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08802.html
 {\displaystyle s^{{(k)}}(z):=(\downarrow 2)(a^{*}(z)\cdot s^{{(k+1)}}(z))}
+docID=5401 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11314.html
 {\displaystyle a\otimes(1-a)\,}
+docID=22627 position=16
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05763.html
 {\displaystyle K_{2}(k)=k^{\times}\otimes_{{{\mathbf{Z}}}}k^{\times}/\langle a%&#10;\otimes(1-a)\mid a\not=0,1\rangle.}
+docID=19301 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/26386.html
 {\displaystyle{\mathcal{M}}(k)=\epsilon_{{\mu}}(k){\mathcal{M}}^{{\mu}}(k)}
+docID=18885 position=26
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15045.html
 {\displaystyle T_{k}(\cos\theta)=\cos(k\theta)}
+docID=20209 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11310.html
 {\displaystyle\widetilde{K}^{{-n}}(X):=\widetilde{K}(S^{n}X)}
+docID=5708 position=59
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00354.html
 {\displaystyle{\frac{{\mathrm{d}}E(k)}{{\mathrm{d}}k}}={\frac{E(k)-K(k)}{k}}}
+docID=7788 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/25556.html
 {\displaystyle K_{n}^{M}(k)}
+docID=22627 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05763.html
 {\displaystyle K_{n}^{M}(k)}
+docID=221 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11504.html
 {\displaystyle(\partial T)(\omega):=T(d\omega)\,}
+docID=16929 position=136
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/29939.html
 {\displaystyle(1-p)\gamma_{\delta^{(p)}}^{*}(t)}
+docID=9501 position=41
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11050.html
 {\displaystyle y^{2}=x^{2}(a-x)/(a+x)}
+docID=9751 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10698.html
 {\displaystyle p(a)/(p(a/2)+p(a))}
+docID=23618 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08670.html
 {\displaystyle P=(a_{D}-a_{S})/(b_{S}-b_{D})}
+docID=23618 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08670.html
 {\displaystyle\pi_{2}=(a_{D}-a_{S})/(b_{S}-b_{D})\,}

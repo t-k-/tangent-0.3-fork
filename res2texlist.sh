@@ -14,7 +14,10 @@ process_query_name() {
 process_result() {
 	docID=`echo "$1" | awk '{print $2}'`
 	pos=`echo "$1" | awk '{print $3}'`
-	python3 doc.py $docID $pos | grep '<math' | grep -Po '(?<=alttext=").*?(?=")' | tee -ai "$2"
+	python3 doc.py $docID $pos > /tmp/ntcir_tmp
+	echo "docID=$docID position=$pos" >> "$2"
+	cat /tmp/ntcir_tmp | head -1 | tee -a "$2"
+	cat /tmp/ntcir_tmp | grep '<math' | grep -Po '(?<=alttext=").*?(?=")' | tee -ai "$2"
 }
 
 cnt=1

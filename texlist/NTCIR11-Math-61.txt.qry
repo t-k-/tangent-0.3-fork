@@ -1,31 +1,91 @@
-=left{zin H:left|zight|&gt;1,,left|,{mbox{?{x0}}}(z),ight|&lt;{rac{1}{2}}ight}
+\text{query}: \qquad \left\{z\in H:\left|z\right|&gt;1,\,\left|\,{\mbox{?{x0}}}(z)\,\right|&lt;{\frac{1}{2}}\right\}
+docID=4629 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08877.html
 {\displaystyle\left\{z\in H:\left|z\right|&gt;1,\,\left|\,{\mbox{Re}}(z)\,\right|%&#10;&lt;{\frac{1}{2}}\right\}}
+docID=7708 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14054.html
 {\displaystyle U=\left\{z\in H:\left|z\right|&gt;1,\,\left|\,{\mbox{Re}}(z)\,%&#10;\right|&lt;{\frac{1}{2}}\right\}}
+docID=3210 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04007.html
 {\displaystyle R=\left\{z\in{\mathbf{H}}:\left|z\right|&gt;1,\,\left|\,{\mbox{Re}%&#10;}(z)\,\right|&lt;{\frac{1}{2}}\right\}}
+docID=11948 position=16
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08917.html
 {\displaystyle U=\left\{z\in H:\left|z\right|&gt;1,\,\left|\,{\mbox{Re}}(z)\,%&#10;\right|&lt;{\tfrac{1}{2}}\right\}.}
+docID=19591 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05037.html
 {\displaystyle U=\left\{z\in H:\left|z\right|&gt;1,\,\left|\,{\mbox{Re}}(z)\,%&#10;\right|&lt;{\frac{1}{2}}\right\}.}
+docID=26580 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08608.html
 {\displaystyle\Omega(\Gamma)=\{\tau\in H:|\tau|&gt;1,|\tau+\overline{\tau}|&lt;1\}}
+docID=5204 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02060.html
 {\displaystyle D_{r}(z_{0})=\{z\in{\mathbf{C}}:r&gt;0,|z-z_{0}|&lt;r\}}
+docID=4819 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01740.html
 {\displaystyle(\{z\in{\mathbb{C}}:|z|\geq 1\})=\{z\in{\mathbb{C}}:|z|&gt;1\}.}
+docID=19591 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05037.html
 {\displaystyle D=U\cup\left\{z\in H:\left|z\right|\geq 1,\,{\mbox{Re}}(z)={%&#10;\frac{-1}{2}}\right\}\cup\left\{z\in H:\left|z\right|=1,\,{\frac{-1}{2}}&lt;{%&#10;\mbox{Re}}(z)\leq 0\right\}.}
+docID=11948 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08917.html
 {\displaystyle D=U\cup\left\{z\in H:\left|z\right|\geq 1,\,{\mbox{Re}}(z)=-{%&#10;\tfrac{1}{2}}\right\}\cup\left\{z\in H:\left|z\right|=1,\,{\mbox{Re}}(z)\leq 0%&#10;\right\}.}
+docID=12868 position=105
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03211.html
 {\displaystyle e\in E,|e|&gt;1,}
+docID=2247 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/18004.html
 {\displaystyle{\mathbb{D}}=\{z\in{\mathbb{C}}:|z|&lt;1\}}
+docID=5326 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00907.html
 {\displaystyle D=\{z\in{\mathbf{C}}:|z|&lt;1\}.}
+docID=14590 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05292.html
 {\displaystyle{\mathbb{T}}=\{z\in{\mathbb{C}}:|z|=1\}.}
+docID=5451 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23729.html
 {\displaystyle\{z\in D:|f_{j}(z)|&lt;1,1\leq j\leq N\}\,}
+docID=17911 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/12828.html
 {\displaystyle{\mathrm{F}}=\left\{\tau\in{\mathrm{H}}:\left|\operatorname{Re}%&#10;\tau\right|\leq{\frac{1}{2}},\left|\tau\right|\geq 1\right\}}
+docID=20601 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16879.html
 {\displaystyle S^{{1}}:=\{e^{{i\theta}}:\theta\in[0,2\pi]\}=\{z\in{\mathbb{C}}%&#10;:|z|=1\}}
+docID=16531 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05643.html
 {\displaystyle D_{x}=\{z\in{\mathbb{C}}:\left|z\right|\leq\|x\|\},}
+docID=18826 position=62
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00710.html
 {\displaystyle|q(T_{w})(\Pi_{j}(x))|&lt;{\frac{1}{2}}}
+docID=1083 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01616.html
 {\displaystyle{\tfrac{1}{2}}|z^{n}|&lt;|p(z)|&lt;{\tfrac{3}{2}}|z^{n}|}
+docID=5451 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23729.html
 {\displaystyle\sigma_{j}=\{z\in D:|f_{j}(z)|=1\},1\leq j\leq N.}
+docID=17185 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05307.html
 {\displaystyle\left\{z=(z_{1},z_{2},\dots,z_{n})\in{\mathbf{C}}^{n}\ :\ |z_{i}%&#10;|&lt;1,{\mbox{ for all }}i=1,\dots,n\right\}.}
+docID=13172 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23730.html
 {\displaystyle\{(z,w)\in{\mathbf{C}}^{2};~{}|z|&lt;1,~{}|w|&lt;1\}}
+docID=12631 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17998.html
 {\displaystyle\left\{\lambda\in{\mathbf{C}}:|{\mathrm{arg}}(\lambda-\omega)|&lt;{%&#10;\frac{\pi}{2}}+\delta\right\}}
+docID=8888 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15827.html
 {\displaystyle|\mu(x)|&lt;{\frac{1}{x^{c}}}.}
+docID=26357 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24017.html
 {\displaystyle|\Gamma(A)|&lt;{\frac{2^{{k}}}{e}},}
+docID=8888 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15827.html
 {\displaystyle|\mu(x)|&lt;{\frac{1}{{\text{poly}}(x)}}.}
+docID=11766 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22151.html
 {\displaystyle|f(x)-f(y)|&lt;{1\over n}}
+docID=20993 position=62
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09995.html
 {\displaystyle\{z\in{\mathbb{C}}||\phi(z)|&gt;{\mathrm{e}}^{z}\}}
+docID=4743 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/08060.html
 {\displaystyle|t|&lt;{\frac{1}{2}}}

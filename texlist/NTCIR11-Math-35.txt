@@ -1,30 +1,90 @@
+docID=5949 position=34
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05626.html
 {\displaystyle={\frac{k}{n}}.}
+docID=27738 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10051.html
 {\displaystyle r={\frac{k}{T}}.}
+docID=13261 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05957.html
 {\displaystyle y={k\over x}.}
+docID=218 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/09065.html
 {\displaystyle s={\frac{p}{n}}.}
+docID=305 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07034.html
 {\displaystyle p={\frac{x}{n}}.}
+docID=6186 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00379.html
 {\displaystyle f={\frac{c}{\lambda}}.}
+docID=26972 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00887.html
 {\displaystyle I={\frac{V}{R}}.}
+docID=18766 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02523.html
 {\displaystyle L={\frac{Q}{m}}.}
+docID=19040 position=12
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01930.html
 {\displaystyle{\alpha}={\frac{\tau}{I}}.}
+docID=13261 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05957.html
 {\displaystyle v={d\over t}.}
+docID=11122 position=75
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24578.html
 {\displaystyle v={\frac{\omega}{\beta}}.}
+docID=24629 position=34
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07996.html
 {\displaystyle e={\frac{a}{d}}.}
+docID=17160 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00571.html
 {\displaystyle x={\frac{b}{a}}.}
+docID=23794 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02275.html
 {\displaystyle C={\frac{q}{V}}.}
+docID=19097 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/17334.html
 {\displaystyle V={\frac{W}{Y}}.}
+docID=26575 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07084.html
 {\displaystyle S={\frac{A}{L}}.}
+docID=22596 position=126
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01227.html
 {\displaystyle r={\frac{T}{\tau}}.}
+docID=16015 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22981.html
 {\displaystyle\lambda={\frac{h}{p}}.}
+docID=20342 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03603.html
 {\displaystyle\lambda={\frac{h}{p}}.}
+docID=14433 position=66
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07137.html
 {\displaystyle k={\frac{r}{R}}.}
+docID=314 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03192.html
 {\displaystyle\beta={v\over c}\,.}
+docID=25083 position=6
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11133.html
 {\displaystyle p={\frac{h}{\lambda}}.}
+docID=2480 position=78
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/21588.html
 {\displaystyle q={\frac{\alpha}{\beta}}.}
+docID=13261 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05957.html
 {\displaystyle k={y\over x}.}
+docID=17314 position=28
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/11328.html
 {\displaystyle{\mathbf{n}}={{\mathbf{k}}\over k}.}
+docID=6186 position=2
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00379.html
 {\displaystyle f={\frac{v}{\lambda}}.}
+docID=21095 position=40
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24009.html
 {\displaystyle c={\frac{\lambda}{\tau}}.}
+docID=27571 position=78
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00892.html
 {\displaystyle p={\frac{E}{nc}}.}
+docID=28600 position=7
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07940.html
 {\displaystyle\scriptstyle f={\frac{k}{NT}}.}
+docID=6145 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22630.html
 {\displaystyle w_{i}={\frac{\pi}{n}}.}

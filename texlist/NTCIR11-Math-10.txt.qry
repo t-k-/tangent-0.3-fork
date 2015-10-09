@@ -1,31 +1,91 @@
-=z*xleq y
+\text{query}: \qquad z*x\leq y
+docID=26267 position=38
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16784.html
 {\displaystyle z*x\leq y}
+docID=26267 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16784.html
 {\displaystyle(x\Rightarrow y)=\sup\{z\mid z*x\leq y\}.}
+docID=14528 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/18080.html
 {\displaystyle(x\Rightarrow y)=\sup\{z\mid z*x\leq y\}.}
+docID=15002 position=117
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03331.html
 {\displaystyle\{x\in E\mid x\leq y\}}
+docID=26267 position=5
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/16784.html
 {\displaystyle x*(x\Rightarrow y)\leq y.}
+docID=14528 position=15
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/18080.html
 {\displaystyle x*(x\Rightarrow y)\leq y.}
+docID=2268 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23919.html
 {\displaystyle x\leq y}
+docID=6545 position=4
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03738.html
 {\displaystyle x\leq y}
+docID=7389 position=1
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00776.html
 {\displaystyle x\leq y}
+docID=10852 position=17
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/24546.html
 {\displaystyle x\leq y}
+docID=11530 position=14
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/05220.html
 {\displaystyle x\leq y}
+docID=25348 position=10
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/22024.html
 {\displaystyle x\leq y\ }
+docID=16863 position=27
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/15132.html
 {\displaystyle x\leq y}
+docID=7506 position=8
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/23321.html
 {\displaystyle x\leq y}
+docID=14290 position=44
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/07275.html
 {\displaystyle x\leq y}
+docID=18351 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06554.html
 {\displaystyle x\leq y}
+docID=23782 position=22
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/04234.html
 {\displaystyle x\leq y}
+docID=11237 position=9
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10665.html
 {\displaystyle x\leq y}
+docID=24259 position=38
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/19480.html
 {\displaystyle x\leq y}
+docID=14486 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01530.html
 {\displaystyle x\leq y}
+docID=8439 position=739
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00600.html
 {\displaystyle x\leq y}
+docID=14711 position=25
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/10008.html
 {\displaystyle x\leq y}
+docID=14108 position=68
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/14990.html
 {\displaystyle x\leq y}
+docID=9959 position=81
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/03813.html
 {\displaystyle x\leq y}
+docID=14345 position=44
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/06451.html
 {\displaystyle x\leq y}
+docID=29683 position=21
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01019.html
 {\displaystyle x\leq y}
+docID=870 position=46
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/02130.html
 {\displaystyle x\leq y}
+docID=7121 position=59
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/01620.html
 {\displaystyle x\leq y}
+docID=14528 position=3
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/18080.html
 {\displaystyle x\leq y}
+docID=17890 position=0
+/home/tk/Downloads/NTCIR-12-math-wiki/v3/00773.html
 {\displaystyle x\leq y}
